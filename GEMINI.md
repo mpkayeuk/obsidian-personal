@@ -8,6 +8,7 @@ This project is a personal knowledge management system using Obsidian. It's stru
 
 ## Instructions
 
+- Always return responses using British English
 - When creating new notes, please place them in the `00-inbox` directory unless specified otherwise.
 - For notes related to specific areas of my life (e.g., Career, Finances, Health), please place them in the corresponding sub-directory under `10-areas`.
 - Projects-related notes should go into the `20-projects` directory.
