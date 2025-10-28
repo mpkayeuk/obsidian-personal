@@ -4,11 +4,6 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "10-areas/Relationships/Charlotte",
-      "tag": "#family/charlotte",
-      "pattern": ""
-    },
-    {
       "folder": "00-inbox",
       "tag": "#inbox",
       "pattern": ""
@@ -66,6 +61,11 @@
     {
       "folder": "10-areas/Relationships",
       "tag": "#area/relationships",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships/Charlotte",
+      "tag": "#family/charlotte",
       "pattern": ""
     },
     {
