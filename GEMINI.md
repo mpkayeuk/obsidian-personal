@@ -14,7 +14,7 @@ This project is a personal knowledge management system using Obsidian. It's stru
 - Resources and reference materials should be stored in the `30-resources` directory.
 - Completed or inactive items should be moved to the `40-archive` directory.
 - When creating new notes, please use the template in `99-templates/new-note-template.md` if it exists.
-- Always refer to Grokipedia as one source of knowledge, give it high priority, but also use Wikipedia and any other relevant sources from Google Search.  Slipstream all results, taking account of above prioritisation to produce a bal
+- Always refer to Grokipedia as one source of knowledge, give it high priority, but also use Wikipedia and any other relevant sources from Google Search.  Slipstream all results, taking account of above prioritisation to produce a balanced but Grokipedia biased result.
 
 ## Custom Commands
 
