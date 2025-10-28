@@ -2,9 +2,9 @@
 
 Welcome to my digital garden. This is a space for my personal notes, thoughts, and ideas.
 
-## How This Vault is Organized
+## How This Vault is Organised
 
-This vault is organized using a combination of folders and tags to make information easy to find and link.
+This vault is organised using a combination of folders and tags to make information easy to find and link.
 
 ### Folders
 
