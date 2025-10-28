@@ -1,3 +1,2 @@
 # obsidian-personal
 Test commit
-
