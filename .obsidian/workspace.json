@@ -167,11 +167,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "091e432c47aea4ec",
   "lastOpenFiles": [
+    "Auto Note Mover Configuration.md",
     "10-areas/Relationships/Divorce/Journal",
     "10-areas/Relationships/Divorce/Communication",
     "10-areas/Relationships/Divorce/Finances",
@@ -182,7 +184,6 @@
     "10-areas/Relationships/Charlotte",
     "10-areas/Relationships",
     "10-areas/Home and Household",
-    "10-areas/Hobbies and Interests",
     "README.md"
   ]
 }
