@@ -26,7 +26,13 @@ A successful ASHP installation is crucial for its efficient operation. Here are 
 
 ### Outdoor Unit Placement
 
-*   **Airflow:** The outdoor unit needs plenty of space around it for good airflow. It should be installed away from walls, fences, and vegetation.
+*   **Airflow:** The outdoor unit needs plenty of space around it for good airflow. Blocked or restricted airflow will reduce efficiency and performance. While specific clearances can vary by manufacturer and model, general guidelines are as follows:
+    *   **Front:** At least 1 meter of clear space in front of the unit for unrestricted airflow.
+    *   **Sides:** At least 50cm of clear space on either side of the unit.
+    *   **Rear:** At least 30cm of clear space behind the unit.
+    *   **Above:** The unit should be clear of any overhanging obstructions.
+
+    **It is crucial to consult the manufacturer's installation manual for the specific clearance requirements for your chosen ASHP model.**
 *   **Noise:** While modern ASHPs are quiet, it's best to locate the outdoor unit away from bedrooms and neighboring properties.
 *   **Drainage:** The unit produces condensate, so it needs to be installed where the water can drain away freely.
 
