@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f67832fc8b7d8566",
+        "id": "faa478b67a86e376",
         "type": "tabs",
         "children": [
           {
-            "id": "6e7d664522463ed0",
+            "id": "983d6268e6dd2e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,10 +171,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e7d664522463ed0",
+  "active": "983d6268e6dd2e02",
   "lastOpenFiles": [
-    "00-inbox/Auto Note Mover Configuration.md",
     "10-areas/Relationships/Charlotte/Testing 1,2,3.md",
+    "00-inbox/Auto Note Mover Configuration.md",
     "README.md",
     "10-areas/Relationships/Divorce/Journal",
     "10-areas/Relationships/Divorce/Communication",

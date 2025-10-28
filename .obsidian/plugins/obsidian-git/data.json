@@ -1,7 +1,7 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
-  "commitMessageScript": "",
+  "commitMessageScript": "#!/usr/bin/env bash  # === CONFIGURATION === VAULT_PATH=\"$HOME/Documents/ObsidianVault\"   # Path to your Obsidian vault GEMINI_MODEL=\"gemini-2.5-pro\"              # or gemini-1.5-pro for higher quality summaries  # === EXECUTION === cd \"$VAULT_PATH\" || { echo \"Vault not found\"; exit 1; }  # Detect changes CHANGES=$(git diff --name-only HEAD)  if [ -z \"$CHANGES\" ]; then   echo \"No changes to commit.\"   exit 0 fi  # Prepare diff summary (limit output for brevity) DIFF_SUMMARY=$(git diff --stat)  # Prompt Gemini CLI for a concise commit message AI_SUMMARY=$(gemini \"$GEMINI_MODEL\" --prompt \\ \"Write a short, professional Git commit message (max 15 words) summarising the following changes to Markdown notes:  Changed files: $CHANGES  Diff summary: $DIFF_SUMMARY \" 2>/dev/null)  # Fallback if Gemini returns nothing if [ -z \"$AI_SUMMARY\" ]; then   AI_SUMMARY=\"Update notes\" fi  # Format commit message COMMIT_MSG=\"vault: $(date +'%Y-%m-%d %H:%M') — $AI_SUMMARY\"  # Run Git commit and push git add . git commit -m \"$COMMIT_MSG\" git push  echo \"✅ Committed with message:\" echo \"$COMMIT_MSG\"",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
