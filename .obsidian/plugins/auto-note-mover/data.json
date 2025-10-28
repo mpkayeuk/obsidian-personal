@@ -7,6 +7,96 @@
       "folder": "10-areas/Relationships/Charlotte",
       "tag": "#family/charlotte",
       "pattern": ""
+    },
+    {
+      "folder": "00-inbox",
+      "tag": "#inbox",
+      "pattern": ""
+    },
+    {
+      "folder": "20-projects",
+      "tag": "#project",
+      "pattern": ""
+    },
+    {
+      "folder": "30-resources",
+      "tag": "#resource",
+      "pattern": ""
+    },
+    {
+      "folder": "40-archive",
+      "tag": "#archive",
+      "pattern": ""
+    },
+    {
+      "folder": "99-templates",
+      "tag": "#template",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Health and Fitness",
+      "tag": "#area/health",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Finances",
+      "tag": "#area/finances",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Career and Work",
+      "tag": "#area/career",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Personal Growth",
+      "tag": "#area/growth",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Hobbies and Interests",
+      "tag": "#area/hobbies",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Home and Household",
+      "tag": "#area/home",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships",
+      "tag": "#area/relationships",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships/Lenny",
+      "tag": "#family/lenny",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships/Divorce/Legal",
+      "tag": "#divorce/legal",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships/Divorce/Custody",
+      "tag": "#divorce/custody",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships/Divorce/Finances",
+      "tag": "#divorce/finances",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships/Divorce/Communication",
+      "tag": "#divorce/communication",
+      "pattern": ""
+    },
+    {
+      "folder": "10-areas/Relationships/Divorce/Journal",
+      "tag": "#divorce/journal",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
