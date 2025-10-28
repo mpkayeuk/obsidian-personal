@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-areas/Personal Growth/Personal Growth Plan.md",
+                "file": "10-areas/Home and Household/ECO4/ECO4 Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Growth Plan"
+              "title": "ECO4 Summary"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "983d6268e6dd2e02",
   "lastOpenFiles": [
-    "10-areas/Relationships/Charlotte/Testing 1,2,3.md",
     "10-areas/Personal Growth/Personal Growth Plan.md",
+    "10-areas/Home and Household/ECO4/ECO4 Summary.md",
+    "10-areas/Home and Household/ECO4",
+    "10-areas/Relationships/Charlotte/Testing 1,2,3.md",
     "00-inbox/Auto Note Mover Configuration.md",
     "README.md",
     "10-areas/Relationships/Divorce/Journal",
@@ -185,7 +187,6 @@
     "10-areas/Relationships/Divorce",
     "10-areas/Relationships/Lenny",
     "10-areas/Relationships/Charlotte",
-    "10-areas/Relationships",
-    "10-areas/Home and Household"
+    "10-areas/Relationships"
   ]
 }
