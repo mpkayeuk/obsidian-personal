@@ -22,12 +22,13 @@
     *   **Context Roots:** The build process will generate a page for each CV file. The `generic.md` will be rendered at the `/cv` route, and tailored CVs will have their own routes based on their filenames (e.g., `cv/job-x.md` becomes `/cv/job-x`).
 
 ### 1.2. PDF Generation Architecture
-*   **Decision:** Use a headless browser-based tool like Puppeteer to generate PDFs from the HTML CV pages at build time.
-*   **Reasoning:** This method ensures that the PDF is a pixel-perfect representation of the web page, including all styling. Using a headless browser allows for the execution of JavaScript and the application of CSS, resulting in a high-quality, consistent output.
+*   **Decision:** Use a GitHub Actions workflow to generate PDFs from the HTML CV pages at build time.
+*   **Reasoning:** This approach provides full control over the build environment, allowing the use of the standard Puppeteer library without any compromises. It also separates the PDF generation process from the Vercel deployment.
 *   **Components:**
-    *   **PDF Generation Script:** A script that uses Puppeteer to launch a headless browser, navigate to each CV page (generic and tailored), and generate a PDF.
-    *   **Print-Specific CSS:** A separate CSS file (`print.css`) will be created to style the CV for printing. This will include rules to hide unnecessary elements like navigation and footers, and to optimize the layout for a standard A4 page.
-    *   **PDF Storage:** The generated PDFs will be saved to the `public/cv/` directory, so they can be easily linked from the corresponding CV pages.
+    *   **GitHub Actions Workflow:** A workflow that is triggered on pushes to the main branch. This workflow will build the Next.js application, and then run a script to generate the PDFs.
+    *   **PDF Generation Script:** A script that uses the standard Puppeteer library to launch a headless browser, navigate to each CV page, and generate a PDF.
+    *   **Print-Specific CSS:** A separate CSS file (`print.css`) will be created to style the CV for printing.
+    *   **PDF Storage:** The generated PDFs will be committed to the `public/cv/` directory in the Git repository.
 
 ## 2. System Design - Frontend
 
@@ -63,19 +64,19 @@
 
 ## 5. CI/CD Pipeline
 
-**Decision:** Vercel's native CI/CD integration with GitHub.
+**Decision:** A combination of GitHub Actions for PDF generation and Vercel for deployment.
 
-**Reasoning:** Vercel's native CI/CD is deeply integrated with GitHub and Next.js, providing a zero-configuration, high-performance pipeline. It automatically builds and deploys the application on every push to the main branch and creates preview deployments for pull requests.
+**Reasoning:** This approach provides a robust and flexible CI/CD pipeline. GitHub Actions is used for the PDF generation, which requires a specific environment, while Vercel is used for its seamless and highly optimized deployment of Next.js applications.
 
-**Key Pipeline Stages (managed by Vercel):**
-*   **Build:**
-    *   Install frontend dependencies.
-    *   Build the Next.js application.
-    *   **Parse and Render CVs:** The Next.js build process will automatically handle this.
-    *   **Generate PDFs:** A custom script will be added to the Next.js build process to generate the PDFs.
-*   **Deploy:**
-    *   Vercel automatically deploys the built application to its global CDN.
-    *   The deployment is atomic, ensuring that there is no downtime.
+**Key Pipeline Stages:**
+*   **GitHub Actions Workflow (PDF Generation):**
+    *   **Trigger:** On push to the `main` branch.
+    *   **Build:** Install dependencies and build the Next.js application (`npm run build`).
+    *   **Generate PDFs:** Run a script to generate PDF versions of each CV page using Puppeteer.
+    *   **Commit PDFs:** Commit the generated PDFs to the `public/cv/` directory.
+*   **Vercel Deployment:**
+    *   **Trigger:** On push to the `main` branch (after the GitHub Actions workflow has completed and pushed the new commit).
+    *   **Deploy:** Vercel automatically detects the new commit and deploys the application, including the pre-generated PDFs, to its global CDN.
 
 ## 6. Monitoring & Observability
 
