@@ -47,16 +47,16 @@ To create comprehensive documentation for all aspects of the personal portfolio 
     *   **Dashboards:** Describe the purpose of each dashboard.
     *   **Alerts:** Document alerting thresholds, notification channels, and escalation procedures.
 
-### 10.6. SRE Principles Documentation
+### 10.7. SRE Principles Documentation
 *   **Action:** Document the defined SLOs, SLIs, and error budget.
 *   **Consideration:** Explain how these are tracked and used for decision-making.
 
-### 10.7. Security Documentation
+### 10.8. Security Documentation
 *   **Action:** Document the security measures implemented.
 *   **Consideration:**
     *   **Security Controls:** List implemented security controls (e.g., HTTPS, CSP).
     *   **Vulnerability Management:** Describe the process for identifying and addressing vulnerabilities.
 
-### 10.8. Project Log/Changelog
+### 10.9. Project Log/Changelog
 *   **Action:** Maintain a log of significant project changes, decisions, and milestones.
 *   **Consideration:** Can be integrated with Git commit history or a separate `CHANGELOG.md`.

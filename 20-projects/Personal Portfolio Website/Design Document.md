@@ -11,6 +11,9 @@ This document outlines the high-level design and links to detailed design specif
 0.  [**User Requirements**](0.%20User%20Requirements/User%20Requirements.md)
     *   This foundational document defines the functional and non-functional requirements for the website from the user's perspective, guiding all subsequent design and development efforts.
 
+0.1. [**CV Data Format**](0.1.%20CV%20Data%20Format/CV%20Data%20Format.md)
+    *   Defines the structured Markdown format for CV data, based on the JSON Resume schema, enabling dynamic rendering of generic and tailored CVs.
+
 1.  [**Define Content & Structure**](1.%20Define%20Content%20&%20Structure/Define%20Content%20&%20Structure.md)
     *   This phase focuses on determining the core message, target audience, and overall layout of the website. It involves outlining the key sections and gathering the necessary content.
 

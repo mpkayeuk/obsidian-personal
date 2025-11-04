@@ -8,10 +8,20 @@ To define the functional and non-functional requirements for the personal portfo
 ### FR 0.1.1. Profile Display
 *   The website MUST display a comprehensive "About Me" section, including professional summary, career aspirations, and a professional photo.
 
-### FR 0.1.2. Experience Showcase
+### FR 0.1.2. CV Data Parsing
+*   The website MUST be able to parse CV data from a structured Markdown format (as defined in `0.1. CV Data Format/CV Data Format.md`).
+
+### FR 0.1.3. Generic CV Rendering
+*   The website MUST render a generic version of the CV at the root context (`/`).
+
+### FR 0.1.4. Tailored CV Rendering
+*   The website MUST be able to render tailored versions of the CV at specified context roots (e.g., `/job-x-cv`), based on metadata within the CV Markdown file.
+*   The tailoring mechanism MUST allow for inclusion/exclusion of sections, skills, or work experience highlights based on job-specific criteria.
+
+### FR 0.1.5. Experience Showcase
 *   The website MUST present detailed professional experience, including roles, responsibilities, and quantifiable achievements.
 
-### FR 0.1.3. Project Portfolio
+### FR 0.1.6. Project Portfolio
 *   The website MUST showcase a portfolio of projects, with a strong emphasis on DevOps, SRE, Monitoring, and IaC implementations. 
 *   Each project entry MUST include:
     *   Project title and brief description.
@@ -22,13 +32,13 @@ To define the functional and non-functional requirements for the personal portfo
     *   Links to live demos or detailed write-ups (e.g., blog posts).
     *   Diagrams or screenshots illustrating architecture and key components.
 
-### FR 0.1.4. Skills Matrix
+### FR 0.1.7. Skills Matrix
 *   The website MUST clearly list technical skills, categorized by domain (e.g., Cloud Platforms, IaC Tools, CI/CD, Monitoring, Languages).
 
-### FR 0.1.5. Contact Information
+### FR 0.1.8. Contact Information
 *   The website MUST provide clear ways for users to contact me (e.g., email, LinkedIn profile link).
 
-### FR 0.1.6. Blog/Articles (Optional)
+### FR 0.1.9. Blog/Articles (Optional)
 *   The website SHOULD provide a section for blog posts or articles where I can share insights, tutorials, or case studies related to DevOps/SRE.
 
 ## 0.2. Non-Functional Requirements

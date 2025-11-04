@@ -12,6 +12,15 @@
 *   **DNS:** Custom domain management.
 *   **Optional Serverless Functions:** For dynamic functionalities like a contact form submission or fetching project data from a simple API.
 
+### 1.1. CV Rendering Architecture
+*   **Decision:** Build-time generation of CVs (generic and tailored) from Markdown data.
+*   **Reasoning:** This approach leverages the static site generation capabilities, ensuring high performance, security, and scalability. Tailored CVs will be pre-generated at build time and deployed as static assets.
+*   **Components:**
+    *   **Markdown CV Files:** Stored in the repository.
+    *   **CV Parser:** A build-time script/tool to parse Markdown CV files into structured data (e.g., JSON).
+    *   **CV Renderer:** A build-time component that takes the parsed CV data and renders it into HTML pages, applying tailoring logic based on metadata.
+    *   **Context Roots:** Tailored CVs will be deployed to specific sub-paths (e.g., `/job-x-cv/index.html`).
+
 ## 2. System Design - Frontend
 
 **Decision:** Next.js (Static Export) with Tailwind CSS.
@@ -21,6 +30,7 @@
 **Structure:**
 *   Component-based architecture for reusability and maintainability.
 *   Clear separation of concerns (e.g., UI components, data fetching logic).
+*   **CV Rendering:** Implement components to parse Markdown CV files (using a library like `gray-matter` for frontmatter and `remark` for Markdown parsing) and render them into structured HTML, applying tailoring logic based on frontmatter metadata.
 
 ## 3. System Design - Backend (Optional/Minimal)
 
@@ -55,6 +65,7 @@
 *   **Build:**
     *   Install frontend dependencies (`npm install`).
     *   Build static assets (`npm run build` for Next.js static export).
+    *   **Parse and Render CVs:** Execute a build script to parse Markdown CV files and generate static HTML files for generic and tailored CVs.
 *   **Test:**
     *   Run unit tests (e.g., Jest).
     *   Run linting and static analysis (e.g., ESLint, Prettier).
@@ -66,6 +77,7 @@
     *   Execute `terraform apply` to provision/update infrastructure.
     *   Synchronize static assets to S3 bucket (`aws s3 sync`).
     *   Invalidate CloudFront cache (`aws cloudfront create-invalidation`) to ensure new content is served.
+*   **Deploy CVs:** Ensure generated CV HTML files are included in the S3 sync and CloudFront invalidation.
 
 ## 6. Monitoring & Observability
 

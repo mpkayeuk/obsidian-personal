@@ -1,7 +1,7 @@
 # Define Content & Structure
 
 ## Goal
-To clearly define the purpose, target audience, key messages, and overall structure of the personal portfolio website. This ensures that the website effectively showcases the desired skills and experience.
+To clearly define the purpose, target audience, key messages, and overall structure of the personal portfolio website, **guided by the User Requirements document**. This ensures that the website effectively showcases the desired skills and experience.
 
 ## Detailed Design Steps
 
