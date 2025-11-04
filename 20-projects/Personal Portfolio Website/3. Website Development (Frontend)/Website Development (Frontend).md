@@ -50,3 +50,10 @@ To implement the user interface of the personal portfolio website, ensuring it i
     *   **CV Parser:** Implement a function that uses `gray-matter` to parse the YAML frontmatter and `remark` to convert the Markdown content of a CV file into an HTML string. This function will be used in `getStaticProps` to fetch and process the CV data at build time.
     *   **CV React Component:** Create a React component that takes the parsed CV data (frontmatter and content) as props and renders it into a structured and styled HTML page.
     *   **Tailoring Logic:** The CV rendering component will use the `frontmatter` data to apply tailoring logic. For example, it will conditionally render sections, skills, or work highlights based on the `include_` and `exclude_` fields in the frontmatter.
+
+### 3.9. PDF Download and Print Functionality
+*   **Action:** Add a download link for the PDF version of the CV and a button to trigger the browser's print functionality.
+*   **Implementation Details:**
+    *   **Download Button:** In the CV React component, add a download button that links to the pre-generated PDF file. The path to the PDF will be derived from the CV's slug (e.g., `/cv/job-x.pdf`).
+    *   **Print Button:** Add a print button that, when clicked, calls the `window.print()` method to open the browser's print dialog.
+    *   **Print-Specific CSS:** Create a `print.css` file that will be included in the application. This file will contain styles that are only applied when printing, ensuring that the printed CV is well-formatted and does not include unnecessary elements like the website header or footer.

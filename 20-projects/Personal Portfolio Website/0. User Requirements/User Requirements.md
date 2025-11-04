@@ -12,10 +12,10 @@ To define the functional and non-functional requirements for the personal portfo
 *   The website MUST be able to parse CV data from a structured Markdown format (as defined in `0.1. CV Data Format/CV Data Format.md`).
 
 ### FR 0.1.3. Generic CV Rendering
-*   The website MUST render a generic version of the CV at the root context (`/`).
+*   The website MUST render a generic version of the CV at the `/cv` route.
 
 ### FR 0.1.4. Tailored CV Rendering
-*   The website MUST be able to render tailored versions of the CV at specified context roots (e.g., `/job-x-cv`), based on metadata within the CV Markdown file.
+*   The website MUST be able to render tailored versions of the CV at specified context roots based on their filename (e.g., `/cv/job-x`), based on metadata within the CV Markdown file.
 *   The tailoring mechanism MUST allow for inclusion/exclusion of sections, skills, or work experience highlights based on job-specific criteria.
 
 ### FR 0.1.5. Experience Showcase
@@ -40,6 +40,12 @@ To define the functional and non-functional requirements for the personal portfo
 
 ### FR 0.1.9. Blog/Articles (Optional)
 *   The website SHOULD provide a section for blog posts or articles where I can share insights, tutorials, or case studies related to DevOps/SRE.
+
+### FR 0.1.10. CV PDF Generation and Printing
+*   Each CV page (both generic and tailored) MUST include a prominent download link for a PDF version of the CV.
+*   The PDF version MUST be a high-quality, printable representation of the HTML CV.
+*   The PDFs for all CVs MUST be generated at build time during the CI/CD process.
+*   Each CV page MUST include a print button that allows users to print the CV directly from their browser, using the same print-friendly styling as the PDF.
 
 ## 0.2. Non-Functional Requirements
 

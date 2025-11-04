@@ -21,6 +21,14 @@
     *   **CV Renderer:** A React component in the Next.js application that takes the parsed CV data and renders it into an HTML page. This component will apply tailoring logic based on the frontmatter of each CV file.
     *   **Context Roots:** The build process will generate a page for each CV file. The `generic.md` will be rendered at the `/cv` route, and tailored CVs will have their own routes based on their filenames (e.g., `cv/job-x.md` becomes `/cv/job-x`).
 
+### 1.2. PDF Generation Architecture
+*   **Decision:** Use a headless browser-based tool like Puppeteer to generate PDFs from the HTML CV pages at build time.
+*   **Reasoning:** This method ensures that the PDF is a pixel-perfect representation of the web page, including all styling. Using a headless browser allows for the execution of JavaScript and the application of CSS, resulting in a high-quality, consistent output.
+*   **Components:**
+    *   **PDF Generation Script:** A script that uses Puppeteer to launch a headless browser, navigate to each CV page (generic and tailored), and generate a PDF.
+    *   **Print-Specific CSS:** A separate CSS file (`print.css`) will be created to style the CV for printing. This will include rules to hide unnecessary elements like navigation and footers, and to optimize the layout for a standard A4 page.
+    *   **PDF Storage:** The generated PDFs will be saved to the `public/cv/` directory, so they can be easily linked from the corresponding CV pages.
+
 ## 2. System Design - Frontend
 
 **Decision:** Next.js (Static Export) with Tailwind CSS.
@@ -66,6 +74,7 @@
     *   Install frontend dependencies (`npm install`).
     *   **Parse and Render CVs:** The Next.js build process (`npm run build`) will automatically parse the Markdown files in the `cv/` directory and generate static HTML pages for each CV.
     *   Build static assets for the entire site.
+    *   **Generate PDFs:** After the site is built, a script will be run to generate PDF versions of each CV page using a headless browser.
 *   **Test:**
     *   Run unit tests (e.g., Jest) for the CV rendering components.
     *   Run linting and static analysis (e.g., ESLint, Prettier).
@@ -75,7 +84,7 @@
     *   Require manual approval for `terraform apply` on production environments.
 *   **Deploy:**
     *   Execute `terraform apply` to provision/update infrastructure.
-    *   Synchronize all static assets, including the generated CV pages, to the S3 bucket (`aws s3 sync`).
+    *   Synchronize all static assets, including the generated CV pages and PDFs, to the S3 bucket (`aws s3 sync`).
     *   Invalidate the CloudFront cache (`aws cloudfront create-invalidation`) to ensure the new content is served.
 
 ## 6. Monitoring & Observability

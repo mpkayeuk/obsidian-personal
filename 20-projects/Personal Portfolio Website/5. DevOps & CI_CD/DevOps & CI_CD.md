@@ -19,10 +19,11 @@ To establish automated pipelines for building, testing, and deploying the person
 *   **Consideration:**
     *   **Trigger:** On every push to a feature branch or pull request.
     *   **Build:** Compile frontend assets (e.g., `npm run build`, `hugo`).
+    *   **Generate PDFs:** After the frontend assets are built, run a script to generate PDF versions of all CVs using a headless browser.
     *   **Linting/Static Analysis:** Run code quality checks (e.g., ESLint, Prettier, linters for IaC).
     *   **Unit Tests:** Execute unit tests for application code.
     *   **Integration Tests:** Run tests that verify interactions between components.
-    *   **Artifact Creation:** Package the built website (e.g., a `.zip` file, Docker image if applicable).
+    *   **Artifact Creation:** Package the built website and generated PDFs (e.g., a `.zip` file, Docker image if applicable).
 
 ### 5.3. Define CD Pipeline (Continuous Delivery/Deployment)
 *   **Action:** Design the steps for the continuous delivery/deployment process.
