@@ -8,6 +8,9 @@ This document outlines the high-level design and links to detailed design specif
 
 ### Design Phases:
 
+0.  [**User Requirements**](0.%20User%20Requirements/User%20Requirements.md)
+    *   This foundational document defines the functional and non-functional requirements for the website from the user's perspective, guiding all subsequent design and development efforts.
+
 1.  [**Define Content & Structure**](1.%20Define%20Content%20&%20Structure/Define%20Content%20&%20Structure.md)
     *   This phase focuses on determining the core message, target audience, and overall layout of the website. It involves outlining the key sections and gathering the necessary content.
 

@@ -5,7 +5,11 @@ To create comprehensive documentation for all aspects of the personal portfolio 
 
 ## Detailed Design Steps
 
-### 10.1. Project README
+### 10.1. User Requirements Documentation
+*   **Action:** Document the functional and non-functional user requirements.
+*   **Consideration:** This document serves as the source of truth for what the website needs to achieve from a user perspective.
+
+### 10.2. Project README
 *   **Action:** Create a `README.md` file at the root of the project repository.
 *   **Consideration:**
     *   **Project Overview:** Brief description of the website and its purpose.
@@ -14,13 +18,13 @@ To create comprehensive documentation for all aspects of the personal portfolio 
     *   **Technologies Used:** List of key technologies and tools.
     *   **Contribution Guidelines (if applicable):** How others can contribute.
 
-### 10.2. Architecture Documentation
+### 10.3. Architecture Documentation
 *   **Action:** Document the overall architecture of the website, including frontend, backend (if any), and cloud infrastructure.
 *   **Consideration:**
     *   **Diagrams:** Use architecture diagrams (e.g., C4 model, AWS/GCP architecture icons) to visualize components and their interactions.
     *   **Technology Choices:** Justify key technology decisions.
 
-### 10.3. IaC Documentation
+### 10.4. IaC Documentation
 *   **Action:** Document the Infrastructure as Code configurations.
 *   **Consideration:**
     *   **Resource Definitions:** Explain the purpose of each infrastructure resource.
@@ -28,7 +32,7 @@ To create comprehensive documentation for all aspects of the personal portfolio 
     *   **Outputs:** Document output values from IaC deployments.
     *   **State Management:** Explain how IaC state is managed.
 
-### 10.4. CI/CD Pipeline Documentation
+### 10.5. CI/CD Pipeline Documentation
 *   **Action:** Document the CI/CD pipeline workflows and steps.
 *   **Consideration:**
     *   **Pipeline Stages:** Explain each stage (build, test, deploy).
@@ -36,7 +40,7 @@ To create comprehensive documentation for all aspects of the personal portfolio 
     *   **Environment Variables:** Document any environment variables used.
     *   **Troubleshooting:** Common issues and their resolutions.
 
-### 10.5. Monitoring & Alerting Documentation
+### 10.6. Monitoring & Alerting Documentation
 *   **Action:** Document the monitoring setup, dashboards, and alerting rules.
 *   **Consideration:**
     *   **Metrics:** Explain what metrics are collected and why.

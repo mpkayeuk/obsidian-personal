@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-projects/Personal Portfolio Website/Technical Design Document.md",
+                "file": "20-projects/Personal Portfolio Website/0. User Requirements/User Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical Design Document"
+              "title": "User Requirements"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-projects/Personal Portfolio Website/Technical Design Document.md",
+                "file": "20-projects/Personal Portfolio Website/0. User Requirements/User Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technical Design Document"
+              "title": "Backlinks for User Requirements"
             }
           },
           {
@@ -173,8 +173,10 @@
   },
   "active": "983d6268e6dd2e02",
   "lastOpenFiles": [
-    "20-projects/Personal Portfolio Website/3. Website Development (Frontend)/Website Development (Frontend).md",
     "20-projects/Personal Portfolio Website/Technical Design Document.md",
+    "20-projects/Personal Portfolio Website/0. User Requirements/User Requirements.md",
+    "20-projects/Personal Portfolio Website/0. User Requirements",
+    "20-projects/Personal Portfolio Website/3. Website Development (Frontend)/Website Development (Frontend).md",
     "20-projects/Personal Portfolio Website/2. Development Environment Setup/Development Environment Setup.md",
     "20-projects/Personal Portfolio Website/1. Define Content & Structure/Define Content & Structure.md",
     "20-projects/Personal Portfolio Website/Design Document.md",
@@ -195,7 +197,6 @@
     "20-projects/Personal Portfolio Website/4. Infrastructure as Code (IaC)",
     "20-projects/Personal Portfolio Website/3. Website Development (Frontend)",
     "20-projects/Personal Portfolio Website/2. Development Environment Setup",
-    "20-projects/Personal Portfolio Website/1. Define Content & Structure",
     "10-areas/Hobbies and Interests/Cycling/Riders/Laurent Fignon.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Marco Pantani.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Lance Armstrong.md",
@@ -207,7 +208,6 @@
     "10-areas/Hobbies and Interests/Cycling/Riders/Sean Kelly.md",
     "GEMINI.md",
     "00-inbox/Mark Cavendish.md",
-    "10-areas/Hobbies and Interests/Cycling/Riders/Mark Cavendish.md",
-    "00-inbox/This is a new note.md"
+    "10-areas/Hobbies and Interests/Cycling/Riders/Mark Cavendish.md"
   ]
 }
