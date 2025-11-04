@@ -39,7 +39,7 @@ To define the functional and non-functional requirements for the personal portfo
 *   The website MUST provide clear ways for users to contact me (e.g., email, LinkedIn profile link).
 
 ### FR 0.1.9. Blog/Articles (Optional)
-*   The website SHOULD provide a section for blog posts or articles where I can share insights, tutorials, or case studies related to DevOps/SRE.
+*   The website MUST provide a section for blog posts or articles where I can share insights, tutorials, or case studies related to DevOps/SRE.
 
 ### FR 0.1.10. CV PDF Generation and Printing
 *   Each CV page (both generic and tailored) MUST include a prominent download link for a PDF version of the CV.
