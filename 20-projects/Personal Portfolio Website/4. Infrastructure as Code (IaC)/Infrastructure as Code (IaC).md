@@ -7,33 +7,27 @@ To define and provision all necessary cloud infrastructure for the personal port
 
 ### 4.1. Choose Cloud Provider
 *   **Action:** Select a cloud platform for hosting the website.
-*   **Consideration:**
-    *   **AWS:** Amazon Web Services (S3 for static hosting, CloudFront for CDN, Route 53 for DNS).
-    *   **GCP:** Google Cloud Platform (Cloud Storage, Cloud CDN, Cloud DNS).
-    *   **Azure:** Microsoft Azure (Blob Storage, Azure CDN, Azure DNS).
-    *   **Other:** Vercel, Netlify (often simpler for static sites).
+*   **Decision:** Vercel.
+*   **Reasoning:** Vercel is the ideal platform for Next.js applications, offering a seamless development and deployment experience.
 
 ### 4.2. Select IaC Tool
 *   **Action:** Choose a tool to manage the infrastructure.
-*   **Consideration:**
-    *   **Terraform:** Cloud-agnostic, widely adopted, declarative.
-    *   **Pulumi:** Uses general-purpose programming languages (Python, TypeScript, Go, C#).
-    *   **Cloud-specific tools:** AWS CloudFormation, Azure Resource Manager, Google Cloud Deployment Manager.
+*   **Decision:** Terraform.
+*   **Reasoning:** Terraform allows for the codification of Vercel resources, ensuring that the configuration is version-controlled and repeatable.
 
 ### 4.3. Define Core Infrastructure Components
-*   **Action:** Identify and define the essential cloud resources required for the website.
-*   **Consideration (for a static site example):**
-    *   **Storage:** S3 bucket (AWS) or Cloud Storage bucket (GCP) for hosting static files.
-    *   **Content Delivery Network (CDN):** CloudFront (AWS) or Cloud CDN (GCP) for global distribution, caching, and improved performance/security.
-    *   **DNS Management:** Route 53 (AWS) or Cloud DNS (GCP) for custom domain mapping.
-    *   **SSL/TLS Certificate:** AWS Certificate Manager or Google-managed SSL certificates for HTTPS.
+*   **Action:** Identify and define the essential Vercel resources required for the website.
+*   **Components:**
+    *   **Vercel Project:** The main project configuration in Vercel.
+    *   **Vercel Domain:** The custom domain for the website.
+    *   **Vercel Environment Variables:** To store any secrets or configuration variables.
 
 ### 4.4. Write IaC Configuration
-*   **Action:** Develop the IaC scripts (e.g., Terraform `.tf` files, Pulumi programs) to provision the defined infrastructure.
+*   **Action:** Develop the Terraform configuration files (`.tf`) to provision the defined Vercel resources.
 *   **Consideration:**
     *   **Modularity:** Organize code into reusable modules.
-    *   **Variables:** Use variables for configurable parameters (e.g., domain name, bucket names).
-    *   **State Management:** Configure remote state storage (e.g., S3 backend for Terraform) for collaboration and durability.
+    *   **Variables:** Use variables for configurable parameters (e.g., domain name, project name).
+    *   **State Management:** Configure remote state storage for collaboration and durability.
 
 ### 4.5. Implement Infrastructure Version Control
 *   **Action:** Store IaC scripts in a version control system (e.g., Git).

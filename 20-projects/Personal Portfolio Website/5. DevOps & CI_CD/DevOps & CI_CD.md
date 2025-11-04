@@ -7,32 +7,22 @@ To establish automated pipelines for building, testing, and deploying the person
 
 ### 5.1. Choose CI/CD Platform
 *   **Action:** Select a platform to host and execute the CI/CD pipelines.
-*   **Consideration:**
-    *   **GitHub Actions:** Tightly integrated with GitHub repositories, YAML-based workflows.
-    *   **GitLab CI:** Integrated with GitLab, powerful YAML-based pipelines.
-    *   **Jenkins:** Self-hosted, highly customizable, extensive plugin ecosystem.
-    *   **AWS CodePipeline/CodeBuild:** Cloud-native options for AWS users.
-    *   **Azure DevOps Pipelines:** Cloud-native options for Azure users.
+*   **Decision:** Vercel's native CI/CD integration with GitHub.
+*   **Reasoning:** Vercel's native CI/CD is deeply integrated with GitHub and Next.js, providing a zero-configuration, high-performance pipeline.
 
 ### 5.2. Define CI Pipeline (Continuous Integration)
 *   **Action:** Design the steps for the continuous integration process.
-*   **Consideration:**
+*   **Consideration:** Vercel automatically handles the CI process.
     *   **Trigger:** On every push to a feature branch or pull request.
-    *   **Build:** Compile frontend assets (e.g., `npm run build`, `hugo`).
-    *   **Generate PDFs:** After the frontend assets are built, run a script to generate PDF versions of all CVs using a headless browser.
-    *   **Linting/Static Analysis:** Run code quality checks (e.g., ESLint, Prettier, linters for IaC).
-    *   **Unit Tests:** Execute unit tests for application code.
-    *   **Integration Tests:** Run tests that verify interactions between components.
-    *   **Artifact Creation:** Package the built website and generated PDFs (e.g., a `.zip` file, Docker image if applicable).
+    *   **Build:** Vercel automatically builds the Next.js application.
+    *   **Generate PDFs:** A custom script will be added to the Next.js build process to generate the PDFs.
+    *   **Preview Deployments:** Vercel creates a preview deployment for each pull request.
 
 ### 5.3. Define CD Pipeline (Continuous Delivery/Deployment)
 *   **Action:** Design the steps for the continuous delivery/deployment process.
-*   **Consideration:**
-    *   **Trigger:** On successful completion of CI pipeline on a main branch (e.g., `main`, `master`).
-    *   **IaC Plan:** Run `terraform plan` or `pulumi preview` to show infrastructure changes.
-    *   **Deployment:** Deploy the built artifact to the cloud infrastructure (e.g., sync to S3 bucket, update CloudFront invalidation, deploy new container).
-    *   **Post-Deployment Tests:** Run smoke tests or basic end-to-end tests on the deployed application.
-    *   **Rollback Strategy:** Define procedures for quickly reverting to a previous stable version in case of issues.
+*   **Consideration:** Vercel automatically handles the CD process.
+    *   **Trigger:** On successful merge to the main branch.
+    *   **Deployment:** Vercel automatically deploys the application to production.
 
 ### 5.4. Implement Pipeline as Code
 *   **Action:** Define CI/CD pipelines using configuration files (e.g., YAML) stored in the Git repository.

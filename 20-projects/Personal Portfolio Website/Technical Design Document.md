@@ -2,15 +2,15 @@
 
 ## 1. Architecture Overview
 
-**Decision:** Static Site Architecture with optional Serverless Backend.
+**Decision:** Vercel for hosting and deployment, leveraging its native support for Next.js.
 
-**Reasoning:** This architecture provides high performance, excellent security, low operational overhead, and cost-effectiveness, making it ideal for a personal portfolio website. It also naturally integrates with IaC, CI/CD, and SRE principles for robust deployment and management.
+**Reasoning:** Vercel is the ideal platform for Next.js applications, offering a seamless development and deployment experience. It provides automatic HTTPS, a global CDN, serverless functions, and tight integration with GitHub, which aligns perfectly with the project's requirements for performance, security, and a streamlined CI/CD workflow.
 
 **Components:**
-*   **Frontend:** Static assets (HTML, CSS, JavaScript, images).
-*   **Content Delivery Network (CDN):** For global distribution, caching, and SSL termination.
-*   **DNS:** Custom domain management.
-*   **Optional Serverless Functions:** For dynamic functionalities like a contact form submission or fetching project data from a simple API.
+*   **Frontend:** Next.js application.
+*   **Deployment Platform:** Vercel.
+*   **Serverless Functions:** Vercel Functions for any backend logic.
+*   **DNS:** Vercel DNS for custom domain management.
 
 ### 1.1. CV Rendering Architecture
 *   **Decision:** Build-time generation of CVs (generic and tailored) from Markdown data stored in a dedicated `cv/` directory.
@@ -42,75 +42,60 @@
 
 ## 3. System Design - Backend (Optional/Minimal)
 
-**Decision:** AWS Lambda and API Gateway for any dynamic elements.
+**Decision:** Vercel Functions for any dynamic elements.
 
-**Reasoning:** Serverless functions are highly scalable, cost-effective (pay-per-execution), and require minimal operational management, aligning well with SRE principles. AWS API Gateway provides a secure and scalable entry point for these functions.
+**Reasoning:** Vercel Functions are serverless functions that are automatically deployed with the Next.js application. They are highly scalable, cost-effective, and require no additional infrastructure management, making them ideal for a contact form or other simple API endpoints.
 
 **Example Use Cases:**
 *   Contact form submission endpoint.
-*   Simple API to fetch project details or blog posts from a lightweight database (e.g., DynamoDB).
+*   Simple API to fetch project details or blog posts.
 
 ## 4. Infrastructure as Code (IaC)
 
-**Decision:** AWS as CloudProvider, Terraform as IaC tool.
+**Decision:** Terraform to manage Vercel resources.
 
-**Reasoning:** AWS is a leading cloud provider with a comprehensive suite of services, offering extensive options for hosting and managing web applications. Terraform is a cloud-agnostic and widely adopted IaC tool, demonstrating a valuable and transferable skill.
+**Reasoning:** Using Terraform to manage Vercel projects and domains allows for the codification of the entire infrastructure, ensuring that the Vercel configuration is version-controlled and repeatable.
 
-**Core AWS Resources to be provisioned via Terraform:**
-*   **S3 Bucket:** Configured for static website hosting.
-*   **CloudFront Distribution:** To serve content globally, cache assets, provide HTTPS termination, and improve performance/security.
-*   **Route 53:** For managing DNS records and pointing a custom domain to the CloudFront distribution.
-*   **AWS Certificate Manager (ACM):** To provision and manage SSL/TLS certificates for HTTPS on CloudFront.
-*   **AWS Lambda & API Gateway:** (If optional backend is implemented) for serverless function deployment.
+**Core Vercel Resources to be provisioned via Terraform:**
+*   **Vercel Project:** The main project configuration in Vercel.
+*   **Vercel Domain:** The custom domain for the website.
+*   **Vercel Environment Variables:** To store any secrets or configuration variables.
 
 ## 5. CI/CD Pipeline
 
-**Decision:** GitHub Actions.
+**Decision:** Vercel's native CI/CD integration with GitHub.
 
-**Reasoning:** GitHub Actions provides tight integration with the project's Git repository, uses YAML-based workflows for pipeline-as-code, and is a widely used platform in modern DevOps practices.
+**Reasoning:** Vercel's native CI/CD is deeply integrated with GitHub and Next.js, providing a zero-configuration, high-performance pipeline. It automatically builds and deploys the application on every push to the main branch and creates preview deployments for pull requests.
 
-**Key Pipeline Stages:**
+**Key Pipeline Stages (managed by Vercel):**
 *   **Build:**
-    *   Install frontend dependencies (`npm install`).
-    *   **Parse and Render CVs:** The Next.js build process (`npm run build`) will automatically parse the Markdown files in the `cv/` directory and generate static HTML pages for each CV.
-    *   Build static assets for the entire site.
-    *   **Generate PDFs:** After the site is built, a script will be run to generate PDF versions of each CV page using a headless browser.
-*   **Test:**
-    *   Run unit tests (e.g., Jest) for the CV rendering components.
-    *   Run linting and static analysis (e.g., ESLint, Prettier).
-    *   Validate IaC configuration (`terraform validate`, `tflint`, `checkov`).
-*   **IaC Plan (Manual Approval for Production):**
-    *   Execute `terraform plan` to preview infrastructure changes.
-    *   Require manual approval for `terraform apply` on production environments.
+    *   Install frontend dependencies.
+    *   Build the Next.js application.
+    *   **Parse and Render CVs:** The Next.js build process will automatically handle this.
+    *   **Generate PDFs:** A custom script will be added to the Next.js build process to generate the PDFs.
 *   **Deploy:**
-    *   Execute `terraform apply` to provision/update infrastructure.
-    *   Synchronize all static assets, including the generated CV pages and PDFs, to the S3 bucket (`aws s3 sync`).
-    *   Invalidate the CloudFront cache (`aws cloudfront create-invalidation`) to ensure the new content is served.
+    *   Vercel automatically deploys the built application to its global CDN.
+    *   The deployment is atomic, ensuring that there is no downtime.
 
 ## 6. Monitoring & Observability
 
-**Decision:** AWS CloudWatch for metrics and logs, Grafana for custom dashboards.
+**Decision:** Vercel Analytics and Vercel Logs.
 
-**Reasoning:** CloudWatch is AWS-native, providing seamless integration for collecting infrastructure metrics and centralizing logs. Grafana offers powerful and flexible visualization capabilities for creating custom, insightful dashboards.
+**Reasoning:** Vercel provides built-in analytics and logging for all deployments. Vercel Analytics gives insights into website traffic and performance, while Vercel Logs provides real-time logs from serverless functions and the build process.
 
 **Key Monitoring Aspects:**
-*   **Metrics:** CloudFront access logs (requests, 4xx/5xx errors), S3 bucket metrics (requests, data transfer), Lambda invocation metrics (duration, errors).
-*   **Logging:** Centralized logging of application and infrastructure events in CloudWatch Logs.
-*   **Alerting:** CloudWatch Alarms configured for critical thresholds (e.g., high 5xx error rates, increased latency, Lambda errors).
-*   **Dashboards:** Grafana dashboards to visualize website availability, performance, and user traffic in real-time.
+*   **Analytics:** Track page views, visitors, and other web vitals.
+*   **Logging:** Monitor build outputs and serverless function logs for errors and debugging.
 
 ## 7. Site Reliability Engineering (SRE) Principles
 
-**Decision:** Focus on Availability and Latency as primary SLOs.
+**Decision:** Rely on Vercel's managed infrastructure and SRE practices.
 
-**Reasoning:** For a portfolio website, ensuring the site is always accessible and loads quickly are paramount for user experience and showcasing reliability skills.
+**Reasoning:** Vercel manages the underlying infrastructure, including the CDN, serverless functions, and security. This allows the project to benefit from Vercel's expertise in SRE without having to manage the infrastructure directly.
 
 **SLOs & SLIs:**
-*   **Availability SLO:** 99.9% uptime (measured by successful HTTP 2xx/3xx responses from CloudFront).
-*   **Latency SLO:** 95th percentile page load time < 1 second (measured by CloudFront response time).
-*   **Error Budget:** Derived from these SLOs, guiding decisions on feature development vs. reliability work.
-
-**Automation:** Leveraging CI/CD for reliable deployments and IaC for consistent infrastructure provisioning reduces manual toil and improves system stability.
+*   **Availability:** Vercel provides a 99.99% uptime SLA for Enterprise customers. For a personal project, the standard Vercel infrastructure is more than sufficient.
+*   **Latency:** Vercel's global CDN ensures low latency for users around the world.
 
 ## 8. Testing
 
@@ -122,22 +107,16 @@
 
 ## 9. Security
 
-**Decision:** Implement standard web security best practices, leveraging AWS services.
+**Decision:** Leverage Vercel's built-in security features.
 
 **Key Security Measures:**
-*   **HTTPS:** Enforced via ACM and CloudFront for all traffic.
-*   **Content Security Policy (CSP):** To mitigate XSS and other injection attacks.
-*   **Dependency Security Scanning:** Automated scanning of third-party libraries (e.g., via Dependabot or Snyk integration).
-*   **Infrastructure Security:** Least privilege IAM roles for deployment, restricted S3 bucket policies, CloudFront OAI/OAC for S3 access.
-*   **Security Headers:** Implementation of HTTP security headers (e.g., HSTS, X-Content-Type-Options).
+*   **HTTPS:** Automatically enabled for all deployments.
+*   **DDoS Mitigation:** Vercel's infrastructure is protected against DDoS attacks.
+*   **Environment Variables:** Use Vercel's environment variable management for secrets.
+*   **Dependency Security Scanning:** Use GitHub's Dependabot to scan for vulnerabilities in dependencies.
 
 ## 10. Interfaces and Integration Details
 
 *   **Git Repository (GitHub):** Central source of truth for all application code and IaC configurations.
-*   **GitHub Actions:** Orchestrates the entire CI/CD workflow, interacting with AWS APIs.
-*   **AWS APIs:** Terraform and AWS CLI commands (within GitHub Actions) interact directly with AWS services.
-*   **CloudFront & S3:** Frontend static assets are served from S3 via CloudFront.
-*   **Route 53:** Manages custom domain resolution, pointing to the CloudFront distribution.
-*   **AWS CloudWatch:** Collects and stores monitoring metrics and logs from all AWS services.
-*   **Grafana:** Connects to CloudWatch to pull metrics and display custom dashboards.
-*   **Optional Backend (Lambda/API Gateway):** If implemented, integrates with the frontend via standard HTTP API calls.
+*   **Vercel:** The deployment platform, connected to the GitHub repository.
+*   **Terraform:** To manage Vercel resources as code.

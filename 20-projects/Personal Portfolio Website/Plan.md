@@ -18,18 +18,14 @@
     *   Ensure responsiveness for various devices.
 
 4.  **Infrastructure as Code (IaC):**
-    *   Choose a cloud provider (e.g., AWS, GCP, Azure).
-    *   Use Terraform or Pulumi to define and provision the necessary infrastructure (e.g., S3 bucket for static hosting, CloudFront/CDN for distribution, DNS records).
+    *   Choose a cloud provider: Vercel.
+    *   Use Terraform to define and provision Vercel resources (project, domain, environment variables).
 
 5.  **DevOps & CI/CD:**
-    *   Set up a CI/CD pipeline (e.g., GitHub Actions, GitLab CI, Jenkins).
-    *   Automate building, testing, and deploying the website to the cloud infrastructure.
-    *   Implement linting, security checks, and accessibility checks in the pipeline.
+    *   Use Vercel's native CI/CD integration with GitHub to automate building, testing, and deploying the website.
 
 6.  **Monitoring & Observability:**
-    *   Integrate monitoring tools (e.g., Prometheus/Grafana, CloudWatch, Stackdriver) to track website performance, availability, and user traffic.
-    *   Set up alerts for critical issues.
-    *   Implement logging for website access and errors.
+    *   Use Vercel Analytics to track website performance, availability, and user traffic.
 
 7.  **Site Reliability Engineering (SRE) Principles:**
     *   Define Service Level Objectives (SLOs) and Service Level Indicators (SLIs) for the website.
