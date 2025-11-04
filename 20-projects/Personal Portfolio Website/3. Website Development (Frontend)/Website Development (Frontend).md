@@ -42,3 +42,11 @@ To implement the user interface of the personal portfolio website, ensuring it i
 ### 3.7. Cross-Browser Compatibility
 *   **Action:** Test the website across different web browsers to ensure consistent appearance and functionality.
 *   **Tooling:** BrowserStack, LambdaTest, or manual testing.
+
+### 3.8. CV Rendering Component
+*   **Action:** Develop the components and logic for parsing and rendering the CVs from Markdown files.
+*   **Implementation Details:**
+    *   **Dynamic Next.js Page:** Create a dynamic Next.js page (e.g., `pages/cv/[slug].js`) that will handle the rendering of individual CVs.
+    *   **CV Parser:** Implement a function that uses `gray-matter` to parse the YAML frontmatter and `remark` to convert the Markdown content of a CV file into an HTML string. This function will be used in `getStaticProps` to fetch and process the CV data at build time.
+    *   **CV React Component:** Create a React component that takes the parsed CV data (frontmatter and content) as props and renders it into a structured and styled HTML page.
+    *   **Tailoring Logic:** The CV rendering component will use the `frontmatter` data to apply tailoring logic. For example, it will conditionally render sections, skills, or work highlights based on the `include_` and `exclude_` fields in the frontmatter.

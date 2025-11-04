@@ -13,13 +13,13 @@
 *   **Optional Serverless Functions:** For dynamic functionalities like a contact form submission or fetching project data from a simple API.
 
 ### 1.1. CV Rendering Architecture
-*   **Decision:** Build-time generation of CVs (generic and tailored) from Markdown data.
-*   **Reasoning:** This approach leverages the static site generation capabilities, ensuring high performance, security, and scalability. Tailored CVs will be pre-generated at build time and deployed as static assets.
+*   **Decision:** Build-time generation of CVs (generic and tailored) from Markdown data stored in a dedicated `cv/` directory.
+*   **Reasoning:** This approach leverages the static site generation capabilities of Next.js, ensuring high performance, security, and scalability. Tailored CVs will be pre-generated at build time and deployed as static assets.
 *   **Components:**
-    *   **Markdown CV Files:** Stored in the repository.
-    *   **CV Parser:** A build-time script/tool to parse Markdown CV files into structured data (e.g., JSON).
-    *   **CV Renderer:** A build-time component that takes the parsed CV data and renders it into HTML pages, applying tailoring logic based on metadata.
-    *   **Context Roots:** Tailored CVs will be deployed to specific sub-paths (e.g., `/job-x-cv/index.html`).
+    *   **Markdown CV Files:** Stored in the `cv/` directory within the repository (e.g., `cv/generic.md`, `cv/job-x.md`).
+    *   **CV Parser:** A build-time script using `gray-matter` and `remark` to parse Markdown CV files into structured JSON objects. This script will be integrated into the Next.js build process.
+    *   **CV Renderer:** A React component in the Next.js application that takes the parsed CV data and renders it into an HTML page. This component will apply tailoring logic based on the frontmatter of each CV file.
+    *   **Context Roots:** The build process will generate a page for each CV file. The `generic.md` will be rendered at the `/cv` route, and tailored CVs will have their own routes based on their filenames (e.g., `cv/job-x.md` becomes `/cv/job-x`).
 
 ## 2. System Design - Frontend
 
@@ -44,7 +44,7 @@
 
 ## 4. Infrastructure as Code (IaC)
 
-**Decision:** AWS as Cloud Provider, Terraform as IaC tool.
+**Decision:** AWS as CloudProvider, Terraform as IaC tool.
 
 **Reasoning:** AWS is a leading cloud provider with a comprehensive suite of services, offering extensive options for hosting and managing web applications. Terraform is a cloud-agnostic and widely adopted IaC tool, demonstrating a valuable and transferable skill.
 
@@ -64,10 +64,10 @@
 **Key Pipeline Stages:**
 *   **Build:**
     *   Install frontend dependencies (`npm install`).
-    *   Build static assets (`npm run build` for Next.js static export).
-    *   **Parse and Render CVs:** Execute a build script to parse Markdown CV files and generate static HTML files for generic and tailored CVs.
+    *   **Parse and Render CVs:** The Next.js build process (`npm run build`) will automatically parse the Markdown files in the `cv/` directory and generate static HTML pages for each CV.
+    *   Build static assets for the entire site.
 *   **Test:**
-    *   Run unit tests (e.g., Jest).
+    *   Run unit tests (e.g., Jest) for the CV rendering components.
     *   Run linting and static analysis (e.g., ESLint, Prettier).
     *   Validate IaC configuration (`terraform validate`, `tflint`, `checkov`).
 *   **IaC Plan (Manual Approval for Production):**
@@ -75,9 +75,8 @@
     *   Require manual approval for `terraform apply` on production environments.
 *   **Deploy:**
     *   Execute `terraform apply` to provision/update infrastructure.
-    *   Synchronize static assets to S3 bucket (`aws s3 sync`).
-    *   Invalidate CloudFront cache (`aws cloudfront create-invalidation`) to ensure new content is served.
-*   **Deploy CVs:** Ensure generated CV HTML files are included in the S3 sync and CloudFront invalidation.
+    *   Synchronize all static assets, including the generated CV pages, to the S3 bucket (`aws s3 sync`).
+    *   Invalidate the CloudFront cache (`aws cloudfront create-invalidation`) to ensure the new content is served.
 
 ## 6. Monitoring & Observability
 

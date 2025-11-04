@@ -69,9 +69,27 @@ The Markdown file will be structured using headings and lists to represent the d
 
 ## 0.1.3. Tailoring Mechanism
 *   **Action:** Define how specific sections or entries can be included/excluded or modified for tailored CVs.
-*   **Consideration:**
-    *   **Metadata/Frontmatter:** Use YAML frontmatter at the top of the Markdown file to specify job-specific tags or flags (e.g., `tags: [devops, sre]`, `include_project: [project-a, project-b]`).
-    *   **Conditional Rendering:** The website's rendering logic will use this metadata to filter and display relevant content.
+*   **Implementation:**
+    *   **YAML Frontmatter:** Each Markdown CV file will contain a YAML frontmatter block at the top. This block will define the context for which the CV is tailored.
+    *   **CV Variants:** To manage multiple CVs, a directory structure will be used. A `cv/` directory will store different versions of the CV in Markdown files. For example:
+        *   `cv/generic.md`: The default, comprehensive CV.
+        *   `cv/job-x.md`: A CV tailored for a specific job application "Job X".
+        *   `cv/sre-focused.md`: A CV emphasizing Site Reliability Engineering skills.
+    *   **Context-Based Rendering:** The website's build process will parse these files and generate corresponding HTML pages. The `generic.md` file will be rendered at the root (`/`), while other files will be rendered at a specific context root based on their filename (e.g., `/job-x-cv`, `/sre-focused-cv`).
+    *   **Frontmatter Fields for Tailoring:** The frontmatter will include fields to control the content:
+        *   `job_title`: The target job title for the CV.
+        *   `target_company`: The company the CV is for.
+        *   `include_sections`: A list of sections to include (e.g., `['Work Experience', 'Skills', 'Education']`). If omitted, all sections are included.
+        *   `exclude_sections`: A list of sections to exclude.
+        *   `include_skills`: A list of specific skills to highlight.
+        *   `exclude_skills`: A list of skills to omit.
+        *   `include_work_highlights`: A list of specific work highlights (identified by a unique ID or the text itself) to include.
+        *   `exclude_work_highlights`: A list of work highlights to exclude.
+
+## 0.1.4. CV Variants
+
+*   **Generic CV:** A `generic.md` file will serve as the master CV, containing all information. This will be rendered at the root of the website.
+*   **Tailored CVs:** For each tailored CV, a new Markdown file will be created (e.g., `job-x.md`). This file will use frontmatter to specify which sections, skills, and experiences to include or exclude. The build process will generate a unique URL for each tailored CV (e.g., `/cv/job-x`).
 
 ## 0.1.4. Example Markdown CV File
 
