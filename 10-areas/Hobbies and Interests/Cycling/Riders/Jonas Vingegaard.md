@@ -1,3 +1,5 @@
+![Jonas Vingegaard](https://www.alpsinsight.com/wp-content/uploads/2023/07/Jonas-Vingegaard-Col-de-la-Loze-Tour-de-France-2023-by-PatitucciPhoto-2000.jpg)
+
 *From Grokipedia, the free encyclopedia, with additional information from Wikipedia and other sources.*
 
 **Jonas Vingegaard Hansen** (born December 10, 1996) is a Danish professional road racing cyclist who rides for UCI WorldTeam Visma–Lease a Bike. He is widely recognized as one of the premier climbers and Grand Tour contenders of his generation, known for his quiet demeanor and explosive performances in the mountains.

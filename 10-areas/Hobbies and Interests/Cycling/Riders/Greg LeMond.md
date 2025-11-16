@@ -1,3 +1,5 @@
+![Greg LeMond](https://www.rouleur.cc/cdn-cgi/image/quality=80,width=1600,height=900,fit=cover,format=auto/uploads/images/c338157223922a51383f6761a352ad65_9569039085_55d63b05d6_o.jpg)
+
 *From Grokipedia, the free encyclopedia, with additional information from Wikipedia and other sources.*
 
 **Gregory James LeMond** (born June 26, 1961) is an American former professional road racing cyclist, widely regarded as one of the greatest American cyclists of all time and a pivotal figure in the sport's history. He was the first non-European to win the Tour de France, a feat he accomplished three times.

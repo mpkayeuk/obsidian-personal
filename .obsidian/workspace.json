@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-areas/Relationships/Charlotte/202511161435 Text to Peter about Change in Drop-off Location.md",
+                "file": "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202511161435 Text to Peter about Change in Drop-off Location"
+              "title": "Greg LeMond"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-areas/Relationships/Charlotte/202511161435 Text to Peter about Change in Drop-off Location.md",
+                "file": "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202511161435 Text to Peter about Change in Drop-off Location"
+              "title": "Backlinks for Greg LeMond"
             }
           },
           {
@@ -171,11 +171,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "983d6268e6dd2e02",
+  "active": "091e432c47aea4ec",
   "lastOpenFiles": [
+    "10-areas/Hobbies and Interests/Cycling/Riders/Jonas Vingegaard.md",
+    "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
+    "10-areas/Hobbies and Interests/Cycling/Riders/Lance Armstrong.md",
+    "10-areas/Hobbies and Interests/Cycling/Riders/Laurent Fignon.md",
+    "10-areas/Relationships/Charlotte/202511161435 Text to Peter about Change in Drop-off Location.md",
     "10-areas/Home and Household/ECO4/ASHP Report.md",
     "10-areas/Home and Household/ECO4/ECO4 Summary.md",
-    "10-areas/Relationships/Charlotte/202511161435 Text to Peter about Change in Drop-off Location.md",
     "GEMINI.md",
     "10-areas/Relationships/Charlotte/Draft Text to Neighbour about Change in Drop-off Location.md",
     "10-areas/Relationships/Charlotte/Testing 1,2,3.md",
@@ -204,10 +208,6 @@
     "20-projects/Personal Portfolio Website/5. DevOps & CI_CD",
     "20-projects/Personal Portfolio Website/4. Infrastructure as Code (IaC)/Infrastructure as Code (IaC).md",
     "20-projects/Personal Portfolio Website/4. Infrastructure as Code (IaC)",
-    "20-projects/Personal Portfolio Website/3. Website Development (Frontend)",
-    "10-areas/Hobbies and Interests/Cycling/Riders/Laurent Fignon.md",
-    "10-areas/Hobbies and Interests/Cycling/Riders/Marco Pantani.md",
-    "10-areas/Hobbies and Interests/Cycling/Riders/Lance Armstrong.md",
-    "10-areas/Hobbies and Interests/Cycling/Riders/Jonas Vingegaard.md"
+    "20-projects/Personal Portfolio Website/3. Website Development (Frontend)"
   ]
 }
