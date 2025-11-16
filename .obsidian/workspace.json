@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-projects/Personal Portfolio Website/0. User Requirements/User Requirements.md",
+                "file": "GEMINI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Requirements"
+              "title": "GEMINI"
             }
           }
         ]
@@ -173,10 +173,13 @@
   },
   "active": "983d6268e6dd2e02",
   "lastOpenFiles": [
+    "10-areas/Relationships/Charlotte/Draft Text to Neighbour about Change in Drop-off Location.md",
+    "10-areas/Relationships/Charlotte/Testing 1,2,3.md",
+    "00-inbox/Auto Note Mover Configuration.md",
+    "20-projects/Personal Portfolio Website/0. User Requirements/User Requirements.md",
     "20-projects/Personal Portfolio Website/0.1. CV Data Format/CV Data Format.md",
     "20-projects/Personal Portfolio Website/0.1. CV Data Format",
     "20-projects/Personal Portfolio Website/Technical Design Document.md",
-    "20-projects/Personal Portfolio Website/0. User Requirements/User Requirements.md",
     "20-projects/Personal Portfolio Website/0. User Requirements",
     "20-projects/Personal Portfolio Website/3. Website Development (Frontend)/Website Development (Frontend).md",
     "20-projects/Personal Portfolio Website/2. Development Environment Setup/Development Environment Setup.md",
@@ -205,9 +208,6 @@
     "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Pedro Delgado.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Stephen Roche.md",
-    "10-areas/Hobbies and Interests/Cycling/Riders/Tadej Pogačar.md",
-    "10-areas/Hobbies and Interests/Cycling/Riders/Sean Kelly.md",
-    "GEMINI.md",
-    "00-inbox/Mark Cavendish.md"
+    "10-areas/Hobbies and Interests/Cycling/Riders/Tadej Pogačar.md"
   ]
 }

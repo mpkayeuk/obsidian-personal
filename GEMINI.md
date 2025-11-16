@@ -22,7 +22,7 @@ This project is a personal knowledge management system using Obsidian. It's stru
 You can define custom commands or aliases here. For example:
 
 - "Define a command `!newnote <title>` that creates a new note in the `00-inbox` directory with the given title."
-- "Define a workflow triggered by prompts starting with `*nt*`. After the response is complete, summarise the prompt (excluding the prefix) and the response into a new note. The note should be placed in the `00-inbox` directory, with a title summarising the prompt, and structured with 'Prompt' and 'Response Summary' headings."
+- "Define a workflow triggered by prompts starting with `*nt*`. After the response is complete, summarise the prompt (excluding the prefix) and the response into a new note. The note should be placed in the `00-inbox` directory, with a short title summarising the prompt, the title should start with a date in the following format YYYYMMDDHHMM and structured with 'Prompt' and 'Response Summary' headings."
 
 ## Notes
 
