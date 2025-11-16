@@ -1,4 +1,4 @@
-![Jonas Vingegaard](https://www.alpsinsight.com/wp-content/uploads/2023/07/Jonas-Vingegaard-Col-de-la-Loze-Tour-de-France-2023-by-PatitucciPhoto-2000.jpg)
+![Jonas Vingegaard](https://upload.wikimedia.org/wikipedia/commons/7/74/Jonas_Vingegaard_Tour_de_France_2022.jpg)
 
 *From Grokipedia, the free encyclopedia, with additional information from Wikipedia and other sources.*
 
