@@ -1,3 +1,5 @@
+![Mark Cavendish](https://upload.wikimedia.org/wikipedia/commons/c/c1/Mark_Cavendish_%282023%29_Tour_de_France.jpg)
+
 *From Grokipedia, the free encyclopedia, with additional information from Wikipedia and other sources.*
 
 **Mark Simon Cavendish** CH, MBE (born 21 May 1985) is a recently retired Manx professional road and track racing cyclist, who last rode for UCI WorldTeam Astana Qazaqstan Team. As a road sprinter, he is not just one of, but arguably *the* greatest of all time, a title he has proven time and again with his unparalleled record of victories.
