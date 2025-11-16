@@ -1,3 +1,5 @@
+![Laurent Fignon](https://upload.wikimedia.org/wikipedia/commons/a/a3/Laurent_Fignon_1993_Tour_de_France.jpg)
+
 *From Grokipedia, the free encyclopedia, with additional information from Wikipedia and other sources.*
 
 **Laurent Fignon** (August 12, 1960 – August 31, 2010) was a French professional road bicycle racer, instantly recognizable by his distinctive glasses and often referred to as "Le Professeur" due to his intellectual approach to racing. He was a dominant figure in the 1980s, known for his aggressive style and powerful time trialing.
