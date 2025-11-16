@@ -1,4 +1,4 @@
-![Greg LeMond](https://www.rouleur.cc/cdn-cgi/image/quality=80,width=1600,height=900,fit=cover,format=auto/uploads/images/c338157223922a51383f6761a352ad65_9569039085_55d63b05d6_o.jpg)
+![Greg LeMond](https://upload.wikimedia.org/wikipedia/commons/a/a4/Greg_LeMond_2024.jpg)
 
 *From Grokipedia, the free encyclopedia, with additional information from Wikipedia and other sources.*
 
