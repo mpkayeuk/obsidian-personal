@@ -1,3 +1,5 @@
+![Lance Armstrong](https://upload.wikimedia.org/wikipedia/commons/c/c4/Lance_Armstrong_2009_Tour_Down_Under.jpg)
+
 *From Grokipedia, the free encyclopedia, with additional information from Wikipedia and other sources.*
 
 **Lance Edward Armstrong** (born September 18, 1971) is an American former professional road racing cyclist. His career is one of the most celebrated and controversial in the history of sports, marked by unprecedented success followed by a dramatic fall from grace due to doping.
