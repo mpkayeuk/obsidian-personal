@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
+                "file": "20-projects/Home Assistant Configuration/Entity Naming Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greg LeMond"
+              "title": "Entity Naming Convention"
+            }
+          },
+          {
+            "id": "29907df362df97f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
+                "file": "20-projects/Home Assistant Configuration/Entity Naming Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Greg LeMond"
+              "title": "Backlinks for Entity Naming Convention"
             }
           },
           {
@@ -171,17 +184,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "983d6268e6dd2e02",
+  "active": "29907df362df97f1",
   "lastOpenFiles": [
-    "10-areas/Hobbies and Interests/Cycling/Riders/Jonas Vingegaard.md",
+    "20-projects/Home Assistant Configuration/TODO.md",
+    "10-areas/Home and Household/ECO4/ECO4 Summary.md",
+    "20-projects/Home Assistant Configuration/Entity Naming Convention.md",
+    "10-areas/Home and Household/ECO4/ASHP Report.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
+    "20-projects/Home Assistant Configuration",
+    "10-areas/Hobbies and Interests/Cycling/Riders/Jonas Vingegaard.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Stephen Roche.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Tadej Pogačar.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Laurent Fignon.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Lance Armstrong.md",
     "10-areas/Relationships/Charlotte/202511161435 Text to Peter about Change in Drop-off Location.md",
-    "10-areas/Home and Household/ECO4/ASHP Report.md",
-    "10-areas/Home and Household/ECO4/ECO4 Summary.md",
     "GEMINI.md",
     "10-areas/Relationships/Charlotte/Draft Text to Neighbour about Change in Drop-off Location.md",
     "10-areas/Relationships/Charlotte/Testing 1,2,3.md",
@@ -202,12 +218,9 @@
     "20-projects/Personal Portfolio Website/9. Security",
     "20-projects/Personal Portfolio Website/8. Testing/Testing.md",
     "20-projects/Personal Portfolio Website/8. Testing",
-    "20-projects/Personal Portfolio Website/7. Site Reliability Engineering (SRE) Principles/Site Reliability Engineering (SRE) Principles.md",
     "20-projects/Personal Portfolio Website/7. Site Reliability Engineering (SRE) Principles",
-    "20-projects/Personal Portfolio Website/6. Monitoring & Observability/Monitoring & Observability.md",
     "20-projects/Personal Portfolio Website/6. Monitoring & Observability",
     "20-projects/Personal Portfolio Website/5. DevOps & CI_CD",
-    "20-projects/Personal Portfolio Website/4. Infrastructure as Code (IaC)",
-    "20-projects/Personal Portfolio Website/3. Website Development (Frontend)"
+    "20-projects/Personal Portfolio Website/4. Infrastructure as Code (IaC)"
   ]
 }
