@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.3"
             }
+          },
+          {
+            "id": "78ffcf59b029aa82",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29907df362df97f1",
+  "active": "78ffcf59b029aa82",
   "lastOpenFiles": [
     "20-projects/Home Assistant Configuration/TODO.md",
     "10-areas/Home and Household/ECO4/ECO4 Summary.md",
