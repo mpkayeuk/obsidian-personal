@@ -14,6 +14,12 @@ You can configure the plugin manually in its settings by adding these as "Tag to
 | `#archive` | `40-archive/` |
 | `#template` | `99-templates/` |
 
+## Projects (Specific)
+
+| Tag | Destination Folder |
+| --- | --- |
+| `#project/lottery` | `20-projects/Lottery Win Gameification/` |
+
 ## Areas
 
 | Tag | Destination Folder |
