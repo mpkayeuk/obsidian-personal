@@ -37,12 +37,14 @@
             "id": "78ffcf59b029aa82",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "20-projects/Plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Plan"
             }
           }
         ],
@@ -199,8 +201,10 @@
   "active": "78ffcf59b029aa82",
   "lastOpenFiles": [
     "20-projects/Home Assistant Configuration/TODO.md",
-    "10-areas/Home and Household/ECO4/ECO4 Summary.md",
+    "20-projects/Plan.md",
+    "20-projects/Lottery Win Gameification",
     "20-projects/Home Assistant Configuration/Entity Naming Convention.md",
+    "10-areas/Home and Household/ECO4/ECO4 Summary.md",
     "10-areas/Home and Household/ECO4/ASHP Report.md",
     "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
     "20-projects/Home Assistant Configuration",
@@ -228,11 +232,9 @@
     "20-projects/Personal Portfolio Website/10. Documentation",
     "20-projects/Personal Portfolio Website/9. Security/Security.md",
     "20-projects/Personal Portfolio Website/9. Security",
-    "20-projects/Personal Portfolio Website/8. Testing/Testing.md",
     "20-projects/Personal Portfolio Website/8. Testing",
     "20-projects/Personal Portfolio Website/7. Site Reliability Engineering (SRE) Principles",
     "20-projects/Personal Portfolio Website/6. Monitoring & Observability",
-    "20-projects/Personal Portfolio Website/5. DevOps & CI_CD",
-    "20-projects/Personal Portfolio Website/4. Infrastructure as Code (IaC)"
+    "20-projects/Personal Portfolio Website/5. DevOps & CI_CD"
   ]
 }
