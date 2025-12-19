@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-projects/Plan.md",
+                "file": "20-projects/Lottery Win Gameification/Lifestyle Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan"
+              "title": "Lifestyle Plan"
             }
           }
         ],
@@ -198,10 +198,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78ffcf59b029aa82",
+  "active": "091e432c47aea4ec",
   "lastOpenFiles": [
-    "20-projects/Home Assistant Configuration/TODO.md",
     "20-projects/Plan.md",
+    "20-projects/Lottery Win Gameification/Lifestyle Plan.md",
+    "20-projects/Lottery Win Gameification/Plan.md",
+    "20-projects/Home Assistant Configuration/TODO.md",
     "20-projects/Lottery Win Gameification",
     "20-projects/Home Assistant Configuration/Entity Naming Convention.md",
     "10-areas/Home and Household/ECO4/ECO4 Summary.md",
@@ -227,10 +229,7 @@
     "20-projects/Personal Portfolio Website/2. Development Environment Setup/Development Environment Setup.md",
     "20-projects/Personal Portfolio Website/1. Define Content & Structure/Define Content & Structure.md",
     "20-projects/Personal Portfolio Website/Design Document.md",
-    "20-projects/Personal Portfolio Website/Plan.md",
-    "20-projects/Personal Portfolio Website/10. Documentation/Documentation.md",
     "20-projects/Personal Portfolio Website/10. Documentation",
-    "20-projects/Personal Portfolio Website/9. Security/Security.md",
     "20-projects/Personal Portfolio Website/9. Security",
     "20-projects/Personal Portfolio Website/8. Testing",
     "20-projects/Personal Portfolio Website/7. Site Reliability Engineering (SRE) Principles",

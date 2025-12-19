@@ -18,8 +18,7 @@ Explore optimal strategies for managing a significant windfall, covering:
 
 ## Assumptions
 
-- **Windfall amount:** €210,000,000 (EuroMillions jackpot)
-- **GBP equivalent:** ~£175,000,000 (at typical exchange rates)
+- **Windfall amount:** £210,000,000 (EuroMillions jackpot, paid in GBP)
 - **Tax on win:** £0 (lottery winnings are tax-free in the UK)
 - **Current financial situation:** TBD
 - **Risk tolerance:** TBD
@@ -27,14 +26,14 @@ Explore optimal strategies for managing a significant windfall, covering:
 
 ## The Numbers in Perspective
 
-With £175M, assuming a conservative 4% annual return:
-- **Annual passive income:** £7,000,000/year
-- **Monthly passive income:** £583,333/month
-- **Daily passive income:** £19,178/day
+With £210M, assuming a conservative 4% annual return:
+- **Annual passive income:** £8,400,000/year
+- **Monthly passive income:** £700,000/month
+- **Daily passive income:** £23,013/day
 
 Even at an ultra-conservative 2% return:
-- **Annual passive income:** £3,500,000/year
-- **Monthly passive income:** £291,666/month
+- **Annual passive income:** £4,200,000/year
+- **Monthly passive income:** £350,000/month
 
 ## Areas to Explore
 
