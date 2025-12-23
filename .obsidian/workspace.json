@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Form E Questionnaire - Redrafted"
             }
+          },
+          {
+            "id": "005319969ae403fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,21 +184,23 @@
   },
   "active": "091e432c47aea4ec",
   "lastOpenFiles": [
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Evidence/Bank Statements/CSV/Current Account.csv",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Evidence/Bank Statements/CSV/Savings Account.csv",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Evidence/Bank Statements/CSV/Barclaycard.csv",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Evidence/Bank Statements/CSV",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Analysis/Form E Analysis.md",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Form E/2025-12-03 – Form E – Continuation Sheet.pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Form E/2025-12-03 - Form E Final.pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Form E/2025-12-04 - Form E Final (Ammended).pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Form E/2025-12-04 – Form E – Continuation Sheet (Ammended).pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Medical Evidence/2025-11-25 - Fit Note.pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Medical Evidence",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Liabilities & Debt/2025-12-02 - Equifax Credit Report.pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Liabilities & Debt",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Income/2025-12-02 - Universal Credit Statement.pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Income/2025-11-26 - UCD82 LCW Decision.pdf",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Income",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Personal Bank Statements/Provider Communication/2025-12-03 - Co-Op Bank - Contact Record.png",
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Evidence/Personal Bank Statements/Provider Communication/2025-12-03 - Co-Op Bank - Balance and Last Access.png",
     "10-areas/Relationships/Divorce/Applicant (Lenny)/Analysis/Form E Questionnaire - Redrafted.md",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Form E/Form_E_0123_save.pdf",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Form E/2 Financial Details.pdf",
+    "10-areas/Relationships/Divorce/Applicant (Lenny)/Analysis/Form E Analysis.md",
     "20-projects/Home Assistant Configuration/Entity Naming Convention.md",
-    "10-areas/Relationships/Divorce/Shared/Original Questions/Questions Consolidated.docx",
-    "10-areas/Relationships/Divorce/Shared/Original Questions/Questions.docx",
     "10-areas/Relationships/Divorce/Reference/Form E Questionnaire - Redrafted.md",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Analysis/all_transactions.csv",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Analysis/Savings Account.csv",
-    "10-areas/Relationships/Divorce/Applicant (Lenny)/Analysis/Current Account.csv",
     "10-areas/Relationships/Divorce/Reference/Form E Analysis.md",
     "20-projects/Lottery Win Gameification/Claude Lifestyle Plan.md",
     "20-projects/Lottery Win Gameification/Lifestyle Plan.md",
