@@ -39,10 +39,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-FEB-25 AC 73781208  02103455.pdf"
+                "file": "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-NOV-25 AC 73781208  30044034.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Statement 28-FEB-25 AC 73781208  02103455"
+              "title": "Statement 28-NOV-25 AC 73781208  30044034"
             }
           }
         ],
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 577.5
   },
   "right": {
     "id": "ad11e0ff0aeb060f",
@@ -198,8 +198,8 @@
   },
   "active": "78ffcf59b029aa82",
   "lastOpenFiles": [
-    "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-NOV-25 AC 73781208  30044034.pdf",
     "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-FEB-25 AC 73781208  02103455.pdf",
+    "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-NOV-25 AC 73781208  30044034.pdf",
     "10-areas/Relationships/Divorce/Reference/Form E Analysis.md",
     "10-areas/Relationships/Divorce/Finances/all_transactions.csv",
     "10-areas/Relationships/Divorce/Finances/Statements/Virgin Money/2025-11-26.pdf",

@@ -33,19 +33,13 @@ date,account,description,money_out,money_in,balance,source_file
 2024-08-28,Barclays 73781208,Bill Payment to Honey,40.00,,638.28,Statement 30-AUG-24 AC 73781208  01053610.pdf
 2024-08-29,Barclays 73781208,Direct Debit to Paypal Payment,12.03,,,Statement 30-AUG-24 AC 73781208  01053610.pdf
 2024-08-29,Barclays 73781208,Payment to Joylyn Gray,100.00,,526.25,Statement 30-AUG-24 AC 73781208  01053610.pdf
-2024-08-30,Barclays 23827119,UNITED KINGDOM Money in,105.29,,,Statement 27-SEP-24 AC 23827119  29092337.pdf
-2024-08-30,Barclays 23827119,Money out,312.00,,,Statement 27-SEP-24 AC 23827119  29092337.pdf
 2024-08-30,Barclays 23827119,You earned,5.29,,,Statement 27-SEP-24 AC 23827119  29092337.pdf
 2024-08-30,Barclays 73781208,Everyday Saver,1106.99,,,Statement 30-AUG-24 AC 73781208  01053610.pdf
 2024-08-30,Barclays 73781208,Everyday Saver,0.75,,,Statement 30-AUG-24 AC 73781208  01053610.pdf
-2024-08-30,Barclays 73781208,Money in,6658.76,,,Statement 30-AUG-24 AC 73781208  01053610.pdf
-2024-08-30,Barclays 73781208,Money out,6336.72,,,Statement 30-AUG-24 AC 73781208  01053610.pdf
 2024-08-30,Barclays 73781208,Bill Payment to Lucy Timog,114.00,,,Statement 30-AUG-24 AC 73781208  01053610.pdf
 2024-08-30,Barclays 73781208,Received From 205F34J8F Dwp UC,,428.14,,Statement 30-AUG-24 AC 73781208  01053610.pdf
 2024-08-30,Barclays 73781208,Bill Payment From Timog L,,210.00,1050.39,Statement 30-AUG-24 AC 73781208  01053610.pdf
 2024-08-30,Barclays 73781208,in the UK) we'll charge you a% Non-Sterling To help you understand the charges associated with service provider). We may,2.99,,,Statement 30-AUG-24 AC 73781208  01053610.pdf
-2024-08-31,Barclays 73781208,Money in,2301.08,,,Statement 30-SEP-24 AC 73781208  02051633.pdf
-2024-08-31,Barclays 73781208,Money out,2980.80,,,Statement 30-SEP-24 AC 73781208  02051633.pdf
 2024-09-02,Barclays 23827119,"Interest Earned,",5.29,5.29,1112.28,Statement 27-SEP-24 AC 23827119  29092337.pdf
 2024-09-02,Barclays 73781208,Direct Debit to Napo Pet Insuranc,55.85,,,Statement 30-SEP-24 AC 73781208  02051633.pdf
 2024-09-02,Barclays 73781208,Payment to Ms C G Kay,25.00,,,Statement 30-SEP-24 AC 73781208  02051633.pdf
@@ -103,11 +97,7 @@ date,account,description,money_out,money_in,balance,source_file
 2024-09-27,Barclaycard,"Schoolmoney, Leicester",5.16,,,Monthly BarclayCard Statement_02-OCT-24  03032323.pdf
 2024-09-27,Barclays 73781208,Bill Payment to Angela Velayo,133.00,,1711.78,Statement 30-SEP-24 AC 73781208  02051633.pdf
 2024-09-28,Barclaycard,"Nike Retail UK, London",32.49,,,Monthly BarclayCard Statement_02-OCT-24  03032323.pdf
-2024-09-28,Barclays 23827119,UNITED KINGDOM Money in,1.30,,,Statement 29-OCT-24 AC 23827119  31043654.pdf
-2024-09-28,Barclays 23827119,Money out,181.00,,,Statement 29-OCT-24 AC 23827119  31043654.pdf
 2024-09-28,Barclays 23827119,You earned,1.30,,,Statement 29-OCT-24 AC 23827119  31043654.pdf
-2024-09-28,Barclays 43623068,UNITED KINGDOM Money in,0.00,,,Statement 29-OCT-24 AC 43623068  31043654.pdf
-2024-09-28,Barclays 43623068,Money out,0.00,,,Statement 29-OCT-24 AC 43623068  31043654.pdf
 2024-09-28,Barclays 43623068,Balanc,0.75,,,Statement 29-OCT-24 AC 43623068  31043654.pdf
 2024-09-28,Barclays 43623068,u Up to,1.65,,,Statement 29-OCT-24 AC 43623068  31043654.pdf
 2024-09-28,Barclays 43623068,u,1.15,,,Statement 29-OCT-24 AC 43623068  31043654.pdf
@@ -183,11 +173,7 @@ date,account,description,money_out,money_in,balance,source_file
 2024-10-28,Barclays 73781208,Bill Payment to Angela Velayo,134.00,,,Statement 31-OCT-24 AC 73781208  02043833.pdf
 2024-10-28,Barclays 73781208,Received From HMRC Child Benefit,,25.60,1220.77,Statement 31-OCT-24 AC 73781208  02043833.pdf
 2024-10-29,Barclays 73781208,Payment to Joylyn Gray,100.00,,1120.77,Statement 31-OCT-24 AC 73781208  02043833.pdf
-2024-10-30,Barclays 23827119,UNITED KINGDOM Money in,1.18,,,Statement 29-NOV-24 AC 23827119  01151405.pdf
-2024-10-30,Barclays 23827119,Money out,0.00,,,Statement 29-NOV-24 AC 23827119  01151405.pdf
 2024-10-30,Barclays 23827119,You earned,1.18,,,Statement 29-NOV-24 AC 23827119  01151405.pdf
-2024-10-30,Barclays 43623068,UNITED KINGDOM Money in,0.00,,,Statement 29-NOV-24 AC 43623068  01151405.pdf
-2024-10-30,Barclays 43623068,Money out,0.00,,,Statement 29-NOV-24 AC 43623068  01151405.pdf
 2024-10-30,Barclays 43623068,Balanc,0.75,,,Statement 29-NOV-24 AC 43623068  01151405.pdf
 2024-10-30,Barclays 43623068,u Up to,1.65,,,Statement 29-NOV-24 AC 43623068  01151405.pdf
 2024-10-30,Barclays 43623068,u,1.15,,,Statement 29-NOV-24 AC 43623068  01151405.pdf
@@ -195,8 +181,6 @@ date,account,description,money_out,money_in,balance,source_file
 2024-10-31,Barclaycard,"Sue Ryder 5101, North Walsham",4.50,,,Monthly BarclayCard Statement_04-NOV-24  05030737.pdf
 2024-10-31,Barclays 73781208,Everyday Saver,720.58,,,Statement 31-OCT-24 AC 73781208  02043833.pdf
 2024-10-31,Barclays 73781208,Everyday Saver,0.75,,,Statement 31-OCT-24 AC 73781208  02043833.pdf
-2024-10-31,Barclays 73781208,Money in,2751.80,,,Statement 31-OCT-24 AC 73781208  02043833.pdf
-2024-10-31,Barclays 73781208,Money out,2255.70,,,Statement 31-OCT-24 AC 73781208  02043833.pdf
 2024-10-31,Barclays 73781208,Bill Payment to Lucy Timog,254.00,,866.77,Statement 31-OCT-24 AC 73781208  02043833.pdf
 2024-10-31,Barclays 73781208,in the UK) we'll charge you a% Non-Sterling To help you understand the charges associated with service provider). We may,2.99,,,Statement 31-OCT-24 AC 73781208  02043833.pdf
 2024-10-31,Barclays 73781208,"†Lines are openam-pm Monday to Friday and Saturday 9am-2pm, except bank holidays. Calls to 03 numbers are charged at th",8.30,,5.30,Statement 31-OCT-24 AC 73781208  02043833.pdf
@@ -230,11 +214,7 @@ date,account,description,money_out,money_in,balance,source_file
 2024-11-28,Barclaycard,"Sumup *James Cards, Norwich",8.00,,,Monthly BarclayCard Statement_03-DEC-24  04030954.pdf
 2024-11-29,Barclaycard,Payment By Direct Debit,,1224.76,,Monthly BarclayCard Statement_03-DEC-24  04030954.pdf
 2024-11-29,Barclaycard,"Sainsburys S/Mkts, North Walsham",24.40,,,Monthly BarclayCard Statement_03-DEC-24  04030954.pdf
-2024-11-30,Barclays 23827119,UNITED KINGDOM Money in,1.01,,,Statement 27-DEC-24 AC 23827119  29043749.pdf
-2024-11-30,Barclays 23827119,Money out,0.00,,,Statement 27-DEC-24 AC 23827119  29043749.pdf
 2024-11-30,Barclays 23827119,You earned,1.01,,,Statement 27-DEC-24 AC 23827119  29043749.pdf
-2024-11-30,Barclays 43623068,UNITED KINGDOM Money in,0.00,,,Statement 27-DEC-24 AC 43623068  29043749.pdf
-2024-11-30,Barclays 43623068,Money out,0.00,,,Statement 27-DEC-24 AC 43623068  29043749.pdf
 2024-11-30,Barclays 43623068,Balanc,0.75,,,Statement 27-DEC-24 AC 43623068  29043749.pdf
 2024-11-30,Barclays 43623068,u Up to,1.50,,,Statement 27-DEC-24 AC 43623068  29043749.pdf
 2024-11-30,Barclays 43623068,u,1.15,,,Statement 27-DEC-24 AC 43623068  29043749.pdf
@@ -302,18 +282,12 @@ date,account,description,money_out,money_in,balance,source_file
 2025-01-28,Barclaycard,Payment By Direct Debit,,36.67,,Monthly BarclayCard Statement_04-FEB-25  05030501.pdf
 2025-01-28,Barclays 73781208,Direct Debit to B/Card Plat VISA,1234.46,,2122.78,Statement 31-JAN-25 AC 73781208  04043841.pdf
 2025-01-29,Barclaycard,"Lidl GB North Walsham, North",9.91,,,Monthly BarclayCard Statement_04-FEB-25  05030501.pdf
-2025-01-30,Barclays 23827119,UNITED KINGDOM Money in,0.95,,,Statement 27-FEB-25 AC 23827119  01043838.pdf
-2025-01-30,Barclays 23827119,Money out,0.00,,,Statement 27-FEB-25 AC 23827119  01043838.pdf
 2025-01-30,Barclays 23827119,You earned,0.95,,,Statement 27-FEB-25 AC 23827119  01043838.pdf
-2025-01-30,Barclays 43623068,UNITED KINGDOM Money in,0.00,,,Statement 27-FEB-25 AC 43623068  01043838.pdf
-2025-01-30,Barclays 43623068,Money out,0.00,,,Statement 27-FEB-25 AC 43623068  01043838.pdf
 2025-01-30,Barclays 43623068,Balanc,0.75,,,Statement 27-FEB-25 AC 43623068  01043838.pdf
 2025-01-30,Barclays 43623068,u Credit interest rate%,,1.25,,Statement 27-FEB-25 AC 43623068  01043838.pdf
 2025-01-30,Barclays 43623068,"in the UK) we'll charge you a% Non-Sterling change your mind at any time, just get in touch. Tell us straight away if:",2.99,,,Statement 27-FEB-25 AC 43623068  01043838.pdf
 2025-01-31,Barclays 73781208,Everyday Saver,723.69,,,Statement 31-JAN-25 AC 73781208  04043841.pdf
 2025-01-31,Barclays 73781208,Everyday Saver,0.75,,,Statement 31-JAN-25 AC 73781208  04043841.pdf
-2025-01-31,Barclays 73781208,Money in,2483.65,,,Statement 31-JAN-25 AC 73781208  04043841.pdf
-2025-01-31,Barclays 73781208,Money out,2717.61,,,Statement 31-JAN-25 AC 73781208  04043841.pdf
 2025-01-31,Barclays 73781208,Bill Payment to Lucy Timog,238.00,,,Statement 31-JAN-25 AC 73781208  04043841.pdf
 2025-01-31,Barclays 73781208,Received From Timog LR,,57.00,,Statement 31-JAN-25 AC 73781208  04043841.pdf
 2025-01-31,Barclays 73781208,Received From 204J91R6E Dwp UC,,305.09,2246.87,Statement 31-JAN-25 AC 73781208  04043841.pdf
@@ -371,15 +345,9 @@ date,account,description,money_out,money_in,balance,source_file
 2025-02-26,Barclays 73781208,Received From Puk Management,,2036.96,3123.06,Statement 28-FEB-25 AC 73781208  02103455.pdf
 2025-02-27,Barclaycard,"Priscilla Bacon Retail LI, North",11.00,,,Monthly BarclayCard Statement_04-MAR-25  05030528.pdf
 2025-02-27,Barclaycard,"Lidl GB North Walsham, North",4.97,,,Monthly BarclayCard Statement_04-MAR-25  05030528.pdf
-2025-02-28,Barclays 23827119,UNITED KINGDOM Money in,0.74,,,Statement 28-MAR-25 AC 23827119  30043804.pdf
-2025-02-28,Barclays 23827119,Money out,0.00,,,Statement 28-MAR-25 AC 23827119  30043804.pdf
 2025-02-28,Barclays 23827119,You earned,0.74,,,Statement 28-MAR-25 AC 23827119  30043804.pdf
-2025-02-28,Barclays 43623068,UNITED KINGDOM Money in,5.00,,,Statement 28-MAR-25 AC 43623068  30043804.pdf
-2025-02-28,Barclays 43623068,Money out,0.00,,,Statement 28-MAR-25 AC 43623068  30043804.pdf
 2025-02-28,Barclays 73781208,Everyday Saver,724.64,,,Statement 28-FEB-25 AC 73781208  02103455.pdf
 2025-02-28,Barclays 73781208,Everyday Saver,0.75,,,Statement 28-FEB-25 AC 73781208  02103455.pdf
-2025-02-28,Barclays 73781208,Money in,2813.87,,,Statement 28-FEB-25 AC 73781208  02103455.pdf
-2025-02-28,Barclays 73781208,Money out,1944.59,,,Statement 28-FEB-25 AC 73781208  02103455.pdf
 2025-02-28,Barclays 73781208,Bill Payment to Joylyn Gray,100.00,,,Statement 28-FEB-25 AC 73781208  02103455.pdf
 2025-02-28,Barclays 73781208,Bill Payment to Joylyn Gray,269.00,,,Statement 28-FEB-25 AC 73781208  02103455.pdf
 2025-02-28,Barclays 73781208,Bill Payment to Lucy Timog,269.00,,,Statement 28-FEB-25 AC 73781208  02103455.pdf
@@ -460,19 +428,13 @@ date,account,description,money_out,money_in,balance,source_file
 2025-03-27,Barclaycard,"East Anglia Childrens Hos, North",9.75,,,Monthly BarclayCard Statement_02-APR-25  03102058.pdf
 2025-03-28,Barclaycard,"Sainsburys S/Mkts, North Walsham",31.21,,,Monthly BarclayCard Statement_02-APR-25  03102058.pdf
 2025-03-29,Barclaycard,"WM Morrisons Store, Cromer",26.80,,,Monthly BarclayCard Statement_02-APR-25  03102058.pdf
-2025-03-29,Barclays 23827119,UNITED KINGDOM Money in,0.72,,,Statement 29-APR-25 AC 23827119  01043815.pdf
-2025-03-29,Barclays 23827119,Money out,150.00,,,Statement 29-APR-25 AC 23827119  01043815.pdf
 2025-03-29,Barclays 23827119,You earned,0.72,,,Statement 29-APR-25 AC 23827119  01043815.pdf
-2025-03-29,Barclays 43623068,UNITED KINGDOM Money in,0.01,,,Statement 29-APR-25 AC 43623068  01043815.pdf
-2025-03-29,Barclays 43623068,Money out,0.00,,,Statement 29-APR-25 AC 43623068  01043815.pdf
 2025-03-29,Barclays 43623068,You earned,0.01,,,Statement 29-APR-25 AC 43623068  01043815.pdf
 2025-03-30,Barclaycard,"Castle Mall Car Park, Norwich",4.25,,,Monthly BarclayCard Statement_02-APR-25  03102058.pdf
 2025-03-31,Barclaycard,Payment By Direct Debit,,2.50,,Monthly BarclayCard Statement_02-APR-25  03102058.pdf
 2025-03-31,Barclaycard,"Sainsburys S/Mkts, North Walsham",15.17,,,Monthly BarclayCard Statement_02-APR-25  03102058.pdf
 2025-03-31,Barclays 73781208,Everyday Saver,725.38,,,Statement 31-MAR-25 AC 73781208  02184829.pdf
 2025-03-31,Barclays 73781208,Everyday Saver,5.75,,,Statement 31-MAR-25 AC 73781208  02184829.pdf
-2025-03-31,Barclays 73781208,Money in,2374.38,,,Statement 31-MAR-25 AC 73781208  02184829.pdf
-2025-03-31,Barclays 73781208,Money out,3242.22,,,Statement 31-MAR-25 AC 73781208  02184829.pdf
 2025-03-31,Barclays 73781208,Direct Debit to B/Card Plat VISA,850.68,,,Statement 31-MAR-25 AC 73781208  02184829.pdf
 2025-03-31,Barclays 73781208,Bill Payment to Joylyn Gray,100.00,,,Statement 31-MAR-25 AC 73781208  02184829.pdf
 2025-03-31,Barclays 73781208,Received From HMRC Child Benefit,,25.60,2248.31,Statement 31-MAR-25 AC 73781208  02184829.pdf
@@ -559,16 +521,10 @@ date,account,description,money_out,money_in,balance,source_file
 2025-04-28,Barclays 73781208,Direct Debit to B/Card Plat VISA,1187.75,,,Statement 30-APR-25 AC 73781208  02043854.pdf
 2025-04-28,Barclays 73781208,Bill Payment to Honey,40.00,,,Statement 30-APR-25 AC 73781208  02043854.pdf
 2025-04-28,Barclays 73781208,Received From HMRC Child Benefit,,26.05,753.02,Statement 30-APR-25 AC 73781208  02043854.pdf
-2025-04-30,Barclays 23827119,UNITED KINGDOM Money in,0.71,,,Statement 29-MAY-25 AC 23827119  31043816.pdf
-2025-04-30,Barclays 23827119,Money out,326.81,,,Statement 29-MAY-25 AC 23827119  31043816.pdf
 2025-04-30,Barclays 23827119,You earned,0.71,,,Statement 29-MAY-25 AC 23827119  31043816.pdf
-2025-04-30,Barclays 43623068,UNITED KINGDOM Money in,0.01,,,Statement 29-MAY-25 AC 43623068  31043816.pdf
-2025-04-30,Barclays 43623068,Money out,0.00,,,Statement 29-MAY-25 AC 43623068  31043816.pdf
 2025-04-30,Barclays 43623068,You earned,0.01,,,Statement 29-MAY-25 AC 43623068  31043816.pdf
 2025-04-30,Barclays 73781208,Everyday Saver,576.10,,,Statement 30-APR-25 AC 73781208  02043854.pdf
 2025-04-30,Barclays 73781208,Everyday Saver,5.76,,,Statement 30-APR-25 AC 73781208  02043854.pdf
-2025-04-30,Barclays 73781208,Money in,2446.37,,,Statement 30-APR-25 AC 73781208  02043854.pdf
-2025-04-30,Barclays 73781208,Money out,4076.66,,,Statement 30-APR-25 AC 73781208  02043854.pdf
 2025-04-30,Barclays 73781208,Bill Payment to Lucy Timog,135.00,,618.02,Statement 30-APR-25 AC 73781208  02043854.pdf
 2025-04-30,Barclays 73781208,in the UK) we'll charge you a% Non-Sterling To help you understand the charges associated with service provider). We may,2.99,,,Statement 30-APR-25 AC 73781208  02043854.pdf
 2025-05-01,Barclays 23827119,"Interest Earned,",0.71,0.71,576.81,Statement 29-MAY-25 AC 23827119  31043816.pdf
@@ -646,22 +602,14 @@ date,account,description,money_out,money_in,balance,source_file
 2025-05-29,Barclaycard,"Priscilla Bacon Retail LI, North",5.00,,,Monthly BarclayCard Statement_03-JUN-25  04030241.pdf
 2025-05-29,Barclays 73781208,Bill Payment From Gray J,,3.50,,Statement 30-MAY-25 AC 73781208  01130225.pdf
 2025-05-29,Barclays 73781208,Bill Payment From Gray J,,5.00,946.97,Statement 30-MAY-25 AC 73781208  01130225.pdf
-2025-05-30,Barclays 23827119,UNITED KINGDOM Money in,0.38,,,Statement 27-JUN-25 AC 23827119  29090400.pdf
-2025-05-30,Barclays 23827119,Money out,0.00,,,Statement 27-JUN-25 AC 23827119  29090400.pdf
 2025-05-30,Barclays 23827119,You earned,0.38,,,Statement 27-JUN-25 AC 23827119  29090400.pdf
-2025-05-30,Barclays 43623068,UNITED KINGDOM Money in,0.01,,,Statement 27-JUN-25 AC 43623068  29090400.pdf
-2025-05-30,Barclays 43623068,Money out,0.00,,,Statement 27-JUN-25 AC 43623068  29090400.pdf
 2025-05-30,Barclays 43623068,You earned,0.01,,,Statement 27-JUN-25 AC 43623068  29090400.pdf
 2025-05-30,Barclays 73781208,Everyday Saver,250.00,,,Statement 30-MAY-25 AC 73781208  01130225.pdf
 2025-05-30,Barclays 73781208,Everyday Saver,5.77,,,Statement 30-MAY-25 AC 73781208  01130225.pdf
-2025-05-30,Barclays 73781208,Money in,3312.59,,,Statement 30-MAY-25 AC 73781208  01130225.pdf
-2025-05-30,Barclays 73781208,Money out,2910.01,,,Statement 30-MAY-25 AC 73781208  01130225.pdf
 2025-05-30,Barclays 73781208,Bill Payment to Joylyn Gray,100.00,,,Statement 30-MAY-25 AC 73781208  01130225.pdf
 2025-05-30,Barclays 73781208,Bill Payment to Lucy Timog,146.00,,,Statement 30-MAY-25 AC 73781208  01130225.pdf
 2025-05-30,Barclays 73781208,Received From 205N0234W Dwp,,319.63,1020.60,Statement 30-MAY-25 AC 73781208  01130225.pdf
 2025-05-30,Barclays 73781208,in the UK) we'll charge you a% Non-Sterling To help you understand the charges associated with service provider). We may,2.99,,,Statement 30-MAY-25 AC 73781208  01130225.pdf
-2025-05-31,Barclays 73781208,Money in,4012.40,,,Statement 30-JUN-25 AC 73781208  02171235.pdf
-2025-05-31,Barclays 73781208,Money out,3503.86,,,Statement 30-JUN-25 AC 73781208  02171235.pdf
 2025-06-02,Barclays 23827119,"Interest Earned,",0.38,0.38,250.38,Statement 27-JUN-25 AC 23827119  29090400.pdf
 2025-06-02,Barclays 23827119,u Credit interest rate%,,1.15,,Statement 27-JUN-25 AC 23827119  29090400.pdf
 2025-06-02,Barclays 23827119,"in the UK) we'll charge you a% Non-Sterling change your mind at any time, just get in touch. Open 24/7 including holidays",2.99,,,Statement 27-JUN-25 AC 23827119  29090400.pdf
@@ -733,11 +681,7 @@ date,account,description,money_out,money_in,balance,source_file
 2025-06-27,Virgin Money Slyce,Payment Mad,,35.65,,2025-06-27.pdf
 2025-06-27,Virgin Money Slyce,Fees Charged,3.23,,,2025-06-27.pdf
 2025-06-28,Barclaycard,"Mipermit Ltd, Chippenham",1.40,,,Monthly BarclayCard Statement_02-JUL-25  03033657.pdf
-2025-06-28,Barclays 23827119,UNITED KINGDOM Money in,0.23,,,Statement 29-JUL-25 AC 23827119  31053442.pdf
-2025-06-28,Barclays 23827119,Money out,0.00,,,Statement 29-JUL-25 AC 23827119  31053442.pdf
 2025-06-28,Barclays 23827119,You earned,0.23,,,Statement 29-JUL-25 AC 23827119  31053442.pdf
-2025-06-28,Barclays 43623068,UNITED KINGDOM Money in,0.01,,,Statement 29-JUL-25 AC 43623068  31053442.pdf
-2025-06-28,Barclays 43623068,Money out,0.00,,,Statement 29-JUL-25 AC 43623068  31053442.pdf
 2025-06-28,Barclays 43623068,You earned,0.01,,,Statement 29-JUL-25 AC 43623068  31053442.pdf
 2025-06-29,Barclays 73781208,Received From Kaye M,,30.42,,Statement 31-JUL-25 AC 73781208  02053202.pdf
 2025-06-29,Barclays 73781208,Received From 205N53Y9F Dwp UC,,409.57,970.48,Statement 31-JUL-25 AC 73781208  02053202.pdf
@@ -833,19 +777,13 @@ date,account,description,money_out,money_in,balance,source_file
 2025-07-29,Barclays 73781208,Bill Payment to Honey,45.00,,,Statement 31-JUL-25 AC 73781208  02053202.pdf
 2025-07-29,Barclays 73781208,Bill Payment to Joylyn Gray,50.00,,776.13,Statement 31-JUL-25 AC 73781208  02053202.pdf
 2025-07-30,Barclaycard,"Masala Twist, Cromer",98.95,,,Monthly BarclayCard Statement_04-AUG-25  05035111.pdf
-2025-07-30,Barclays 23827119,UNITED KINGDOM Money in,0.25,,,Statement 29-AUG-25 AC 23827119  31164011.pdf
-2025-07-30,Barclays 23827119,Money out,250.00,,,Statement 29-AUG-25 AC 23827119  31164011.pdf
 2025-07-30,Barclays 23827119,You earned,0.25,,,Statement 29-AUG-25 AC 23827119  31164011.pdf
-2025-07-30,Barclays 43623068,UNITED KINGDOM Money in,0.01,,,Statement 29-AUG-25 AC 43623068  31164011.pdf
-2025-07-30,Barclays 43623068,Money out,0.00,,,Statement 29-AUG-25 AC 43623068  31164011.pdf
 2025-07-30,Barclays 43623068,You earned,0.01,,,Statement 29-AUG-25 AC 43623068  31164011.pdf
 2025-07-30,Barclays 73781208,Bill Payment to Joylyn Gray,100.00,,,Statement 31-JUL-25 AC 73781208  02053202.pdf
 2025-07-30,Barclays 73781208,in the UK) we'll charge you a% Non-Sterling To help you understand the charges associated with service provider). We may,2.99,,,Statement 31-JUL-25 AC 73781208  02053202.pdf
 2025-07-31,Barclaycard,"Klarna Fsuk, www.Klarna.Co",30.00,,,Monthly BarclayCard Statement_04-AUG-25  05035111.pdf
 2025-07-31,Barclays 73781208,Everyday Saver,250.61,,,Statement 31-JUL-25 AC 73781208  02053202.pdf
 2025-07-31,Barclays 73781208,Everyday Saver,5.79,,,Statement 31-JUL-25 AC 73781208  02053202.pdf
-2025-07-31,Barclays 73781208,Money in,2468.69,,,Statement 31-JUL-25 AC 73781208  02053202.pdf
-2025-07-31,Barclays 73781208,Money out,3421.70,,,Statement 31-JUL-25 AC 73781208  02053202.pdf
 2025-08-01,Barclays 23827119,Transfer to Sort Code 20-05-57,50.00,,,Statement 29-AUG-25 AC 23827119  31164011.pdf
 2025-08-01,Barclays 23827119,"Interest Earned,",0.25,0.25,200.86,Statement 29-AUG-25 AC 23827119  31164011.pdf
 2025-08-01,Barclays 43623068,"Interest Earned,",0.01,0.01,5.80,Statement 29-AUG-25 AC 43623068  31164011.pdf
@@ -939,20 +877,12 @@ date,account,description,money_out,money_in,balance,source_file
 2025-08-29,Barclaycard,"Amazon* RK9RA73O4, London",96.50,,,Monthly BarclayCard Statement_02-SEP-25  03035046.pdf
 2025-08-29,Barclays 73781208,Everyday Saver,5.80,,,Statement 29-AUG-25 AC 73781208  31164011.pdf
 2025-08-29,Barclays 73781208,Everyday Saver,0.86,,,Statement 29-AUG-25 AC 73781208  31164011.pdf
-2025-08-29,Barclays 73781208,Money in,3459.24,,,Statement 29-AUG-25 AC 73781208  31164011.pdf
-2025-08-29,Barclays 73781208,Money out,3270.85,,,Statement 29-AUG-25 AC 73781208  31164011.pdf
 2025-08-29,Barclays 73781208,Direct Debit to B/Card Plat VISA,1219.86,,,Statement 29-AUG-25 AC 73781208  31164011.pdf
 2025-08-29,Barclays 73781208,Card Payment to Sumup *Elite Plant,8.00,,764.52,Statement 29-AUG-25 AC 73781208  31164011.pdf
 2025-08-29,Barclays 73781208,in the UK) we'll charge you a% Non-Sterling To help you understand the charges associated with service provider). We may,2.99,,,Statement 29-AUG-25 AC 73781208  31164011.pdf
 2025-08-30,Barclaycard,"Klarna*Argos, London",30.00,,,Monthly BarclayCard Statement_02-SEP-25  03035046.pdf
-2025-08-30,Barclays 23827119,UNITED KINGDOM Money in,0.05,,,Statement 29-SEP-25 AC 23827119  30051222.pdf
-2025-08-30,Barclays 23827119,Money out,0.00,,,Statement 29-SEP-25 AC 23827119  30051222.pdf
 2025-08-30,Barclays 23827119,You earned,0.05,,,Statement 29-SEP-25 AC 23827119  30051222.pdf
-2025-08-30,Barclays 43623068,UNITED KINGDOM Money in,0.01,,,Statement 29-SEP-25 AC 43623068  30051222.pdf
-2025-08-30,Barclays 43623068,Money out,0.00,,,Statement 29-SEP-25 AC 43623068  30051222.pdf
 2025-08-30,Barclays 43623068,You earned,0.01,,,Statement 29-SEP-25 AC 43623068  30051222.pdf
-2025-08-30,Barclays 73781208,Money in,2731.29,,,Statement 30-SEP-25 AC 73781208  02050029.pdf
-2025-08-30,Barclays 73781208,Money out,2932.31,,,Statement 30-SEP-25 AC 73781208  02050029.pdf
 2025-09-01,Barclays 23827119,"Interest Earned,",0.05,0.05,0.91,Statement 29-SEP-25 AC 23827119  30051222.pdf
 2025-09-01,Barclays 23827119,u Credit interest rate%,,1.10,,Statement 29-SEP-25 AC 23827119  30051222.pdf
 2025-09-01,Barclays 23827119,"in the UK) we'll charge you a% Non-Sterling change your mind at any time, just get in touch. Open 24/7 including holidays",2.99,,,Statement 29-SEP-25 AC 23827119  30051222.pdf
@@ -1020,13 +950,9 @@ date,account,description,money_out,money_in,balance,source_file
 2025-09-29,Barclays 73781208,Card Payment to Upstairs,5.00,,,Statement 30-SEP-25 AC 73781208  02050029.pdf
 2025-09-29,Barclays 73781208,Card Payment to Pensthorp,25.90,,,Statement 30-SEP-25 AC 73781208  02050029.pdf
 2025-09-29,Barclays 73781208,Received From HMRC Child Benefit,,26.05,663.50,Statement 30-SEP-25 AC 73781208  02050029.pdf
-2025-09-30,Barclays 23827119,UNITED KINGDOM Money in,0.00,,,Statement 29-OCT-25 AC 23827119  30045648.pdf
-2025-09-30,Barclays 23827119,Money out,0.00,,,Statement 29-OCT-25 AC 23827119  30045648.pdf
 2025-09-30,Barclays 23827119,Balanc,0.91,,,Statement 29-OCT-25 AC 23827119  30045648.pdf
 2025-09-30,Barclays 23827119,u Credit interest rate%,,1.10,,Statement 29-OCT-25 AC 23827119  30045648.pdf
 2025-09-30,Barclays 23827119,"in the UK) we'll charge you a% Non-Sterling change your mind at any time, just get in touch. Open 24/7 including holidays",2.99,,,Statement 29-OCT-25 AC 23827119  30045648.pdf
-2025-09-30,Barclays 43623068,UNITED KINGDOM Money in,0.01,,,Statement 29-OCT-25 AC 43623068  30045648.pdf
-2025-09-30,Barclays 43623068,Money out,0.00,,,Statement 29-OCT-25 AC 43623068  30045648.pdf
 2025-09-30,Barclays 43623068,You earned,0.01,,,Statement 29-OCT-25 AC 43623068  30045648.pdf
 2025-09-30,Barclays 73781208,Everyday Saver,5.81,,,Statement 30-SEP-25 AC 73781208  02050029.pdf
 2025-09-30,Barclays 73781208,Everyday Saver,0.91,,,Statement 30-SEP-25 AC 73781208  02050029.pdf
@@ -1105,18 +1031,12 @@ date,account,description,money_out,money_in,balance,source_file
 2025-10-27,Barclays 73781208,Received From HMRC Child Benefit,,26.05,1129.87,Statement 31-OCT-25 AC 73781208  03133059.pdf
 2025-10-29,Barclays 73781208,Direct Debit to Paypal Payment,0.99,,1128.88,Statement 31-OCT-25 AC 73781208  03133059.pdf
 2025-10-30,Barclaycard,"Klarna*Shein.co.uk, www.Klarna.Co",8.92,,,Monthly BarclayCard Statement_04-NOV-25  05030944.pdf
-2025-10-30,Barclays 23827119,CROMER Money in,0.00,,,Statement 28-NOV-25 AC 23827119  30044034.pdf
-2025-10-30,Barclays 23827119,Money out,0.00,,,Statement 28-NOV-25 AC 23827119  30044034.pdf
 2025-10-30,Barclays 23827119,Balanc,0.91,,,Statement 28-NOV-25 AC 23827119  30044034.pdf
 2025-10-30,Barclays 23827119,u Credit interest rate%,,1.05,,Statement 28-NOV-25 AC 23827119  30044034.pdf
 2025-10-30,Barclays 23827119,"in the UK) we'll charge you a% Non-Sterling change your mind at any time, just get in touch. Open 24/7 including holidays",2.99,,,Statement 28-NOV-25 AC 23827119  30044034.pdf
-2025-10-30,Barclays 43623068,CROMER Money in,0.01,,,Statement 28-NOV-25 AC 43623068  30044034.pdf
-2025-10-30,Barclays 43623068,Money out,0.00,,,Statement 28-NOV-25 AC 43623068  30044034.pdf
 2025-10-30,Barclays 43623068,You earned,0.01,,,Statement 28-NOV-25 AC 43623068  30044034.pdf
 2025-10-31,Barclays 73781208,Everyday Saver,5.82,,,Statement 31-OCT-25 AC 73781208  03133059.pdf
 2025-10-31,Barclays 73781208,Everyday Saver,0.91,,,Statement 31-OCT-25 AC 73781208  03133059.pdf
-2025-10-31,Barclays 73781208,Money in,3321.74,,,Statement 31-OCT-25 AC 73781208  03133059.pdf
-2025-10-31,Barclays 73781208,Money out,2566.70,,,Statement 31-OCT-25 AC 73781208  03133059.pdf
 2025-10-31,Barclays 73781208,Bill Payment to Joylyn Gray,100.00,,,Statement 31-OCT-25 AC 73781208  03133059.pdf
 2025-10-31,Barclays 73781208,Bill Payment to Lucy Timog,130.00,,,Statement 31-OCT-25 AC 73781208  03133059.pdf
 2025-10-31,Barclays 73781208,Received From 206R61C3U Dwp UC,,419.66,1318.54,Statement 31-OCT-25 AC 73781208  03133059.pdf
@@ -1156,8 +1076,6 @@ date,account,description,money_out,money_in,balance,source_file
 2025-11-27,Barclays 73781208,Timed at On 27 Nov,15.29,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
 2025-11-28,Barclays 73781208,Everyday Saver,5.83,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
 2025-11-28,Barclays 73781208,Everyday Saver,0.91,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
-2025-11-28,Barclays 73781208,Money in,2046.58,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
-2025-11-28,Barclays 73781208,Money out,1767.74,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
 2025-11-28,Barclays 73781208,Direct Debit to Vodafone Ltd,36.41,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
 2025-11-28,Barclays 73781208,Payment to Ms C G Kay,25.00,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
 2025-11-28,Barclays 73781208,Payment to Joylyn Gray,200.00,,,Statement 28-NOV-25 AC 73781208  30044034.pdf
@@ -1193,11 +1111,7 @@ date,account,description,money_out,money_in,balance,source_file
 2025-12-21,Barclaycard,"Merlin Cinemas, Norfolk",8.75,,,Monthly BarclayCard Statement_03-JAN-25  04030648.pdf
 2025-12-28,Barclaycard,"QD-North Walsham, North Walsham",9.45,,,Monthly BarclayCard Statement_03-JAN-25  04030648.pdf
 2025-12-28,Barclaycard,"Shein.com, Berkshir",20.07,,,Monthly BarclayCard Statement_03-JAN-25  04030648.pdf
-2025-12-28,Barclays 23827119,UNITED KINGDOM Money in,0.92,,,Statement 29-JAN-25 AC 23827119  31043742.pdf
-2025-12-28,Barclays 23827119,Money out,0.00,,,Statement 29-JAN-25 AC 23827119  31043742.pdf
 2025-12-28,Barclays 23827119,You earned,0.92,,,Statement 29-JAN-25 AC 23827119  31043742.pdf
-2025-12-28,Barclays 43623068,UNITED KINGDOM Money in,0.00,,,Statement 29-JAN-25 AC 43623068  31043742.pdf
-2025-12-28,Barclays 43623068,Money out,0.00,,,Statement 29-JAN-25 AC 43623068  31043742.pdf
 2025-12-28,Barclays 43623068,Balanc,0.75,,,Statement 29-JAN-25 AC 43623068  31043742.pdf
 2025-12-28,Barclays 43623068,u Up to,1.50,,,Statement 29-JAN-25 AC 43623068  31043742.pdf
 2025-12-28,Barclays 43623068,u,1.15,,,Statement 29-JAN-25 AC 43623068  31043742.pdf
