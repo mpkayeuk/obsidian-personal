@@ -38,16 +38,9 @@
 
 ---
 
-### 2. Universal Credit & Housing Element
+### 2. Universal Credit
 
-**2.1** Please provide your Universal Credit award statements for each assessment period from September 2025 to date, showing:
-(a) The total monthly award;
-(b) The breakdown by element (standard allowance, child element, housing element, and any other elements);
-(c) Your declared household composition.
-
-**2.2** If your Universal Credit award includes a housing element, please explain why your bank statements show no corresponding rent expenditure following your move to 12A.
-
-**2.3** Please confirm the date on which you notified the Department for Work and Pensions of your change of address to 12A.
+**2.1** Please provide your Universal Credit award statements from September 2025 to date.
 
 ---
 
@@ -114,22 +107,26 @@ Please provide the following documents:
 | Full details of relationship with Mr Thorne's family | Speculative; better addressed through documents requested |
 | Philippines payments (~£270 total) | *De minimis*; unlikely to be material to outcome |
 | Declaration to DWP re non-dependent adults | UC statements will show declared household composition |
+| Pointed questions about housing element vs rent paid | Risk of appearing accusatory; if there's an inconsistency, the documents will show it |
+| Date of notification to DWP of move | Not our concern; we're not DWP investigators |
 | Whether rent refund received from previous landlord | Small sum; peripheral |
 
 ### Strategic Notes
 
-1. **Focus on documents, not explanations**: The tenancy agreement and UC statements will answer most questions about cohabitation and housing costs without requiring the Applicant to make admissions.
+1. **Focus on documents, not explanations**: The tenancy agreement and UC statements will answer most questions about cohabitation and housing costs without requiring the Applicant to make admissions. Let the documents do the work.
 
 2. **The cohabitation issue**: If she is in a relationship akin to marriage with Mr Thorne and he is subsidising her housing, this is highly material to:
    - Her housing needs (s.25(2)(b))
    - Resources available to her (s.25(2)(a))
    - Any spousal maintenance claim
 
-3. **The M&G payment**: At nearly £2,000, this could indicate an undisclosed pension, investment, or inheritance. Worth pursuing.
+3. **Universal Credit approach**: We request the statements only. If they show a housing element but her bank statements show no rent being paid, that inconsistency is self-evident. We don't need to make accusations - we simply present the documents at the hearing and let the judge draw inferences. This is more effective than pointed questions which invite defensive, evasive answers.
 
-4. **The Gray loan**: If she lent £1,000 and only £200 has been repaid, she has an undisclosed asset of ~£800 owed to her.
+4. **The M&G payment**: At nearly £2,000, this could indicate an undisclosed pension, investment, or inheritance. Worth pursuing.
 
-5. **Tone**: The redrafted questions avoid accusatory language. Courts expect parties to assist with reasonable disclosure, not to conduct cross-examination by questionnaire.
+5. **The Gray loan**: If she lent £1,000 and only £200 has been repaid, she has an undisclosed asset of ~£800 owed to her.
+
+6. **Tone**: The redrafted questions avoid accusatory language. Courts expect parties to assist with reasonable disclosure, not to conduct cross-examination by questionnaire. Judges are astute - they will notice inconsistencies without needing them signposted aggressively.
 
 ---
 
