@@ -332,6 +332,26 @@ The Respondent submits that a clean break with no pension sharing is the only fa
 5. The Respondent has no capacity to rebuild; the Applicant has 32 years
 6. The income disparity (£54,000+ vs £4,716) already favours the Applicant
 
+### 9.3 The Legal Framework
+
+The Respondent respectfully reminds the court that:
+
+1. *Standish v Standish* [2024] EWCA Civ 567 is binding Court of Appeal authority establishing that passive growth on non-matrimonial assets retains its non-matrimonial character.
+
+2. The established legal framework requires that non-matrimonial assets may only be invaded where the claimant has **demonstrated needs** that cannot be met from matrimonial assets or their own resources.
+
+3. The **burden of proof** lies with the party seeking to invade non-matrimonial assets to demonstrate those needs. It is not for the asset-holder to justify retention.
+
+4. Any departure from these principles would require clear justification and adequate reasoning, identifying:
+   - What needs have been demonstrated
+   - Why those needs cannot be met from the Applicant's own resources
+   - Why those needs cannot be met from the combined household income (~£54,000+)
+   - Why invasion of non-matrimonial assets is necessary and proportionate
+
+The Respondent submits that no such justification exists on the evidence before the court. The Applicant has provided a needs schedule (Section 3.1.1) that excludes essential living costs, suggesting either incomplete disclosure or that her needs are met elsewhere. She has not quantified any retirement capital requirement.
+
+**In the absence of demonstrated needs, there is no lawful basis to invade the Respondent's non-matrimonial pension assets.**
+
 ---
 
 **Statement of Truth**
