@@ -8,8 +8,10 @@
 | Priority | Issue | Why It Matters |
 |----------|-------|----------------|
 | **Critical** | Form E internal contradictions (1.8 vs 4.6) | Goes to credibility; she denies living with partner but completes partner disclosure section |
-| **Critical** | Missing housing costs in needs schedule | Her needs omit rent, utilities, food - suggests costs being met by third party |
+| **Critical** | Missing housing costs in needs schedule | Her needs omit rent, utilities, food - suggests costs being met by third party; **undermines any claim to invade non-matrimonial assets for "needs"** |
+| **Critical** | Terry Thorne's income and contributions | Both declare exactly £27,000 income (suspicious); combined household income ~£54,000 yet needs schedule only £650/month |
 | **Critical** | Undisclosed assets (M&G, payments to Gray) | Affects capital position; £1,535 paid for "Citizenship" with only £200 returned |
+| **High** | Failure to demonstrate needs | Under *Standish*, non-matrimonial assets can only be invaded for demonstrated needs; she hasn't shown any |
 | **Medium** | Charlotte's savings account | £785 total payments; undisclosed child asset |
 | **High** | PensionBee "in drawdown" at age 35 | Unusual; may explain M&G payment; needs clarification |
 | **High** | Universal Credit statements | Documents her income; any inconsistencies will be self-evident |
@@ -58,21 +60,39 @@ Please confirm:
 
 ---
 
-### 3. Pensions & Undisclosed Assets
+### 3. Mr Thorne's Financial Position
 
-**3.1** The supplementary page to your Form E discloses a PensionBee pension (reference 1859924) with a cash equivalent of £6,580.14. At the question "Is the pension in payment or drawdown?" you have answered "Yes."
+**3.1** At Section 4.6 of your Form E you have disclosed that Mr Thorne's income is £27,000 per annum - the same figure as your own declared salary. Please confirm:
+(a) Mr Thorne's occupation and employer;
+(b) Whether £27,000 is his gross or net income;
+(c) How you ascertained this figure.
+
+**3.2** Please confirm what contribution (if any) Mr Thorne makes towards:
+(a) Rent or mortgage payments;
+(b) Council tax;
+(c) Gas, electricity, and water;
+(d) Food and groceries;
+(e) Other household expenses.
+
+**3.3** If your household has a combined income of approximately £54,000 per annum (your salary plus Mr Thorne's income), please explain why your Form E needs schedule at Section 3.1.1 totals only £650 per month and contains no provision for housing, utilities, or food.
+
+---
+
+### 4. Pensions & Undisclosed Assets
+
+**4.1** The supplementary page to your Form E discloses a PensionBee pension (reference 1859924) with a cash equivalent of £6,580.14. At the question "Is the pension in payment or drawdown?" you have answered "Yes."
 
 Given that you are aged 35 and the minimum pension age is 55, please confirm:
 (a) On what basis you have accessed this pension before minimum pension age;
 (b) What sum (if any) has been withdrawn from this pension to date;
 (c) Whether the payment of £1,912.47 from "M+G Trustee Comp" on 4 June 2025 relates to this pension or any other pension arrangement.
 
-**3.2** If the payment of £1,912.47 from M+G Trustee Company does not relate to the PensionBee pension, please confirm:
+**4.2** If the payment of £1,912.47 from M+G Trustee Company does not relate to the PensionBee pension, please confirm:
 (a) The nature of this payment (e.g., encashment, dividend, maturity proceeds);
 (b) Whether you hold any continuing interest in an M&G investment, pension, or policy;
 (c) If so, the current value.
 
-**3.3** Your bank statements show three payments to Ms Joylyn Gray referenced "Citizenship":
+**4.3** Your bank statements show three payments to Ms Joylyn Gray referenced "Citizenship":
 - 22 April 2025: £500
 - 23 April 2025: £35
 - 6 June 2025: £1,000
@@ -85,7 +105,7 @@ Please confirm:
 (b) Whether any balance remains outstanding;
 (c) If any sum is owed to you, why this was not declared at Section 2.6.
 
-**3.4** Your bank statements show the following payments to "Ms C G Kaye":
+**4.4** Your bank statements show the following payments to "Ms C G Kaye":
 - Regular monthly payments of £25 referenced "Savings" (14 payments totalling £350)
 - A payment of £435 on 12 August 2024 referenced "Child Benefit"
 - **Total: £785**
@@ -98,15 +118,15 @@ Please confirm:
 
 ---
 
-### 4. Universal Credit
+### 5. Universal Credit
 
-**4.1** Please provide your Universal Credit award statements from September 2025 to date.
+**5.1** Please provide your Universal Credit award statements from September 2025 to date.
 
 ---
 
-### 5. Income from Third Parties
+### 6. Income from Third Parties
 
-**5.1** Your bank statements show the following payments received from "Gray J" which do not appear in Form E:
+**6.1** Your bank statements show the following payments received from "Gray J" which do not appear in Form E:
 - 12 Aug 2025: £332 (Ref: "Personal Expenses")
 - 18 Aug 2025: £200 (Ref: "Shopping")
 - 20 Aug 2025: £150 (Ref: "Shopping")
@@ -121,9 +141,9 @@ Please confirm, for each payment, whether it represents:
 
 ---
 
-### 6. State Benefits
+### 7. State Benefits
 
-**6.1** Your Form E does not disclose Child Benefit at Section 2.18, yet your bank statements show regular receipts (e.g., £26.05 on 29 September 2025). Please confirm:
+**7.1** Your Form E does not disclose Child Benefit at Section 2.18, yet your bank statements show regular receipts (e.g., £26.05 on 29 September 2025). Please confirm:
 (a) Whether you receive Child Benefit;
 (b) The current monthly amount;
 (c) Why this was omitted from Form E.

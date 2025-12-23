@@ -33,6 +33,8 @@
 | **Liabilities** | £69,033 | Minimal |
 | **Net Position** | £92,421 | £18,145 |
 | **Annual Income** | £4,716 (UC only) | £27,677 (salary + UC + CMS) |
+| **Partner's Income** | N/A | £27,000 (Mr Thorne - per s.4.6) |
+| **Household Income** | £4,716 | ~£54,000+ |
 | **Age** | 51 | 35 |
 | **Years to Retirement** | 14 | 32 |
 
@@ -76,7 +78,23 @@ If no contributions were made during the marriage (as stated in Form E), then un
 - **Non-matrimonial pensions:** £129,408 (PensionBee + Standard Life)
 - **Matrimonial pension:** £31,982 (Nest only)
 
-Any claim by the Applicant to share in the non-matrimonial pensions would require her to establish a **need** that cannot be met from matrimonial assets. For the reasons set out below, no such need exists.
+Any claim by the Applicant to share in the non-matrimonial pensions would require her to establish a **need** that cannot be met from matrimonial assets. For the reasons set out below, no such need has been demonstrated.
+
+### 3.4 The Burden of Proof
+
+The burden is on the Applicant to demonstrate:
+1. What her actual needs are
+2. That she cannot meet them from her own resources
+3. That she cannot meet them from matrimonial assets
+4. That invasion of non-matrimonial assets is necessary and justified
+
+**The Applicant has not discharged this burden.** Her Form E:
+- Declares needs of only £650 per month
+- Excludes all housing costs (rent, council tax, utilities)
+- Excludes food and groceries
+- Shows no demonstrated need for capital provision
+
+If her essential costs are being met by Mr Thorne or another third party (as the omissions suggest), she has no need that would justify invasion of the Respondent's non-matrimonial pensions.
 
 ---
 
@@ -223,13 +241,37 @@ The Respondent notes the following issues with the Applicant's disclosure:
 
 2. **Missing housing costs**: The Applicant's income needs schedule (Section 3.1.1) totals £650/month but contains no provision for rent, council tax, utilities, or food. These essential costs are either being met by a third party or have not been disclosed.
 
-3. **Undisclosed receipts**: Bank statements show a payment of £1,912.47 from "M+G Trustee Comp" on 4 June 2025 which is not explained in Form E.
+3. **Identical declared incomes**: At Section 4.6, the Applicant declares Mr Thorne's income as £27,000 per annum - exactly the same figure as her own declared salary. This coincidence is unexplained. If accurate, the household has a combined income of approximately £54,000 per annum, yet the Applicant's declared needs are only £650 per month with no housing costs.
 
-4. **Undisclosed child asset**: Bank statements show £785 in payments to "Ms C G Kaye" referenced as "Savings" and "Child Benefit", suggesting an undisclosed savings account held for Charlotte.
+4. **Undisclosed receipts**: Bank statements show a payment of £1,912.47 from "M+G Trustee Comp" on 4 June 2025 which is not explained in Form E.
 
-### 7.2 Relevance to Needs
+5. **Undisclosed child asset**: Bank statements show £785 in payments to "Ms C G Kaye" referenced as "Savings" and "Child Benefit", suggesting an undisclosed savings account held for Charlotte.
 
-If the Applicant's housing and living costs are being met by a third party (as the missing costs in her needs schedule suggest), her **need** for capital provision from the Respondent is significantly reduced.
+### 7.2 The Combined Household Position
+
+If the Applicant is cohabiting with Mr Thorne (as Section 4.6 suggests), the household financial position is:
+
+| Item | Amount |
+|------|--------|
+| Applicant's salary | £27,000 |
+| Mr Thorne's income | £27,000 |
+| Universal Credit (if still claimed) | ~£5,000 |
+| Child Maintenance | ~£365 |
+| **Combined Household Income** | **~£59,000+** |
+
+This is more than **twelve times** the Respondent's income of £4,716.
+
+### 7.3 Relevance to Needs
+
+The Applicant has not demonstrated any need that would justify invasion of the Respondent's non-matrimonial pensions:
+
+1. Her declared needs (£650/month) are modest and exclude essential costs
+2. She has not explained who meets her housing and living costs
+3. She appears to live in a household with combined income exceeding £54,000
+4. She has 32 years of earning capacity and pension accrual ahead of her
+5. She has not quantified any retirement need or capital requirement
+
+**The burden is on the Applicant to demonstrate needs. She has not done so.**
 
 ---
 
@@ -262,10 +304,33 @@ The Respondent seeks:
 | Net matrimonial position | **(£37,051)** |
 | Respondent's earning capacity | Nil until 2033 |
 | Applicant's earning capacity | Full, 32 years to retirement |
+| Applicant's household income | ~£54,000+ (with Mr Thorne) |
+| Respondent's income | £4,716 (UC only) |
+| Has Applicant demonstrated needs? | **No** |
 | Can Respondent rebuild? | No |
 | Can Applicant rebuild? | Yes |
 
-The Respondent submits that a clean break with no pension sharing is the fair outcome. The matrimonial pot is in deficit, the Respondent is bearing that deficit alone, and he has no capacity to rebuild while the Applicant has 32 years ahead of her.
+### 9.1 The Legal Position
+
+Under *Standish v Standish*, non-matrimonial assets should only be invaded to meet **demonstrated needs**. The Applicant:
+
+1. Has not demonstrated any needs (her Form E excludes essential costs)
+2. Lives in a household with combined income of ~£54,000+
+3. Has 32 years to build her own pension provision
+4. Has not quantified any retirement capital requirement
+
+Without demonstrated needs, there is no legal basis to invade the Respondent's non-matrimonial pensions.
+
+### 9.2 The Respondent's Position
+
+The Respondent submits that a clean break with no pension sharing is the only fair and legally justified outcome:
+
+1. The matrimonial pot is **in deficit** (£31,982 pension minus £69,033 debt = -£37,051)
+2. The Respondent is bearing that entire deficit alone
+3. The non-matrimonial pensions (£129,408) cannot be invaded without demonstrated needs
+4. The Applicant has not demonstrated any needs
+5. The Respondent has no capacity to rebuild; the Applicant has 32 years
+6. The income disparity (£54,000+ vs £4,716) already favours the Applicant
 
 ---
 
