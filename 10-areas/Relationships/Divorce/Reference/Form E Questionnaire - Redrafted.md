@@ -9,7 +9,8 @@
 |----------|-------|----------------|
 | **Critical** | Form E internal contradictions (1.8 vs 4.6) | Goes to credibility; she denies living with partner but completes partner disclosure section |
 | **Critical** | Missing housing costs in needs schedule | Her needs omit rent, utilities, food - suggests costs being met by third party |
-| **Critical** | Undisclosed assets (M&G, loan to Gray) | Affects capital position |
+| **Critical** | Undisclosed assets (M&G, payments to Gray) | Affects capital position; £1,535 paid for "Citizenship" with only £200 returned |
+| **Medium** | Charlotte's savings account | £25/month regular payments; undisclosed child asset |
 | **High** | PensionBee "in drawdown" at age 35 | Unusual; may explain M&G payment; needs clarification |
 | **High** | Universal Credit statements | Documents her income; any inconsistencies will be self-evident |
 | **Medium** | Undisclosed income streams | Affects income assessment |
@@ -71,10 +72,26 @@ Given that you are aged 35 and the minimum pension age is 55, please confirm:
 (b) Whether you hold any continuing interest in an M&G investment, pension, or policy;
 (c) If so, the current value.
 
-**3.3** On 6 June 2025 you paid £1,000 to Ms Joylyn Gray referenced "Citizenship". On 5 September 2025 you received £200 from her referenced "Loan". Section 2.6 of your Form E (debts owed to you) shows £0. Please confirm:
-(a) Whether you made a loan to Ms Gray;
-(b) If so, the balance outstanding;
-(c) Why this was not declared at Section 2.6.
+**3.3** Your bank statements show three payments to Ms Joylyn Gray referenced "Citizenship":
+- 22 April 2025: £500
+- 23 April 2025: £35
+- 6 June 2025: £1,000
+- **Total: £1,535**
+
+On 5 September 2025 you received £200 from Ms Gray referenced "Loan". Section 2.6 of your Form E (debts owed to you) shows £0.
+
+Please confirm:
+(a) The nature of these payments (gift, loan, or other);
+(b) Whether any balance remains outstanding;
+(c) If any sum is owed to you, why this was not declared at Section 2.6.
+
+**3.4** Your bank statements show regular monthly payments of £25 to "Ms C G Kaye" referenced "Savings", totalling approximately £350 during the period covered by your disclosed statements.
+
+Please confirm:
+(a) Whether these payments are made into a savings account held for Charlotte;
+(b) If so, the current balance of that account;
+(c) Whether you are a signatory or trustee on that account;
+(d) Why this account was not disclosed at Section 2.4 of Form E (assets held for children).
 
 ---
 
@@ -86,15 +103,16 @@ Given that you are aged 35 and the minimum pension age is 55, please confirm:
 
 ### 5. Income from Third Parties
 
-**5.1** Your bank statements show the following payments from "Gray J" or "Joylyn Gray" which do not appear in Form E:
-- 02 Oct 2025: £400
-- 12 Aug 2025: £332
-- 19 Aug 2025: £200
-- 20 Aug 2025: £150
+**5.1** Your bank statements show the following payments received from "Gray J" which do not appear in Form E:
+- 02 Oct 2025: £400 (Ref: "Cashpal")
+- 05 Sep 2025: £200 (Ref: "Loan")
+- 12 Aug 2025: £332 (Ref: "Personal Expenses")
+- 18 Aug 2025: £200 (Ref: "Shopping")
+- 20 Aug 2025: £150 (Ref: "Shopping")
 
 Please confirm, for each payment, whether it represents:
 (a) A gift;
-(b) Repayment of a loan;
+(b) Repayment of a loan or other sum owed to you;
 (c) Income or remuneration; or
 (d) Reimbursement for specific expenditure (and if so, what).
 
@@ -118,7 +136,8 @@ Please provide the following documents:
 3. **Housing costs**: Any utility bills, council tax demands, or similar documents for 12A showing named account holders
 4. **PensionBee**: Documentation evidencing any withdrawals or drawdown from your PensionBee pension
 5. **M&G**: Documentation evidencing the payment of £1,912.47 and any continuing interest held
-6. **Loan to Ms Gray**: Any written agreement or correspondence regarding monies advanced to Ms Gray
+6. **Payments to Ms Gray**: Any written agreement or correspondence regarding the "Citizenship" payments totalling £1,535
+7. **Charlotte's savings**: The most recent statement for any savings account held for Charlotte, showing the current balance
 
 ---
 
@@ -132,6 +151,14 @@ Please provide the following documents:
 | 1.2 (Missing housing costs) | Section 3.1.1 needs schedule omits rent, utilities, food | Either costs met by third party or incomplete disclosure |
 | 3.1 (Pension drawdown) | PensionBee marked "in drawdown" at age 35 | Highly unusual; may explain M&G payment |
 
+### Questions Updated Following Bank Statement Forensic Analysis
+
+| Question | Update | Basis |
+|----------|--------|-------|
+| 3.3 (Payments to Gray) | Expanded from £1,000 to £1,535 | Bank statements show three "Citizenship" payments: £500 (22 Apr), £35 (23 Apr), £1,000 (6 Jun) |
+| 5.1 (Payments from Gray) | Added references and 5 Sep payment | References show "Shopping", "Personal Expenses", "Loan", "Cashpal" |
+| 3.4 (Charlotte savings) | **NEW** | £25/month payments to "Ms C G Kaye Ref: Savings" - undisclosed child asset |
+
 ### Questions Omitted and Reasons
 
 | Original Question | Reason for Omission |
@@ -140,10 +167,12 @@ Please provide the following documents:
 | Previous occupants of 12A (Megyn Thorne) | Tangential; investigative rather than disclosure-focused |
 | Explanation for late disclosure of Oct/Nov statements | Backward-looking; statements now provided |
 | Full details of relationship with Mr Thorne's family | Speculative; better addressed through documents requested |
-| Philippines payments (~£270 total) | *De minimis*; unlikely to be material to outcome |
+| Philippines payments (~£450 total) | Categorised as "PH" - likely family remittances; not material to outcome |
 | Declaration to DWP re non-dependent adults | UC statements will show declared household composition |
 | Pointed questions about UC housing element vs rent | Risk of appearing accusatory; documents will show it |
 | Nature of relationship with Mr Thorne | Asked neutrally at 1.1; her answer to Form E contradiction will reveal this |
+| "Food" payments from April 2025 | £200/month labeled "Food" from Apr 2025 is noted but hard to frame as question without speculation; may have innocent explanation |
+| Lucy Timog payments (net £2,238) | Payments to/from sister appear to be informal family arrangements; not material |
 
 ### Strategic Notes
 
@@ -173,12 +202,37 @@ Please provide the following documents:
 | Housing needs | £0 | No rent, utilities, or food in needs schedule |
 | PensionBee | £6,580.14 "in drawdown" | Age 35; min pension age is 55 |
 | M&G payment | Not disclosed | £1,912.47 received June 2025 |
-| Debt owed by J Gray | £0 at Section 2.6 | But £1,000 paid out, only £200 returned |
+| Payments to J Gray | Not disclosed | £1,535 "Citizenship" payments; only £200 returned |
+| Charlotte's savings | Not disclosed | £25/month regular payments; undisclosed child asset |
 | Child Benefit | Not disclosed | ~£26/month visible in bank statements |
 | Net worth | £18,145.62 | Mostly car equity and pensions |
 | Income | £27,676.56 pa | Salary + UC + child maintenance |
 
 ---
 
+### Bank Statement Analysis Summary
+
+**Joylyn Gray Payments (by reference):**
+
+| Reference | Total Out | Total In | Notes |
+|-----------|-----------|----------|-------|
+| House | £7,000 | - | 14 × £500 monthly rent |
+| Food | £1,600 | £17 | £200/month from April 2025 |
+| Citizenship | £1,535 | - | Three payments; only £200 returned as "Loan" |
+| Cashpal | £500 | £400 | Monthly cash arrangement |
+| Lucy / Lucy Payment | £490 | - | Routed through Joy for Lucy (sister) |
+| Shopping | - | £807 | Reimbursements |
+| PH (Philippines) | £450+ | - | Family remittances |
+| Other misc | Various | Various | Nails, tulips, town, etc. |
+
+**Key observations:**
+- "House" = rent at £500/month (confirmed 14 months)
+- "Food" = separate £200/month from April 2025 (not food included in rent)
+- "Citizenship" = £1,535 total, only £200 returned
+- Some payments labeled to Joy were actually for Lucy (e.g., £90 "Lucy Payment")
+
+---
+
 *Drafted: December 2025*
 *Updated following Form E review*
+*Updated following bank statement forensic analysis*

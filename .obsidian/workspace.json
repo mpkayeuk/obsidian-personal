@@ -37,12 +37,14 @@
             "id": "78ffcf59b029aa82",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-NOV-25 AC 73781208  30044034.pdf"
+                "file": "10-areas/Relationships/Divorce/Reference/Form E Questionnaire - Redrafted.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Statement 28-NOV-25 AC 73781208  30044034"
+              "icon": "lucide-file",
+              "title": "Form E Questionnaire - Redrafted"
             }
           }
         ],
@@ -196,12 +198,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "091e432c47aea4ec",
+  "active": "78ffcf59b029aa82",
   "lastOpenFiles": [
+    "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-NOV-25 AC 73781208  30044034.pdf",
     "10-areas/Relationships/Divorce/Reference/Current Account.csv",
     "10-areas/Relationships/Divorce/Reference/Savings Account.csv",
     "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-FEB-25 AC 73781208  02103455.pdf",
-    "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-NOV-25 AC 73781208  30044034.pdf",
     "10-areas/Relationships/Divorce/Reference/Form E Analysis.md",
     "10-areas/Relationships/Divorce/Finances/all_transactions.csv",
     "10-areas/Relationships/Divorce/Finances/Statements/Virgin Money/2025-11-26.pdf",
