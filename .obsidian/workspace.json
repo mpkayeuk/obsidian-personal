@@ -198,8 +198,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78ffcf59b029aa82",
+  "active": "091e432c47aea4ec",
   "lastOpenFiles": [
+    "10-areas/Relationships/Divorce/Reference/Questions.docx",
+    "10-areas/Relationships/Divorce/Reference/Questions Consolidated.docx",
+    "10-areas/Relationships/Divorce/Reference",
+    "10-areas/Relationships/Divorce/untitled folder",
     "20-projects/Lottery Win Gameification/Lifestyle Plan.md",
     "20-projects/Lottery Win Gameification/merryfield road.pdf",
     "20-projects/Lottery Win Gameification/victoria street.pdf",
@@ -231,9 +235,6 @@
     "20-projects/Personal Portfolio Website/0. User Requirements",
     "20-projects/Personal Portfolio Website/3. Website Development (Frontend)/Website Development (Frontend).md",
     "20-projects/Personal Portfolio Website/2. Development Environment Setup/Development Environment Setup.md",
-    "20-projects/Personal Portfolio Website/10. Documentation",
-    "20-projects/Personal Portfolio Website/9. Security",
-    "20-projects/Personal Portfolio Website/8. Testing",
-    "20-projects/Personal Portfolio Website/7. Site Reliability Engineering (SRE) Principles"
+    "20-projects/Personal Portfolio Website/10. Documentation"
   ]
 }
