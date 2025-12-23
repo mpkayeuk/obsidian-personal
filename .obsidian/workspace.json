@@ -37,14 +37,12 @@
             "id": "78ffcf59b029aa82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "10-areas/Relationships/Divorce/Reference/Form E Questionnaire - Redrafted.md",
-                "mode": "source",
-                "source": false
+                "file": "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 30-AUG-24 AC 73781208  01053610.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Form E Questionnaire - Redrafted"
+              "icon": "lucide-file-text",
+              "title": "Statement 30-AUG-24 AC 73781208  01053610"
             }
           }
         ],
@@ -200,6 +198,7 @@
   },
   "active": "78ffcf59b029aa82",
   "lastOpenFiles": [
+    "10-areas/Relationships/Divorce/Reference/Form E Questionnaire - Redrafted.md",
     "10-areas/Relationships/Divorce/Finances/Statements/Current Account/Statement 28-NOV-25 AC 73781208  30044034.pdf",
     "10-areas/Relationships/Divorce/Reference/Current Account.csv",
     "10-areas/Relationships/Divorce/Reference/Savings Account.csv",
@@ -211,8 +210,6 @@
     "10-areas/Relationships/Divorce/Finances/Statements/Virgin Money/2025-09-27.pdf",
     "10-areas/Relationships/Divorce/Finances/Statements/Virgin Money/2025-08-27.pdf",
     "10-areas/Relationships/Divorce/Finances/Statements/Virgin Money/2025-07-27.pdf",
-    "10-areas/Relationships/Divorce/Finances/Statements/Virgin Money/2025-06-27.pdf",
-    "10-areas/Relationships/Divorce/Reference/Form E Questionnaire - Redrafted.md",
     "20-projects/Lottery Win Gameification/Claude Lifestyle Plan.md",
     "20-projects/Lottery Win Gameification/Lifestyle Plan.md",
     "20-projects/Lottery Win Gameification/Plan.md",

@@ -10,7 +10,7 @@
 | **Critical** | Form E internal contradictions (1.8 vs 4.6) | Goes to credibility; she denies living with partner but completes partner disclosure section |
 | **Critical** | Missing housing costs in needs schedule | Her needs omit rent, utilities, food - suggests costs being met by third party |
 | **Critical** | Undisclosed assets (M&G, payments to Gray) | Affects capital position; £1,535 paid for "Citizenship" with only £200 returned |
-| **Medium** | Charlotte's savings account | £25/month regular payments; undisclosed child asset |
+| **Medium** | Charlotte's savings account | £785 total payments; undisclosed child asset |
 | **High** | PensionBee "in drawdown" at age 35 | Unusual; may explain M&G payment; needs clarification |
 | **High** | Universal Credit statements | Documents her income; any inconsistencies will be self-evident |
 | **Medium** | Undisclosed income streams | Affects income assessment |
@@ -85,7 +85,10 @@ Please confirm:
 (b) Whether any balance remains outstanding;
 (c) If any sum is owed to you, why this was not declared at Section 2.6.
 
-**3.4** Your bank statements show regular monthly payments of £25 to "Ms C G Kaye" referenced "Savings", totalling approximately £350 during the period covered by your disclosed statements.
+**3.4** Your bank statements show the following payments to "Ms C G Kaye":
+- Regular monthly payments of £25 referenced "Savings" (14 payments totalling £350)
+- A payment of £435 on 12 August 2024 referenced "Child Benefit"
+- **Total: £785**
 
 Please confirm:
 (a) Whether these payments are made into a savings account held for Charlotte;
@@ -104,11 +107,11 @@ Please confirm:
 ### 5. Income from Third Parties
 
 **5.1** Your bank statements show the following payments received from "Gray J" which do not appear in Form E:
-- 02 Oct 2025: £400 (Ref: "Cashpal")
-- 05 Sep 2025: £200 (Ref: "Loan")
 - 12 Aug 2025: £332 (Ref: "Personal Expenses")
 - 18 Aug 2025: £200 (Ref: "Shopping")
 - 20 Aug 2025: £150 (Ref: "Shopping")
+- 05 Sep 2025: £200 (Ref: "Loan")
+- 02 Oct 2025: £400 (Ref: "Cashpal")
 
 Please confirm, for each payment, whether it represents:
 (a) A gift;
@@ -157,7 +160,7 @@ Please provide the following documents:
 |----------|--------|-------|
 | 3.3 (Payments to Gray) | Expanded from £1,000 to £1,535 | Bank statements show three "Citizenship" payments: £500 (22 Apr), £35 (23 Apr), £1,000 (6 Jun) |
 | 5.1 (Payments from Gray) | Added references and 5 Sep payment | References show "Shopping", "Personal Expenses", "Loan", "Cashpal" |
-| 3.4 (Charlotte savings) | **NEW** | £25/month payments to "Ms C G Kaye Ref: Savings" - undisclosed child asset |
+| 3.4 (Charlotte savings) | **NEW** | £785 total to "Ms C G Kaye" (14 × £25 "Savings" + £435 "Child Benefit") - undisclosed child asset |
 
 ### Questions Omitted and Reasons
 
@@ -203,7 +206,7 @@ Please provide the following documents:
 | PensionBee | £6,580.14 "in drawdown" | Age 35; min pension age is 55 |
 | M&G payment | Not disclosed | £1,912.47 received June 2025 |
 | Payments to J Gray | Not disclosed | £1,535 "Citizenship" payments; only £200 returned |
-| Charlotte's savings | Not disclosed | £25/month regular payments; undisclosed child asset |
+| Charlotte's savings | Not disclosed | £785 total (£25/month + £435 lump sum); undisclosed child asset |
 | Child Benefit | Not disclosed | ~£26/month visible in bank statements |
 | Net worth | £18,145.62 | Mostly car equity and pensions |
 | Income | £27,676.56 pa | Salary + UC + child maintenance |
