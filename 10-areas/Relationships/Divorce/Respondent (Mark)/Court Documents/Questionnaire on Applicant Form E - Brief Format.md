@@ -215,7 +215,7 @@ The Applicant is requested to provide the following documents:
 11. If property has been purchased in the Philippines:
 		a) Copy of title deed or land certificate
 		b) Valuation or evidence of current market value
-&nbsp;&nbsp;&nbsp;&nbsp;c) Documentation showing purchase price and source of funds
+		c) Documentation showing purchase price and source of funds
 
 ---
 
