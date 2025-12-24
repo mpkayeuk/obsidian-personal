@@ -11,41 +11,34 @@
 
 ## As to Section 1.8
 
-The Applicant answered "No" to Question 1.8 ("Are you living with a new partner?") but has completed Section 4.6 disclosing Mr Terry Thorne as an occupant with income of £27,000 per annum. Section 4.6 is headed: "If you have subsequently married or formed a civil partnership (or intend to) or are living with another person (or intend to), give brief details..."
+The Applicant answered "No" to Question 1.8 ("Are you living with a new partner?") but has completed Section 4.6 disclosing Mr Terry Thorne as an occupant with income of £27,000 per annum. Section 4.6 is headed: "If you have subsequently married or formed a civil partnership (or intend to) or are living with another person (or intend to), give brief details..."  The Applicant is asked to clarify:
 
-Please clarify the apparent inconsistency between the answer at Question 1.8 and the completion of Section 4.6.
+The Applicant is asked to clarify the apparent inconsistency between the answer at Question 1.8 and the completion of Section 4.6.
 
 ---
 
 ## As to Section 2.6 (Money Owed to You)
 
 The Applicant states nil debts owed to her. Bank statements show payments to Ms Joylyn Gray totalling £1,535 referenced "Citizenship" (£500 on 22 April 2025, £35 on 23 April 2025, £1,000 on 6 June 2025). On 5 September 2025 a receipt of £200 from Ms Gray is shown referenced "Loan". The Applicant is asked to confirm:
-
 a) The nature of the £1,535 payments (gift, loan, or other);
-
-b) Whether any balance remains outstanding;
-
-c) If any sum is owed to the Applicant, why this was not declared at Section 2.6.
+b) Whether any balance remains outstanding.
 
 ---
 
 ## As to Section 2.10 (Property Outside England and Wales)
 
 The Applicant states nil property holdings outside England and Wales. Bank statements show payments totalling £3,524.79 to the Philippines via Remitly (£876.79), Ms Lucy Timog (£2,308.00), and Ms Joylyn Gray (£571.00) during August 2024 to October 2025. The Applicant is asked to confirm:
-
 a) The purpose of these payments (family remittances, property purchase, loan repayments, or other);
-
 b) If any portion relates to purchase or improvement of land or property in the Philippines, provide:
-&nbsp;&nbsp;&nbsp;&nbsp;(i) The location and description of the property;
-&nbsp;&nbsp;&nbsp;&nbsp;(ii) The purchase price or total amount invested;
-&nbsp;&nbsp;&nbsp;&nbsp;(iii) The current ownership arrangement (sole, joint, or held in trust);
-&nbsp;&nbsp;&nbsp;&nbsp;(iv) The current market value;
-&nbsp;&nbsp;&nbsp;&nbsp;(v) Any mortgage, loan, or other charges secured on the property;
-&nbsp;&nbsp;&nbsp;&nbsp;(vi) Why this property was not disclosed at Section 2.10;
-
+	(i) The location and description of the property;
+	(ii) The purchase price or total amount invested;
+	(iii) The current ownership arrangement (sole, joint, or held in trust);
+	(iv) The current market value;
+	(v) Any mortgage, loan, or other charges secured on the property;
+	(vi) Why this property was not disclosed at Section 2.10;
 c) If the payments are family remittances only, confirm:
-&nbsp;&nbsp;&nbsp;&nbsp;(i) The recipients;
-&nbsp;&nbsp;&nbsp;&nbsp;(ii) The reason for the substantial amounts (average £235/month over 15 months).
+	(i) The recipients;
+	(ii) The reason for the substantial amounts (average £235/month over 15 months).
 
 ---
 
@@ -109,23 +102,28 @@ f) Internet and telephone bills showing named account holders.
 
 ---
 
+## As to Section 3.1.2 (Income Needs for Children)
+
+The Applicant has stated future clothing costs for Charlotte of £110 per month. The Applicant is asked to provide:
+
+a) A breakdown of this expenditure showing what items are purchased monthly at this cost;
+b) Confirmation whether this figure represents actual monthly expenditure or an estimate.
+
+---
+
 ## As to Section 4.6 (New Partner's Financial Details)
 
 The Applicant has disclosed Mr Terry Thorne residing at her address with income of £27,000 per annum (the same figure as the Applicant's declared salary). The Applicant is requested to provide:
 
 a) Confirmation of Mr Thorne's occupation and employer;
-
 b) Confirmation whether £27,000 is gross or net income;
-
 c) Verification of his income by recent payslips (last 3 months), P60 for 2024/25, or SA302 if self-employed;
-
 d) Confirmation of what contribution Mr Thorne makes to:
-&nbsp;&nbsp;&nbsp;&nbsp;(i) Rent;
-&nbsp;&nbsp;&nbsp;&nbsp;(ii) Council tax;
-&nbsp;&nbsp;&nbsp;&nbsp;(iii) Utilities;
-&nbsp;&nbsp;&nbsp;&nbsp;(iv) Food and groceries;
-&nbsp;&nbsp;&nbsp;&nbsp;(v) Other household expenses;
-
+	(i) Rent;
+	(ii) Council tax;
+	(iii) Utilities;
+	(iv) Food and groceries;
+	(v) Other household expenses;
 e) Whether Mr Thorne is named on the tenancy agreement.
 
 ---
