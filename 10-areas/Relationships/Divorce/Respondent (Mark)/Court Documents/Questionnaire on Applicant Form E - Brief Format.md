@@ -61,6 +61,16 @@ c) Why this payment was not disclosed in Form E.
 
 ---
 
+## As to Section 2.9 (Liabilities - Credit Cards)
+
+The Applicant has disclosed credit card liabilities totalling £1,633.94 at Section 2.9. Barclaycard statements show monthly direct debit payments ranging from £850.68 to £1,236.67. The Applicant is asked to confirm:
+
+a) Whether the Barclaycard balance is paid in full each month or whether minimum payments are made;
+
+b) What the current Barclaycard balance is.
+
+---
+
 ## As to Section 2.18 (State Benefits)
 
 The Applicant has disclosed Universal Credit and Child Maintenance at Section 2.18. Bank statements show regular receipts of approximately £26.05 which appear to be Child Benefit. The Applicant is asked to confirm:
