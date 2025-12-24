@@ -15,10 +15,11 @@
 | **26 Oct 2023** | Respondent receives 10-year SHPO, destroying IT career earning capacity. |
 | **Feb 2024** | Applicant informs Respondent of intention to purchase land in Philippines. |
 | **25 Apr 2024** | Parties Separate. Marriage duration: 10 years, 6 months. |
-| **Aug 2024** | Applicant begins sending £3,500+ to Philippines (continuing to Oct 2025). |
+| **Aug 2024** | Bank statements show remittances of £3,500+ to Philippines (continuing to Oct 2025). |
 | **29 Aug 2024** | Divorce Petition filed. |
-| **13 Nov 2025** | Applicant moves to new property with Mr. Terry Thorne. |
+| **Apr 2025** | Applicant secures employment (£27k p.a.). |
 | **04 Jun 2025** | Applicant receives £1,912 undisclosed payment from "M+G Trustee". |
+| **13 Nov 2025** | Applicant moves to new property with Mr. Terry Thorne. |
 | **23 Dec 2025** | Applicant files Form E claiming **£0** for housing/food but admitting Mr. Thorne as occupant. |
 
 ---
