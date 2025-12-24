@@ -13,13 +13,14 @@
 
 The Applicant answered "No" to Question 1.8 ("Are you living with a new partner?") but has completed Section 4.6 disclosing Mr Terry Thorne as an occupant with income of £27,000 per annum. Section 4.6 is headed: "If you have subsequently married or formed a civil partnership (or intend to) or are living with another person (or intend to), give brief details..."  The Applicant is asked to clarify:
 
-The Applicant is asked to clarify the apparent inconsistency between the answer at Question 1.8 and the completion of Section 4.6.
+a) The apparent inconsistency between the answer at Question 1.8 and the completion of Section 4.6.
 
 ---
 
 ## As to Section 2.6 (Money Owed to You)
 
 The Applicant states nil debts owed to her. Bank statements show payments to Ms Joylyn Gray totalling £1,535 referenced "Citizenship" (£500 on 22 April 2025, £35 on 23 April 2025, £1,000 on 6 June 2025). On 5 September 2025 a receipt of £200 from Ms Gray is shown referenced "Loan". The Applicant is asked to confirm:
+
 a) The nature of the £1,535 payments (gift, loan, or other);
 b) Whether any balance remains outstanding.
 
@@ -28,6 +29,7 @@ b) Whether any balance remains outstanding.
 ## As to Section 2.10 (Property Outside England and Wales)
 
 The Applicant states nil property holdings outside England and Wales. Bank statements show payments totalling £3,524.79 to the Philippines via Remitly (£876.79), Ms Lucy Timog (£2,308.00), and Ms Joylyn Gray (£571.00) during August 2024 to October 2025. The Applicant is asked to confirm:
+
 a) The purpose of these payments (family remittances, property purchase, loan repayments, or other);
 b) If any portion relates to purchase or improvement of land or property in the Philippines, provide:
 	(i) The location and description of the property;
@@ -42,15 +44,28 @@ c) If the payments are family remittances only, confirm:
 
 ---
 
-## As to Section 2.15 (Other Income/Assets/Benefits)
+## As to Section 2.4 (Investments) and Section 2.15 (Other Assets)
+
+The Applicant states nil investments at Section 2.4 and nil other assets at Section 2.15. The Applicant is asked to confirm:
+
+a) Whether she participates in any employee share scheme, share purchase plan, share save scheme, or stock option plan operated by her current or any former employer;
+b) If so, provide details of:
+	(i) The name of the scheme;
+	(ii) The number of shares held or options granted;
+	(iii) The current value of any shares held;
+	(iv) The vesting dates and exercise prices of any options;
+	(v) Why this was not disclosed at Section 2.4 or Section 2.15;
+c) Whether she has received any dividends from shares held through such schemes in the last 12 months.
+
+---
+
+## As to Section 2.15 (Other Income/Assets/Benefits) - M&G Payment
 
 Bank statements show a receipt of £1,912.47 from "M+G Trustee Comp" on 4 June 2025. This payment is not disclosed in the Form E. The Applicant is asked to confirm:
 
-a) The nature of this payment (pension encashment, investment dividend, maturity proceeds, or other);
-
-b) Whether the Applicant holds any continuing interest in an M&G investment, pension, or policy, and if so the current value;
-
-c) Why this payment was not disclosed in Form E.
+a) The nature of this payment (dividend, sale of shares, employee share scheme distribution, investment maturity, or other);
+b) Whether this payment relates to any employee share scheme addressed above;
+c) Whether the Applicant holds any continuing interest in an M&G investment, pension, policy, or share scheme, and if so the current value.
 
 ---
 
@@ -58,8 +73,7 @@ c) Why this payment was not disclosed in Form E.
 
 The Applicant has disclosed credit card liabilities totalling £1,633.94 at Section 2.9. Barclaycard statements show monthly direct debit payments ranging from £850.68 to £1,236.67. The Applicant is asked to confirm:
 
-a) Whether the Barclaycard balance is paid in full each month or whether minimum payments are made;
-
+a) Whether the Barclaycard balance is paid in full each month, whether minimum payments are made, or to ;
 b) What the current Barclaycard balance is.
 
 ---
@@ -220,17 +234,22 @@ The Applicant is requested to provide the following documents:
 
 4. Council tax demand for current address showing named liable person(s)
 
-5. Documentation evidencing the M+G payment of £1,912.47 and any continuing interest held
+5. If the Applicant participates in any employee share scheme, stock option plan, or share purchase plan:
+&nbsp;&nbsp;&nbsp;&nbsp;a) Latest statement showing shares held, options granted, vesting schedule, and current values
+&nbsp;&nbsp;&nbsp;&nbsp;b) Documentation of any dividends received in the last 12 months
+&nbsp;&nbsp;&nbsp;&nbsp;c) Plan rules or scheme documentation
 
-6. Any written agreement or correspondence regarding the "Citizenship" payments totalling £1,535 to Ms Joylyn Gray
+6. Documentation evidencing the M+G payment of £1,912.47 (e.g., dividend voucher, contract note, scheme statement)
 
-7. Bank statements for any joint account held with Mr Terry Thorne
+7. Any written agreement or correspondence regarding the "Citizenship" payments totalling £1,535 to Ms Joylyn Gray
 
-8. Mr Terry Thorne's income verification (payslips for last 3 months, P60 for 2024/25, or SA302 if self-employed)
+8. Bank statements for any joint account held with Mr Terry Thorne
 
-9. Statement for any savings account held for Charlotte showing current balance and all transactions
+9. Mr Terry Thorne's income verification (payslips for last 3 months, P60 for 2024/25, or SA302 if self-employed)
 
-10. If property has been purchased in the Philippines:
+10. Statement for any savings account held for Charlotte showing current balance and all transactions
+
+11. If property has been purchased in the Philippines:
 &nbsp;&nbsp;&nbsp;&nbsp;a) Copy of title deed or land certificate
 &nbsp;&nbsp;&nbsp;&nbsp;b) Valuation or evidence of current market value
 &nbsp;&nbsp;&nbsp;&nbsp;c) Documentation showing purchase price and source of funds
