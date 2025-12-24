@@ -10,11 +10,11 @@
 | **Critical** | Form E internal contradictions (1.8 vs 4.6) | Goes to credibility; she denies living with partner but completes partner disclosure section |
 | **Critical** | Missing housing costs in needs schedule | Her needs omit rent, utilities, food - suggests costs being met by third party; **undermines any claim to invade non-matrimonial assets for "needs"** |
 | **Critical** | Terry Thorne's income and contributions | Both declare exactly £27,000 income (suspicious); combined household income ~£54,000 yet needs schedule only £650/month |
-| **Critical** | Asymmetrical payments to/from Joylyn Gray | £13,502.77 out vs £1,780.62 in = £11,722.15 net out; suggests either (a) undisclosed assets held by Joy, (b) undisclosed debt to Joy, or (c) unexplained financial support |
+| **High** | Food charge starting April 2025 | £200/month "Food" charge appears April 2025 (coinciding with new employment); if food was previously included in £500 rent, why separate charge? Suggests needs may be understated |
+| **Critical** | Asymmetrical payments to/from Joylyn Gray (excluding rent/food) | Even excluding legitimate rent and food, £4,902.77 out vs £1,780.62 in = £3,122.15 net out; suggests either (a) undisclosed assets held by Joy, (b) undisclosed debt to Joy, or (c) unexplained cash movements |
 | **Critical** | Undisclosed assets (M&G, payments to Gray) | Affects capital position; £1,535 paid for "Citizenship" with only £200 returned |
 | **High** | Failure to demonstrate needs | Under *Standish*, non-matrimonial assets can only be invaded for demonstrated needs; she hasn't shown any |
 | **Medium** | Charlotte's savings account | £785 total payments; undisclosed child asset |
-| **High** | PensionBee "in drawdown" at age 35 | Unusual; may explain M&G payment; needs clarification |
 | **High** | Universal Credit statements | Documents her income; any inconsistencies will be self-evident |
 | **Medium** | Undisclosed income streams | Affects income assessment |
 | **Low** | Child Benefit omission | Small sums; disclosure point only |
@@ -79,21 +79,17 @@ Please confirm:
 
 ---
 
-### 4. Pensions & Undisclosed Assets
+### 4. Undisclosed Assets
 
-**4.1** The supplementary page to your Form E discloses a PensionBee pension (reference 1859924) with a cash equivalent of £6,580.14. At the question "Is the pension in payment or drawdown?" you have answered "Yes."
+**4.1** Your bank statements show a payment of £1,912.47 from "M+G Trustee Comp" on 4 June 2025, which is not disclosed in your Form E.
 
-Given that you are aged 35 and the minimum pension age is 55, please confirm:
-(a) On what basis you have accessed this pension before minimum pension age;
-(b) What sum (if any) has been withdrawn from this pension to date;
-(c) Whether the payment of £1,912.47 from "M+G Trustee Comp" on 4 June 2025 relates to this pension or any other pension arrangement.
-
-**4.2** If the payment of £1,912.47 from M+G Trustee Company does not relate to the PensionBee pension, please confirm:
-(a) The nature of this payment (e.g., encashment, dividend, maturity proceeds);
+Please confirm:
+(a) The nature of this payment (e.g., pension encashment, investment dividend, maturity proceeds);
 (b) Whether you hold any continuing interest in an M&G investment, pension, or policy;
-(c) If so, the current value.
+(c) If so, the current value;
+(d) Why this payment was not disclosed in Form E.
 
-**4.3** Your bank statements show three payments to Ms Joylyn Gray referenced "Citizenship":
+**4.2** Your bank statements show three payments to Ms Joylyn Gray referenced "Citizenship":
 - 22 April 2025: £500
 - 23 April 2025: £35
 - 6 June 2025: £1,000
@@ -106,7 +102,7 @@ Please confirm:
 (b) Whether any balance remains outstanding;
 (c) If any sum is owed to you, why this was not declared at Section 2.6.
 
-**4.4** Your bank statements show the following payments to "Ms C G Kaye":
+**4.3** Your bank statements show the following payments to "Ms C G Kaye":
 - Regular monthly payments of £25 referenced "Savings" (14 payments totalling £350)
 - A payment of £435 on 12 August 2024 referenced "Child Benefit"
 - **Total: £785**
@@ -140,19 +136,26 @@ Please confirm, for each payment, whether it represents:
 (c) Income or remuneration; or
 (d) Reimbursement for specific expenditure (and if so, what).
 
-**6.2** Your bank statements show significant financial flows to and from Ms Joylyn Gray over the period February 2024 to November 2025:
-- **Total payments TO Ms Gray:** £13,502.77
-- **Total payments FROM Ms Gray:** £1,780.62
-- **Net outflow to Ms Gray:** £11,722.15
+**6.2** Your bank statements show you made rent payments to Ms Joylyn Gray of £500 per month from February 2024 through October 2025, totalling £7,000.
 
-Even excluding rent (£7,000) and food (£1,600), the net outflow to Ms Gray is £3,139.15.
+From April 2025, your bank statements show additional payments to Ms Gray of £200 per month referenced "Food", totalling £1,600 over 8 months (April-November 2025).
 
-The payments include:
-- "Citizenship" payments totalling £1,535 (only £200 returned)
+Please confirm:
+(a) Whether the rental arrangement with Ms Gray originally included food as part of the £500 monthly rent;
+(b) If so, why food became a separate £200 monthly charge from April 2025 onwards;
+(c) Whether this change coincided with any change in the rental arrangement or household composition.
+
+**6.3** Excluding the rent (£7,000) and food (£1,600) payments referenced above, your bank statements show the following financial flows to and from Ms Gray:
+- **Payments TO Ms Gray:** £4,902.77
+- **Payments FROM Ms Gray:** £1,780.62
+- **Net outflow to Ms Gray:** £3,122.15
+
+The payments TO Ms Gray include:
+- "Citizenship" payments totalling £1,535 (only £200 returned as "Loan")
 - "Cash" payments totalling £450
 - "Cashpal" payments totalling £500 (£400 returned)
 - "Savings" payments totalling £300
-- Various other payments totalling £2,367.77
+- Various other payments totalling £2,117.77
 
 Please confirm:
 (a) Whether Ms Gray is holding any cash, savings, or other assets on your behalf, and if so:
@@ -162,7 +165,7 @@ Please confirm:
     (i) The amount owed;
     (ii) The nature of the debt (loan, payment for goods/services, or other);
     (iii) Why this liability was not disclosed at Section 2.14 of Form E;
-(c) If neither (a) nor (b) applies, please explain the nature of the net outflow of £11,722.15 to Ms Gray and provide documentation evidencing what goods, services, or other consideration you received in return.
+(c) If neither (a) nor (b) applies, please explain the nature of the net outflow of £3,122.15 to Ms Gray (excluding rent and food) and provide documentation evidencing what goods, services, or other consideration you received in return.
 
 ---
 
@@ -182,10 +185,9 @@ Please provide the following documents:
 1. **Universal Credit**: All award statements from September 2025 to date
 2. **Tenancy**: The tenancy agreement for 12A Newhaven Court
 3. **Housing costs**: Any utility bills, council tax demands, or similar documents for 12A showing named account holders
-4. **PensionBee**: Documentation evidencing any withdrawals or drawdown from your PensionBee pension
-5. **M&G**: Documentation evidencing the payment of £1,912.47 and any continuing interest held
-6. **Payments to Ms Gray**: Any written agreement or correspondence regarding the "Citizenship" payments totalling £1,535
-7. **Charlotte's savings**: The most recent statement for any savings account held for Charlotte, showing the current balance
+4. **M&G**: Documentation evidencing the payment of £1,912.47 and any continuing interest held
+5. **Payments to Ms Gray**: Any written agreement or correspondence regarding the "Citizenship" payments totalling £1,535
+6. **Charlotte's savings**: The most recent statement for any savings account held for Charlotte, showing the current balance
 
 ---
 
@@ -197,7 +199,6 @@ Please provide the following documents:
 |--------------|-------|--------------|
 | 1.1 (Section 1.8 vs 4.6) | Form E shows "No" to living with partner at 1.8, but Section 4.6 completed | Internal contradiction goes to credibility |
 | 1.2 (Missing housing costs) | Section 3.1.1 needs schedule omits rent, utilities, food | Either costs met by third party or incomplete disclosure |
-| 3.1 (Pension drawdown) | PensionBee marked "in drawdown" at age 35 | Highly unusual; may explain M&G payment |
 
 ### Questions Updated Following Bank Statement Forensic Analysis
 
@@ -206,7 +207,8 @@ Please provide the following documents:
 | 3.3 (Payments to Gray) | Expanded from £1,000 to £1,535 | Bank statements show three "Citizenship" payments: £500 (22 Apr), £35 (23 Apr), £1,000 (6 Jun) |
 | 5.1 (Payments from Gray) | Added references and 5 Sep payment | References show "Shopping", "Personal Expenses", "Loan", "Cashpal" |
 | 3.4 (Charlotte savings) | **NEW** | £785 total to "Ms C G Kaye" (14 × £25 "Savings" + £435 "Child Benefit") - undisclosed child asset |
-| 6.2 (Asymmetrical payments) | **NEW - CRITICAL** | Comprehensive analysis reveals £13,502.77 out vs £1,780.62 in = £11,722.15 net outflow; even excluding rent/food, net out is £3,139.15; suggests undisclosed assets held by Joy OR undisclosed debt to Joy |
+| 6.2 (Food charge) | **NEW - HIGH** | £200/month "Food" charge appears from April 2025 (first payment April 1); if food was previously included in £500 rent, why separate charge starting when employment began? |
+| 6.3 (Asymmetrical payments) | **NEW - CRITICAL** | Comprehensive analysis reveals £4,902.77 out vs £1,780.62 in = £3,122.15 net outflow (excluding legitimate rent/food); suggests undisclosed assets held by Joy OR undisclosed debt to Joy OR unexplained cash movements |
 
 ### Questions Omitted and Reasons
 
@@ -229,28 +231,32 @@ Please provide the following documents:
 
 2. **The missing housing costs point is very strong**: It's factual and non-accusatory. Everyone has rent/utilities/food costs. Either she pays them (and should have disclosed them) or she doesn't (and someone else is subsidising her). The question lets her explain without pre-judging.
 
-3. **The pension drawdown question**: This is unusual enough to warrant inquiry. If it's a form-filling error, she can say so. If she genuinely accessed pension funds early, the court needs to know how and why - and whether the M&G payment relates to it.
+3. **Focus on documents, not explanations**: The tenancy agreement, UC statements, and utility bills will answer most questions without requiring admissions. Let the documents do the work.
 
-4. **Focus on documents, not explanations**: The tenancy agreement, UC statements, and utility bills will answer most questions without requiring admissions. Let the documents do the work.
+4. **Tone**: The questions are neutral and reference specific Form E sections. This demonstrates you've reviewed her disclosure carefully and are seeking clarification of genuine gaps, not conducting harassment.
 
-5. **Tone**: The questions are neutral and reference specific Form E sections. This demonstrates you've reviewed her disclosure carefully and are seeking clarification of genuine gaps, not conducting harassment.
-
-6. **The cohabitation issue**: Note that Question 1.1 does not directly ask "Are you in a relationship with Mr Thorne?" Instead, it asks her to explain her own contradictory answers. This is more effective - she must either:
+5. **The cohabitation issue**: Note that Question 1.1 does not directly ask "Are you in a relationship with Mr Thorne?" Instead, it asks her to explain her own contradictory answers. This is more effective - she must either:
    - Admit 1.8 was wrong (she is living with a partner), or
    - Explain why she completed 4.6 if she's not
 
    Either answer advances your position.
 
-7. **The asymmetrical payments question (6.2) is the most powerful disclosure tool**: The net outflow of £11,722.15 to Joy demands explanation. This is not a normal financial pattern. She must explain:
+6. **The food charge question (6.2) exposes a change in circumstances**: The £200/month food charge appearing in April 2025 is significant because:
+   - It coincides with her starting employment at PsychUK (first salary 25 April 2025)
+   - It suggests the rental arrangement changed once she had income
+   - If food was previously included in rent, why was it suddenly charged separately?
+   - This goes to credibility and whether her needs are genuinely as low as Form E suggests
+
+7. **The asymmetrical payments question (6.3) is the most powerful disclosure tool**: Even after excluding legitimate rent and food costs, the net outflow of £3,122.15 to Joy demands explanation. This is not a normal financial pattern. She must explain:
    - If Joy is holding assets for her → undisclosed assets in Form E
    - If she owes Joy money → undisclosed liability in Form E
-   - If neither → what did she receive for £11,722 net outflow?
+   - If neither → what did she receive for £3,122 net outflow?
 
    **She cannot answer this question without either:**
    (a) Admitting Form E is materially incomplete, OR
    (b) Providing documentation that will reveal her true financial position
 
-   Even excluding rent and food (£8,600), the net outflow of £3,139 has no obvious explanation from the bank statements. The "Citizenship" payments (£1,535 out, £200 back) are particularly suspicious.
+   The "Citizenship" payments (£1,535 out, £200 back = £1,335 unaccounted) are particularly suspicious. The "Cashpal" pattern (£500 out in installments, £400 back as lump sum) suggests cash banking.
 
 ---
 
@@ -260,7 +266,6 @@ Please provide the following documents:
 |------|------------------|-------|
 | Living with partner | "No" at 1.8 | But 4.6 completed; Terry Thorne listed as occupant |
 | Housing needs | £0 | No rent, utilities, or food in needs schedule |
-| PensionBee | £6,580.14 "in drawdown" | Age 35; min pension age is 55 |
 | M&G payment | Not disclosed | £1,912.47 received June 2025 |
 | Payments to J Gray | Not disclosed | £1,535 "Citizenship" payments; only £200 returned |
 | Charlotte's savings | Not disclosed | £785 total (£25/month + £435 lump sum); undisclosed child asset |
@@ -286,9 +291,13 @@ Please provide the following documents:
 | Other misc | Various | Various | Nails, tulips, town, etc. |
 
 **Key observations:**
-- "House" = rent at £500/month (confirmed 14 months)
-- "Food" = separate £200/month from April 2025 (not food included in rent)
-- "Citizenship" = £1,535 total, only £200 returned
+- "House" = rent at £500/month (confirmed 14 months) - **legitimate expense known to Mark**
+- "Food" = separate £200/month from April 2025 - **NEW charge coinciding with employment start**; if food was previously included in rent, this represents either:
+  (a) A change in rental terms when Lenny gained income, or
+  (b) Evidence that food was never actually included
+- "Citizenship" = £1,535 total, only £200 returned = **£1,335 unaccounted**
+- "Cashpal" = £500 out, £400 back = pattern suggests cash banking arrangement
+- **Total net outflow excluding rent/food: £3,122.15** - no legitimate explanation visible in bank statements
 - Some payments labeled to Joy were actually for Lucy (e.g., £90 "Lucy Payment")
 
 ---
