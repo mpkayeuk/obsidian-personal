@@ -73,7 +73,7 @@ c) Whether the Applicant holds any continuing interest in an M&G investment, pen
 
 The Applicant has disclosed credit card liabilities totalling £1,633.94 at Section 2.9. Barclaycard statements show monthly direct debit payments ranging from £850.68 to £1,236.67. The Applicant is asked to confirm:
 
-a) Whether the Barclaycard balance is paid in full each month, whether minimum payments are made, or to ;
+a) Whether the Barclaycard balance is paid in full each month or whether minimum payments are made;
 b) What the current Barclaycard balance is.
 
 ---
@@ -89,21 +89,10 @@ b) Provide Universal Credit award statements from September 2025 to date;
 
 ## As to Section 3.1.1 (Income Needs)
 
-The Applicant has stated income needs of £650 per month comprising mobile phone, holidays, petrol, and car insurance. No provision is made for rent, council tax, utilities, food, groceries, internet, clothing, or household goods. Given that Section 4.6 discloses a combined household income of approximately £54,000 per annum (£27,000 + £27,000), the Applicant is asked to confirm:
+The Applicant has stated income needs of £650 per month comprising mobile phone, holidays, petrol, and car insurance. No provision is made for rent, council tax, utilities, food, groceries, internet, clothing, or household goods. The Applicant is asked to confirm:
 
-a) Monthly expenditure on rent;
-b) Monthly expenditure on council tax;
-c) Monthly expenditure on gas and electricity;
-d) Monthly expenditure on water;
-e) Monthly expenditure on food and groceries;
-f) Monthly expenditure on internet and telephone;
-g) Monthly expenditure on clothing;
-h) Monthly expenditure on household goods;
-i) If the Applicant does not pay for any of these items, state who meets these costs and provide evidence.
-
----
-
-## As to Section 3.1.1 (Current Housing - Evidence)
+a) Whether the Applicant pays for rent, council tax, gas, electricity, water, food and groceries, internet, clothing, and household goods;
+b) If the Applicant does not pay for any of these items, state who meets these costs on her behalf.
 
 In relation to the Applicant's residence at 12A Newhaven Court, Cromer, the Applicant is requested to provide:
 
@@ -138,7 +127,6 @@ d) Confirmation of what contribution Mr Thorne makes to:
 	(iii) Utilities;
 	(iv) Food and groceries;
 	(v) Other household expenses;
-e) Whether Mr Thorne is named on the tenancy agreement.
 
 ---
 
