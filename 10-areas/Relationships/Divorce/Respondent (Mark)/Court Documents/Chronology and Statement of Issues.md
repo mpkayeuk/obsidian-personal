@@ -25,18 +25,18 @@
 
 ### 2. Financial Chronology - Applicant
 
-| Date | Event | Evidence |
-|------|-------|----------|
-| **August 2024 - October 2025** | Applicant sends £3,524.79 to Philippines via three routes (Remitly, Joylyn Gray, Lucy Timog) | Bank statements; payments marked "PH", "Philippines", "Utang", "Remitly" |
-| **September 2024 - October 2025** | Applicant pays £500/month rent to Joylyn Gray | Bank statements; payments marked "House" |
-| **October 2024** | Applicant claims Universal Credit | UC award notices (requested in questionnaire) |
-| **13 November 2024** | Applicant moves to 12A Newhaven Court, Great Yarmouth NR30 3EB | Form E Section 2.1; no tenancy agreement disclosed |
-| **[Date]** | Terry Thorne moves to same address | Form E Section 4.6 |
-| **April 2025** | Applicant commences employment with PsychUK (salary £27,000 pa) | Form E Section 2.3; bank statements show first salary payment 25 April 2025 |
-| **April 2025** | NEW charge appears: £200/month to Joylyn Gray marked "Food" | Bank statements; continues through November 2025 |
-| **4 June 2025** | Applicant receives £1,912.47 from "M+G Trustee Comp" | Bank statements; not disclosed in Form E |
-| **September - December 2025** | No rent payments visible in bank statements despite claiming to rent at £500/month | Bank statements; Form E Section 2.1 declares rent £500/month |
-| **23 December 2025** | Applicant files Form E declaring income needs of £650/month (no housing costs) | Form E Section 3.1.1 |
+| Date                              | Event                                                                                        | Evidence                                                                    |
+| --------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **August 2024 - October 2025**    | Applicant sends £3,524.79 to Philippines via three routes (Remitly, Joylyn Gray, Lucy Timog) | Bank statements; payments marked "PH", "Philippines", "Utang", "Remitly"    |
+| **September 2024 - October 2025** | Applicant pays £500/month rent to Joylyn Gray                                                | Bank statements; payments marked "House"                                    |
+| **October 2024**                  | Applicant claims Universal Credit                                                            | UC award notices (requested in questionnaire)                               |
+| **13 November 2024**              | Applicant moves to 12A Newhaven Court, Cromer                                                | Form E Section 2.1; no tenancy agreement disclosed                          |
+| **[Date]**                        | Terry Thorne moves to same address                                                           | Form E Section 4.6                                                          |
+| **April 2025**                    | Applicant commences employment with PsychUK (salary £27,000 pa)                              | Form E Section 2.3; bank statements show first salary payment 25 April 2025 |
+| **April 2025**                    | NEW charge appears: £200/month to Joylyn Gray marked "Food"                                  | Bank statements; continues through November 2025                            |
+| **4 June 2025**                   | Applicant receives £1,912.47 from "M+G Trustee Comp"                                         | Bank statements; not disclosed in Form E                                    |
+| **September - December 2025**     | No rent payments visible in bank statements despite claiming to rent at £500/month           | Bank statements; Form E Section 2.1 declares rent £500/month                |
+| **23 December 2025**              | Applicant files Form E declaring income needs of £650/month (no housing costs)               | Form E Section 3.1.1                                                        |
 
 ### 3. Financial Chronology - Respondent
 
