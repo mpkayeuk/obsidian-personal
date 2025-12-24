@@ -19,7 +19,11 @@ a) The apparent inconsistency between the answer at Question 1.8 and the complet
 
 ## As to Section 2.6
 
-The Applicant states nil debts owed to her. Bank statements show payments to Ms Joylyn Gray totalling £1,535 referenced "Citizenship" (£500 on 22 April 2025, £35 on 23 April 2025, £1,000 on 6 June 2025). On 5 September 2025 a receipt of £200 from Ms Gray is shown referenced "Loan". The Applicant is asked to confirm:
+The Applicant states nil debts owed to her. Bank statements show payments to Ms Joylyn Gray totalling £1,535 referenced "Citizenship" (£500 on 22 April 2025, £35 on 23 April 2025, £1,000 on 6 June 2025). On 5 September 2025 a receipt of £200 from Ms Gray is shown referenced "Loan".
+
+(Note: These "Citizenship" payments form part of total payments to Ms Gray of £12,682.77, with only £1,780.62 received back, representing a net outflow of £10,902.15. See also "Bank Statement Transactions - Other Payments to/from Ms Gray" below.)
+
+The Applicant is asked to confirm:
 
 a) The nature of the £1,535 payments (gift, loan, or other);
 b) Whether any balance remains outstanding.
@@ -133,7 +137,7 @@ c) Whether this sum is repayable by the Applicant.
 
 ---
 
-## As to Bank Statement Transactions - Payments to/from Ms Joylyn Gray
+## As to Bank Statement Transactions - Rent and Food Payments to/from Ms Joylyn Gray
 
 Bank statements show rent payments of £500 per month to Ms Joylyn Gray from February 2024 through October 2025 (totalling £7,000) and food payments of £200 per month from April 2025 through November 2025 (totalling £1,600).
 
@@ -146,7 +150,9 @@ c) Whether this change coincided with any change in the rental arrangement or ho
 
 ## As to Bank Statement Transactions - Other Payments to/from Ms Gray
 
-Excluding the rent (£7,000), food (£1,600), and "Citizenship" payments (£1,535) addressed above, bank statements show payments TO Ms Gray of £3,367.77 and payments FROM Ms Gray of £1,580.62 (excluding the £200 "Loan"), representing a net outflow of £1,787.15. The payments TO Ms Gray include:
+Excluding the rent (£7,000), food (£1,600), and "Citizenship" payments (£1,535) addressed at Section 2.6 above, bank statements show payments TO Ms Gray of £3,367.77 and payments FROM Ms Gray of £1,580.62 (excluding the £200 "Loan"), representing a net outflow of £1,787.15.
+
+Excluding the acknowledged rent (£7,000) and food (£1,600), the net outflow is £3,122.15. The "Citizenship" payments (£1,535) are addressed at Section 2.6 above, leaving the following unexplained payments TO Ms Gray:
 
 - "Cash" payments: £450
 - "Cashpal" payments: £500 (£400 returned)
@@ -163,16 +169,13 @@ The receipts FROM Ms Gray include:
 The Applicant is asked to confirm:
 
 a) Whether Ms Gray is holding any cash, savings, or other assets on the Applicant's behalf, and if so:
-&nbsp;&nbsp;&nbsp;&nbsp;(i) The nature and current value of those assets;
-&nbsp;&nbsp;&nbsp;&nbsp;(ii) Why these assets were not disclosed in Form E;
-
+	(i) The nature and current value of those assets;
+	(ii) Why these assets were not disclosed in Form E;
 b) Whether the Applicant owes any money to Ms Gray (other than the £1,535 "Citizenship" payments addressed above), and if so:
-&nbsp;&nbsp;&nbsp;&nbsp;(i) The amount owed;
-&nbsp;&nbsp;&nbsp;&nbsp;(ii) The nature of the debt;
-&nbsp;&nbsp;&nbsp;&nbsp;(iii) Why this liability was not disclosed at Section 2.14 of Form E;
-
+	(i) The amount owed;
+	(ii) The nature of the debt;
+	iii) Why this liability was not disclosed at Section 2.14 of Form E;
 c) Whether the receipts from Ms Gray represent gifts, loan repayments, income, or reimbursements (and if reimbursements, for what);
-
 d) If none of the above applies, explain the nature of the net outflow of £1,787.15 and provide documentation evidencing what goods, services, or other consideration was received in return.
 
 ---
@@ -185,16 +188,10 @@ Bank statements show payments totalling £785 to "Ms C G Kaye":
 - A payment of £435 on 12 August 2024 referenced "Child Benefit"
 
 These payments suggest a savings account held for Charlotte. The Applicant is asked to confirm:
-
 a) Whether these payments are made into a savings account held for Charlotte;
-
 b) If so, the current balance of that account;
-
 c) Whether the Applicant is a signatory or trustee on that account;
-
-d) Why this account was not disclosed at Section 2.4 of Form E (assets held for children);
-
-e) Provide the most recent statement for this account showing the current balance.
+d) Provide the most recent statement for this account showing the current balance.
 
 ---
 
@@ -203,31 +200,21 @@ e) Provide the most recent statement for this account showing the current balanc
 The Applicant is requested to provide the following documents:
 
 1. Universal Credit award statements from September 2025 to date
-
 2. Tenancy agreement for 12A Newhaven Court, Cromer
-
 3. Utility bills (gas, electricity, water) for current address showing named account holders
-
 4. Council tax demand for current address showing named liable person(s)
-
 5. If the Applicant participates in any employee share scheme, stock option plan, or share purchase plan:
-&nbsp;&nbsp;&nbsp;&nbsp;a) Latest statement showing shares held, options granted, vesting schedule, and current values
-&nbsp;&nbsp;&nbsp;&nbsp;b) Documentation of any dividends received in the last 12 months
-&nbsp;&nbsp;&nbsp;&nbsp;c) Plan rules or scheme documentation
-
+		a) Latest statement showing shares held, options granted, vesting schedule, and current values
+		b) Documentation of any dividends received in the last 12 months
+		c) Plan rules or scheme documentation
 6. Documentation evidencing the M+G payment of £1,912.47 (e.g., dividend voucher, contract note, scheme statement)
-
 7. Any written agreement or correspondence regarding the "Citizenship" payments totalling £1,535 to Ms Joylyn Gray
-
 8. Bank statements for any joint account held with Mr Terry Thorne
-
 9. Mr Terry Thorne's income verification (payslips for last 3 months, P60 for 2024/25, or SA302 if self-employed)
-
 10. Statement for any savings account held for Charlotte showing current balance and all transactions
-
 11. If property has been purchased in the Philippines:
-&nbsp;&nbsp;&nbsp;&nbsp;a) Copy of title deed or land certificate
-&nbsp;&nbsp;&nbsp;&nbsp;b) Valuation or evidence of current market value
+		a) Copy of title deed or land certificate
+		b) Valuation or evidence of current market value
 &nbsp;&nbsp;&nbsp;&nbsp;c) Documentation showing purchase price and source of funds
 
 ---
