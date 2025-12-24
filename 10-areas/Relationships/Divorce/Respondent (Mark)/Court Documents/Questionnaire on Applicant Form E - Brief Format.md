@@ -77,7 +77,7 @@ d) Provide the current UC award notice showing the household composition declare
 
 ## As to Section 3.1.1 (Income Needs)
 
-The Applicant has stated income needs of £650 per month comprising mobile phone, holidays, petrol, and car insurance. No provision is made for rent, council tax, utilities, food, groceries, internet, clothing, or household goods. The Applicant is asked to confirm:
+The Applicant has stated income needs of £650 per month comprising mobile phone, holidays, petrol, and car insurance. No provision is made for rent, council tax, utilities, food, groceries, internet, clothing, or household goods. Given that Section 4.6 discloses a combined household income of approximately £54,000 per annum (£27,000 + £27,000), the Applicant is asked to confirm:
 
 a) Monthly expenditure on rent;
 
@@ -95,7 +95,9 @@ g) Monthly expenditure on clothing;
 
 h) Monthly expenditure on household goods;
 
-i) If the Applicant does not pay for any of these items, state who meets these costs and provide evidence.
+i) If the Applicant does not pay for any of these items, state who meets these costs and provide evidence;
+
+j) Why the needs schedule totals only £650 per month with no housing or essential living costs.
 
 ---
 
@@ -134,9 +136,7 @@ d) Confirmation of what contribution Mr Thorne makes to:
 &nbsp;&nbsp;&nbsp;&nbsp;(iv) Food and groceries;
 &nbsp;&nbsp;&nbsp;&nbsp;(v) Other household expenses;
 
-e) Whether Mr Thorne is named on the tenancy agreement;
-
-f) Explanation of why the Form E needs schedule totals only £650/month with no housing costs if the household has combined income of approximately £54,000 per annum.
+e) Whether Mr Thorne is named on the tenancy agreement.
 
 ---
 
@@ -168,13 +168,19 @@ c) Whether this change coincided with any change in the rental arrangement or ho
 
 ## As to Bank Statement Transactions - Other Payments to/from Ms Gray
 
-Excluding the rent (£7,000) and food (£1,600) payments, bank statements show payments TO Ms Gray of £4,902.77 and payments FROM Ms Gray of £1,780.62, representing a net outflow of £3,122.15. The payments TO Ms Gray include:
+Excluding the rent (£7,000), food (£1,600), and "Citizenship" payments (£1,535) addressed above, bank statements show payments TO Ms Gray of £3,367.77 and payments FROM Ms Gray of £1,580.62 (excluding the £200 "Loan"), representing a net outflow of £1,787.15. The payments TO Ms Gray include:
 
-- "Citizenship" payments: £1,535 (only £200 returned as "Loan")
 - "Cash" payments: £450
 - "Cashpal" payments: £500 (£400 returned)
 - "Savings" payments: £300
 - Various other payments: £2,117.77
+
+The receipts FROM Ms Gray include:
+
+- 12 August 2025: £332 (Ref: "Personal Expenses")
+- 18 August 2025: £200 (Ref: "Shopping")
+- 20 August 2025: £150 (Ref: "Shopping")
+- 2 October 2025: £400 (Ref: "Cashpal")
 
 The Applicant is asked to confirm:
 
@@ -182,34 +188,14 @@ a) Whether Ms Gray is holding any cash, savings, or other assets on the Applican
 &nbsp;&nbsp;&nbsp;&nbsp;(i) The nature and current value of those assets;
 &nbsp;&nbsp;&nbsp;&nbsp;(ii) Why these assets were not disclosed in Form E;
 
-b) Whether the Applicant owes any money to Ms Gray, and if so:
+b) Whether the Applicant owes any money to Ms Gray (other than the £1,535 "Citizenship" payments addressed above), and if so:
 &nbsp;&nbsp;&nbsp;&nbsp;(i) The amount owed;
 &nbsp;&nbsp;&nbsp;&nbsp;(ii) The nature of the debt;
 &nbsp;&nbsp;&nbsp;&nbsp;(iii) Why this liability was not disclosed at Section 2.14 of Form E;
 
-c) If neither (a) nor (b) applies, explain the nature of the net outflow of £3,122.15 and provide documentation evidencing what goods, services, or other consideration was received in return.
+c) Whether the receipts from Ms Gray represent gifts, loan repayments, income, or reimbursements (and if reimbursements, for what);
 
----
-
-## As to Bank Statement Transactions - Receipts from Ms Gray
-
-Bank statements show the following receipts from "Gray J":
-
-- 12 August 2025: £332 (Ref: "Personal Expenses")
-- 18 August 2025: £200 (Ref: "Shopping")
-- 20 August 2025: £150 (Ref: "Shopping")
-- 5 September 2025: £200 (Ref: "Loan")
-- 2 October 2025: £400 (Ref: "Cashpal")
-
-These receipts do not appear to be disclosed in Form E. The Applicant is asked to confirm, for each payment, whether it represents:
-
-a) A gift;
-
-b) Repayment of a loan or other sum owed to the Applicant;
-
-c) Income or remuneration;
-
-d) Reimbursement for specific expenditure (and if so, what).
+d) If none of the above applies, explain the nature of the net outflow of £1,787.15 and provide documentation evidencing what goods, services, or other consideration was received in return.
 
 ---
 
