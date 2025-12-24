@@ -12,6 +12,7 @@
 | **Critical** | Terry Thorne's income and contributions | Both declare exactly £27,000 income (suspicious); combined household income ~£54,000 yet needs schedule only £650/month |
 | **High** | Food charge starting April 2025 | £200/month "Food" charge appears April 2025 (coinciding with new employment); if food was previously included in £500 rent, why separate charge? Suggests needs may be understated |
 | **Critical** | Asymmetrical payments to/from Joylyn Gray (excluding rent/food) | Even excluding legitimate rent and food, £4,902.77 out vs £1,780.62 in = £3,122.15 net out; suggests either (a) undisclosed assets held by Joy, (b) undisclosed debt to Joy, or (c) unexplained cash movements |
+| **Critical** | Undisclosed Philippines property | Lenny informed Mark (Feb 2024) she was purchasing land in Philippines; £3,525 sent to Philippines; Form E Section 2.10 shows no foreign property - **material undisclosed asset** |
 | **Critical** | Undisclosed assets (M&G, payments to Gray) | Affects capital position; £1,535 paid for "Citizenship" with only £200 returned |
 | **High** | Failure to demonstrate needs | Under *Standish*, non-matrimonial assets can only be invaded for demonstrated needs; she hasn't shown any |
 | **Medium** | Charlotte's savings account | £785 total payments; undisclosed child asset |
@@ -115,15 +116,37 @@ Please confirm:
 
 ---
 
-### 5. Universal Credit
+### 5. Philippines Property and Payments
 
-**5.1** Please provide your Universal Credit award statements from September 2025 to date.
+**5.1** Your bank statements show significant payments to the Philippines over the period August 2024 to October 2025, totalling £3,524.79 net outflow:
+- Direct transfers via Remitly: £876.79
+- Payments via Lucy Timog (referenced "PH", "PH Budget", "Utang"): £2,308.00
+- Payments via Joylyn Gray (referenced "PH"): £571.00
+
+Please confirm:
+(a) The purpose of these payments (e.g., family remittances, property purchase, loan repayments, other);
+(b) If any portion relates to purchase or improvement of land or property in the Philippines, please provide:
+    (i) The location and description of the property;
+    (ii) The purchase price or total amount invested;
+    (iii) The current ownership arrangement (sole, joint, or held in trust);
+    (iv) The current market value;
+    (v) Any mortgage, loan, or other charges secured on the property;
+    (vi) Why this property was not disclosed at Section 2.10 of Form E (property outside England and Wales);
+(c) If the payments are family remittances only, please confirm:
+    (i) The recipients of these remittances;
+    (ii) The reason for the substantial amounts (average £235/month over 15 months).
 
 ---
 
-### 6. Income from Third Parties
+### 6. Universal Credit
 
-**6.1** Your bank statements show the following payments received from "Gray J" which do not appear in Form E:
+**6.1** Please provide your Universal Credit award statements from September 2025 to date.
+
+---
+
+### 7. Income from Third Parties and Financial Flows
+
+**7.1** Your bank statements show the following payments received from "Gray J" which do not appear in Form E:
 - 12 Aug 2025: £332 (Ref: "Personal Expenses")
 - 18 Aug 2025: £200 (Ref: "Shopping")
 - 20 Aug 2025: £150 (Ref: "Shopping")
@@ -136,7 +159,7 @@ Please confirm, for each payment, whether it represents:
 (c) Income or remuneration; or
 (d) Reimbursement for specific expenditure (and if so, what).
 
-**6.2** Your bank statements show you made rent payments to Ms Joylyn Gray of £500 per month from February 2024 through October 2025, totalling £7,000.
+**7.2** Your bank statements show you made rent payments to Ms Joylyn Gray of £500 per month from February 2024 through October 2025, totalling £7,000.
 
 From April 2025, your bank statements show additional payments to Ms Gray of £200 per month referenced "Food", totalling £1,600 over 8 months (April-November 2025).
 
@@ -145,7 +168,7 @@ Please confirm:
 (b) If so, why food became a separate £200 monthly charge from April 2025 onwards;
 (c) Whether this change coincided with any change in the rental arrangement or household composition.
 
-**6.3** Excluding the rent (£7,000) and food (£1,600) payments referenced above, your bank statements show the following financial flows to and from Ms Gray:
+**7.3** Excluding the rent (£7,000) and food (£1,600) payments referenced above, your bank statements show the following financial flows to and from Ms Gray:
 - **Payments TO Ms Gray:** £4,902.77
 - **Payments FROM Ms Gray:** £1,780.62
 - **Net outflow to Ms Gray:** £3,122.15
@@ -169,9 +192,9 @@ Please confirm:
 
 ---
 
-### 7. State Benefits
+### 8. State Benefits
 
-**7.1** Your Form E does not disclose Child Benefit at Section 2.18, yet your bank statements show regular receipts (e.g., £26.05 on 29 September 2025). Please confirm:
+**8.1** Your Form E does not disclose Child Benefit at Section 2.18, yet your bank statements show regular receipts (e.g., £26.05 on 29 September 2025). Please confirm:
 (a) Whether you receive Child Benefit;
 (b) The current monthly amount;
 (c) Why this was omitted from Form E.
@@ -241,13 +264,18 @@ Please provide the following documents:
 
    Either answer advances your position.
 
-6. **The food charge question (6.2) exposes a change in circumstances**: The £200/month food charge appearing in April 2025 is significant because:
+6. **The Philippines property question (5.1) is a critical undisclosed asset issue**: Lenny informed Mark in February 2024 that she was purchasing land in the Philippines. Bank statements show £3,524.79 sent to Philippines over 15 months through multiple routes (Remitly, via Joy, via Lucy). Form E Section 2.10 (property outside England and Wales) shows **no disclosure**. This is a material omission that could constitute contempt of court. The question requires:
+   - Full disclosure of property location, value, and ownership
+   - Explanation for Form E omission
+   - Alternative explanation if payments were family remittances only
+
+7. **The food charge question (7.2) exposes a change in circumstances**: The £200/month food charge appearing in April 2025 is significant because:
    - It coincides with her starting employment at PsychUK (first salary 25 April 2025)
    - It suggests the rental arrangement changed once she had income
    - If food was previously included in rent, why was it suddenly charged separately?
    - This goes to credibility and whether her needs are genuinely as low as Form E suggests
 
-7. **The asymmetrical payments question (6.3) is the most powerful disclosure tool**: Even after excluding legitimate rent and food costs, the net outflow of £3,122.15 to Joy demands explanation. This is not a normal financial pattern. She must explain:
+8. **The asymmetrical payments question (7.3) is the most powerful disclosure tool**: Even after excluding legitimate rent and food costs, the net outflow of £3,122.15 to Joy demands explanation. This is not a normal financial pattern. She must explain:
    - If Joy is holding assets for her → undisclosed assets in Form E
    - If she owes Joy money → undisclosed liability in Form E
    - If neither → what did she receive for £3,122 net outflow?
@@ -266,6 +294,7 @@ Please provide the following documents:
 |------|------------------|-------|
 | Living with partner | "No" at 1.8 | But 4.6 completed; Terry Thorne listed as occupant |
 | Housing needs | £0 | No rent, utilities, or food in needs schedule |
+| Philippines property | Not disclosed (2.10) | £3,525 sent; Lenny told Mark (Feb 2024) she was buying land |
 | M&G payment | Not disclosed | £1,912.47 received June 2025 |
 | Payments to J Gray | Not disclosed | £1,535 "Citizenship" payments; only £200 returned |
 | Charlotte's savings | Not disclosed | £785 total (£25/month + £435 lump sum); undisclosed child asset |
@@ -287,8 +316,17 @@ Please provide the following documents:
 | Cashpal | £500 | £400 | Monthly cash arrangement |
 | Lucy / Lucy Payment | £490 | - | Routed through Joy for Lucy (sister) |
 | Shopping | - | £807 | Reimbursements |
-| PH (Philippines) | £450+ | - | Family remittances |
+| PH (Philippines) | £571 | - | Routed through Joy to Philippines |
 | Other misc | Various | Various | Nails, tulips, town, etc. |
+
+**Philippines Payments (all sources):**
+
+| Route | Total Out | Notes |
+|-------|-----------|-------|
+| Remitly (Direct) | £877 | Direct transfers to Philippines |
+| Via Joylyn Gray | £571 | Payments marked "PH" |
+| Via Lucy Timog | £2,308 | Payments marked "PH", "PH Budget", "Utang" |
+| **Total** | **£3,525** | **Potential undisclosed Philippines property** |
 
 **Key observations:**
 - "House" = rent at £500/month (confirmed 14 months) - **legitimate expense known to Mark**
@@ -299,6 +337,7 @@ Please provide the following documents:
 - "Cashpal" = £500 out, £400 back = pattern suggests cash banking arrangement
 - **Total net outflow excluding rent/food: £3,122.15** - no legitimate explanation visible in bank statements
 - Some payments labeled to Joy were actually for Lucy (e.g., £90 "Lucy Payment")
+- **Philippines payments = £3,525 total** via three routes (Remitly, Joy, Lucy) - **Lenny disclosed to Mark in February 2024 she was purchasing land in Philippines; no disclosure in Form E Section 2.10 (foreign property)**
 
 ---
 
