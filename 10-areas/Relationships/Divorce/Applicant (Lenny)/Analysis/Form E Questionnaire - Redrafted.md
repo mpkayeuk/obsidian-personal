@@ -10,6 +10,7 @@
 | **Critical** | Form E internal contradictions (1.8 vs 4.6) | Goes to credibility; she denies living with partner but completes partner disclosure section |
 | **Critical** | Missing housing costs in needs schedule | Her needs omit rent, utilities, food - suggests costs being met by third party; **undermines any claim to invade non-matrimonial assets for "needs"** |
 | **Critical** | Terry Thorne's income and contributions | Both declare exactly £27,000 income (suspicious); combined household income ~£54,000 yet needs schedule only £650/month |
+| **Critical** | Asymmetrical payments to/from Joylyn Gray | £13,502.77 out vs £1,780.62 in = £11,722.15 net out; suggests either (a) undisclosed assets held by Joy, (b) undisclosed debt to Joy, or (c) unexplained financial support |
 | **Critical** | Undisclosed assets (M&G, payments to Gray) | Affects capital position; £1,535 paid for "Citizenship" with only £200 returned |
 | **High** | Failure to demonstrate needs | Under *Standish*, non-matrimonial assets can only be invaded for demonstrated needs; she hasn't shown any |
 | **Medium** | Charlotte's savings account | £785 total payments; undisclosed child asset |
@@ -139,6 +140,30 @@ Please confirm, for each payment, whether it represents:
 (c) Income or remuneration; or
 (d) Reimbursement for specific expenditure (and if so, what).
 
+**6.2** Your bank statements show significant financial flows to and from Ms Joylyn Gray over the period February 2024 to November 2025:
+- **Total payments TO Ms Gray:** £13,502.77
+- **Total payments FROM Ms Gray:** £1,780.62
+- **Net outflow to Ms Gray:** £11,722.15
+
+Even excluding rent (£7,000) and food (£1,600), the net outflow to Ms Gray is £3,139.15.
+
+The payments include:
+- "Citizenship" payments totalling £1,535 (only £200 returned)
+- "Cash" payments totalling £450
+- "Cashpal" payments totalling £500 (£400 returned)
+- "Savings" payments totalling £300
+- Various other payments totalling £2,367.77
+
+Please confirm:
+(a) Whether Ms Gray is holding any cash, savings, or other assets on your behalf, and if so:
+    (i) The nature and current value of those assets;
+    (ii) Why these assets were not disclosed in Form E;
+(b) Whether you owe any money to Ms Gray, and if so:
+    (i) The amount owed;
+    (ii) The nature of the debt (loan, payment for goods/services, or other);
+    (iii) Why this liability was not disclosed at Section 2.14 of Form E;
+(c) If neither (a) nor (b) applies, please explain the nature of the net outflow of £11,722.15 to Ms Gray and provide documentation evidencing what goods, services, or other consideration you received in return.
+
 ---
 
 ### 7. State Benefits
@@ -181,6 +206,7 @@ Please provide the following documents:
 | 3.3 (Payments to Gray) | Expanded from £1,000 to £1,535 | Bank statements show three "Citizenship" payments: £500 (22 Apr), £35 (23 Apr), £1,000 (6 Jun) |
 | 5.1 (Payments from Gray) | Added references and 5 Sep payment | References show "Shopping", "Personal Expenses", "Loan", "Cashpal" |
 | 3.4 (Charlotte savings) | **NEW** | £785 total to "Ms C G Kaye" (14 × £25 "Savings" + £435 "Child Benefit") - undisclosed child asset |
+| 6.2 (Asymmetrical payments) | **NEW - CRITICAL** | Comprehensive analysis reveals £13,502.77 out vs £1,780.62 in = £11,722.15 net outflow; even excluding rent/food, net out is £3,139.15; suggests undisclosed assets held by Joy OR undisclosed debt to Joy |
 
 ### Questions Omitted and Reasons
 
@@ -214,6 +240,17 @@ Please provide the following documents:
    - Explain why she completed 4.6 if she's not
 
    Either answer advances your position.
+
+7. **The asymmetrical payments question (6.2) is the most powerful disclosure tool**: The net outflow of £11,722.15 to Joy demands explanation. This is not a normal financial pattern. She must explain:
+   - If Joy is holding assets for her → undisclosed assets in Form E
+   - If she owes Joy money → undisclosed liability in Form E
+   - If neither → what did she receive for £11,722 net outflow?
+
+   **She cannot answer this question without either:**
+   (a) Admitting Form E is materially incomplete, OR
+   (b) Providing documentation that will reveal her true financial position
+
+   Even excluding rent and food (£8,600), the net outflow of £3,139 has no obvious explanation from the bank statements. The "Citizenship" payments (£1,535 out, £200 back) are particularly suspicious.
 
 ---
 
