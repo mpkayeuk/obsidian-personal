@@ -20,7 +20,7 @@
 | **Apr 2025** | Applicant secures employment (£27k p.a.). |
 | **04 Jun 2025** | Applicant receives £1,912 undisclosed payment from "M+G Trustee". |
 | **13 Nov 2025** | Applicant moves to new property with Mr. Terry Thorne. |
-| **23 Dec 2025** | Applicant files Form E claiming **£0** for housing/food but admitting Mr. Thorne as occupant. |
+| **01 Dec 2025** | Applicant files sworn Form E disclosing **£0** for housing/food while disclosing co-occupant Mr. Thorne. |
 
 ---
 
