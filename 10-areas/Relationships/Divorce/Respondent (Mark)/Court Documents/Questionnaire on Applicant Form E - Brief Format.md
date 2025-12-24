@@ -17,7 +17,7 @@ a) The apparent inconsistency between the answer at Question 1.8 and the complet
 
 ---
 
-## As to Section 2.6 (Money Owed to You)
+## As to Section 2.6
 
 The Applicant states nil debts owed to her. Bank statements show payments to Ms Joylyn Gray totalling £1,535 referenced "Citizenship" (£500 on 22 April 2025, £35 on 23 April 2025, £1,000 on 6 June 2025). On 5 September 2025 a receipt of £200 from Ms Gray is shown referenced "Loan". The Applicant is asked to confirm:
 
@@ -26,7 +26,7 @@ b) Whether any balance remains outstanding.
 
 ---
 
-## As to Section 2.10 (Property Outside England and Wales)
+## As to Section 2.10
 
 The Applicant states nil property holdings outside England and Wales. Bank statements show payments totalling £3,524.79 to the Philippines via Remitly (£876.79), Ms Lucy Timog (£2,308.00), and Ms Joylyn Gray (£571.00) during August 2024 to October 2025. The Applicant is asked to confirm:
 
@@ -43,7 +43,7 @@ c) If the payments are family remittances only, confirm:
 
 ---
 
-## As to Section 2.4 (Investments) and Section 2.15 (Other Assets)
+## As to Section 2.4
 
 The Applicant states nil investments at Section 2.4 and nil other assets at Section 2.15. The Applicant is asked to confirm:
 
@@ -57,7 +57,7 @@ c) Whether she has received any dividends from shares held through such schemes 
 
 ---
 
-## As to Section 2.15 (Other Income/Assets/Benefits) - M&G Payment
+## As to Section 2.15
 
 Bank statements show a receipt of £1,912.47 from "M+G Trustee Comp" on 4 June 2025. This payment is not disclosed in the Form E. The Applicant is asked to confirm:
 
@@ -67,7 +67,7 @@ c) Whether the Applicant holds any continuing interest in an M&G investment, pen
 
 ---
 
-## As to Section 2.9 (Liabilities - Credit Cards)
+## As to Section 2.9
 
 The Applicant has disclosed credit card liabilities totalling £1,633.94 at Section 2.9. Barclaycard statements show monthly direct debit payments ranging from £850.68 to £1,236.67. The Applicant is asked to confirm:
 
@@ -76,7 +76,7 @@ b) What the current Barclaycard balance is.
 
 ---
 
-## As to Section 2.18 (State Benefits)
+## As to Section 2.18
 
 The Applicant has disclosed Universal Credit and Child Maintenance at Section 2.18. Bank statements show regular receipts of approximately £26.05 which appear to be Child Benefit. The Applicant is asked to confirm:
 
@@ -85,7 +85,7 @@ b) Provide Universal Credit award statements from September 2025 to date.
 
 ---
 
-## As to Section 3.1.1 (Current Housing - Evidence)
+## As to Section 3.1.1
 
 In relation to the Applicant's residence at 12A Newhaven Court, Cromer, the Applicant is requested to provide:
 
@@ -98,16 +98,16 @@ f) Internet and telephone bills showing named account holders.
 
 ---
 
-## As to Section 3.1.2 (Income Needs for Children)
+## As to Section 3.1.2
 
-The Applicant has stated future clothing costs for Charlotte of £110 per month. The Applicant is asked to provide:
+The Applicant has stated clothing costs for Charlotte of £110 per month. The Applicant is asked to provide:
 
 a) A breakdown of this expenditure showing what items are purchased monthly at this cost;
 b) Confirmation whether this figure represents actual monthly expenditure or an estimate.
 
 ---
 
-## As to Section 4.6 (New Partner's Financial Details)
+## As to Section 4.6
 
 The Applicant has disclosed Mr Terry Thorne residing at her address with income of £27,000 per annum (the same figure as the Applicant's declared salary). The Applicant is requested to provide:
 
@@ -138,11 +138,8 @@ c) Whether this sum is repayable by the Applicant.
 Bank statements show rent payments of £500 per month to Ms Joylyn Gray from February 2024 through October 2025 (totalling £7,000) and food payments of £200 per month from April 2025 through November 2025 (totalling £1,600).
 
 From April 2025 the "Food" charge appears as a separate payment. The Applicant is asked to confirm:
-
 a) Whether the rental arrangement with Ms Gray originally included food as part of the £500 monthly rent;
-
 b) If so, why food became a separate £200 monthly charge from April 2025 onwards;
-
 c) Whether this change coincided with any change in the rental arrangement or household composition.
 
 ---
