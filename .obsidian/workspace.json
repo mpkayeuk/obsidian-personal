@@ -171,45 +171,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "ee34171576f998f5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ca06f5a109011f72",
-        "type": "window",
-        "children": [
-          {
-            "id": "79da5db3f3c4db5f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b8068868780b13ef",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "10-areas/Relationships/Divorce/Applicant (Lenny)/Form E/Form_E_0123_save.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Form_E_0123_save"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2669,
-        "y": 242,
-        "width": 1024,
-        "height": 1378,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "50eed83c17744347",
+  "active": "091e432c47aea4ec",
   "lastOpenFiles": [
+    "10-areas/Relationships/Divorce/Respondent (Mark)/Court Documents/Form E Questionnaire.docx",
     "10-areas/Relationships/Divorce/Applicant (Lenny)/Form E/Form_E_0123_save.pdf",
     "10-areas/Relationships/Divorce/Respondent (Mark)/Court Documents/Questionnaire on Applicant Form E - Brief Format.md",
     "10-areas/Relationships/Divorce/Respondent (Mark)/Court Documents/Questionnaire on Applicant Form E - Court Format.md",
