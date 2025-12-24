@@ -36,8 +36,7 @@ b) If any portion relates to purchase or improvement of land or property in the 
 	(ii) The purchase price or total amount invested;
 	(iii) The current ownership arrangement (sole, joint, or held in trust);
 	(iv) The current market value;
-	(v) Any mortgage, loan, or other charges secured on the property;
-	(vi) Why this property was not disclosed at Section 2.10;
+	(v) Any mortgage, loan, or other charges secured on the property.
 c) If the payments are family remittances only, confirm:
 	(i) The recipients;
 	(ii) The reason for the substantial amounts (average £235/month over 15 months).
@@ -53,8 +52,7 @@ b) If so, provide details of:
 	(i) The name of the scheme;
 	(ii) The number of shares held or options granted;
 	(iii) The current value of any shares held;
-	(iv) The vesting dates and exercise prices of any options;
-	(v) Why this was not disclosed at Section 2.4 or Section 2.15;
+	(iv) The vesting dates and exercise prices of any options.
 c) Whether she has received any dividends from shares held through such schemes in the last 12 months.
 
 ---
@@ -83,16 +81,11 @@ b) What the current Barclaycard balance is.
 The Applicant has disclosed Universal Credit and Child Maintenance at Section 2.18. Bank statements show regular receipts of approximately £26.05 which appear to be Child Benefit. The Applicant is asked to confirm:
 
 a) Whether she receives Child Benefit and if so the monthly amount;
-b) Provide Universal Credit award statements from September 2025 to date;
+b) Provide Universal Credit award statements from September 2025 to date.
 
 ---
 
-## As to Section 3.1.1 (Income Needs)
-
-The Applicant has stated income needs of £650 per month comprising mobile phone, holidays, petrol, and car insurance. No provision is made for rent, council tax, utilities, food, groceries, internet, clothing, or household goods. The Applicant is asked to confirm:
-
-a) Whether the Applicant pays for rent, council tax, gas, electricity, water, food and groceries, internet, clothing, and household goods;
-b) If the Applicant does not pay for any of these items, state who meets these costs on her behalf.
+## As to Section 3.1.1 (Current Housing - Evidence)
 
 In relation to the Applicant's residence at 12A Newhaven Court, Cromer, the Applicant is requested to provide:
 
@@ -135,9 +128,7 @@ d) Confirmation of what contribution Mr Thorne makes to:
 Bank statements show no deposit, agency fee, or first month's rent payment in connection with the move to 12A Newhaven Court on or around 13 November 2024. The Applicant is asked to confirm:
 
 a) Who paid any deposit and first month's rent;
-
 b) The amount paid;
-
 c) Whether this sum is repayable by the Applicant.
 
 ---
