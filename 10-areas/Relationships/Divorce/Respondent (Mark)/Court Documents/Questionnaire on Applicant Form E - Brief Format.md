@@ -76,12 +76,7 @@ b) What the current Barclaycard balance is.
 The Applicant has disclosed Universal Credit and Child Maintenance at Section 2.18. Bank statements show regular receipts of approximately £26.05 which appear to be Child Benefit. The Applicant is asked to confirm:
 
 a) Whether she receives Child Benefit and if so the monthly amount;
-
-b) Why this was not disclosed at Section 2.18;
-
-c) Provide Universal Credit award statements from September 2025 to date;
-
-d) Provide the current UC award notice showing the household composition declared to the Department for Work and Pensions.
+b) Provide Universal Credit award statements from September 2025 to date;
 
 ---
 
@@ -90,24 +85,14 @@ d) Provide the current UC award notice showing the household composition declare
 The Applicant has stated income needs of £650 per month comprising mobile phone, holidays, petrol, and car insurance. No provision is made for rent, council tax, utilities, food, groceries, internet, clothing, or household goods. Given that Section 4.6 discloses a combined household income of approximately £54,000 per annum (£27,000 + £27,000), the Applicant is asked to confirm:
 
 a) Monthly expenditure on rent;
-
 b) Monthly expenditure on council tax;
-
 c) Monthly expenditure on gas and electricity;
-
 d) Monthly expenditure on water;
-
 e) Monthly expenditure on food and groceries;
-
 f) Monthly expenditure on internet and telephone;
-
 g) Monthly expenditure on clothing;
-
 h) Monthly expenditure on household goods;
-
-i) If the Applicant does not pay for any of these items, state who meets these costs and provide evidence;
-
-j) Why the needs schedule totals only £650 per month with no housing or essential living costs.
+i) If the Applicant does not pay for any of these items, state who meets these costs and provide evidence.
 
 ---
 
@@ -116,15 +101,10 @@ j) Why the needs schedule totals only £650 per month with no housing or essenti
 In relation to the Applicant's residence at 12A Newhaven Court, Cromer, the Applicant is requested to provide:
 
 a) Copy of the tenancy agreement;
-
 b) Confirmation of monthly rent payable and to whom it is paid;
-
 c) Confirmation whether a refundable deposit is held and if so the amount;
-
 d) Utility bills (gas, electricity, water) showing named account holders;
-
 e) Council tax demand showing named liable person(s);
-
 f) Internet and telephone bills showing named account holders.
 
 ---
