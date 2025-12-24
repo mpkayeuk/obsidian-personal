@@ -22,15 +22,13 @@ The extended length is necessary because the Applicant's Form E contains:
 2. Potentially significant undisclosed assets revealed by bank statements:
     • Payments to the Philippines totalling £3,524.79 (nil disclosed at Section 2.10)
     • Receipt from "M+G Trustee Comp" of £1,912.47 (nil disclosed - potential employee share scheme)
-    • Unexplained financial flows to Ms Joylyn Gray (net outflow £10,902.15)
+    • Unexplained payments to Ms Joylyn Gray totalling £3,122.15 net (excluding acknowledged rent and food)
 
-3. Incomplete needs disclosure - Section 3.1.1 declares needs of £650/month with no provision for rent, utilities, food, or other essential costs. This is material to the Standish v Standish [2024] EWCA Civ 567 needs assessment
+3. Undisclosed household income and resources - Section 4.6 discloses Mr Thorne's income as £27,000 pa requiring clarification of his contributions to household expenses
 
-4. Undisclosed household income and resources - Section 4.6 discloses Mr Thorne's income as £27,000 pa (combined household income ~£54,000) requiring clarification of his contributions to household expenses
+4. Other material omissions including Child Benefit (£1,456 pa), credit card payment pattern suggesting liabilities overstated by 42%, and payments to child's savings account
 
-5. Other material omissions including Child Benefit (£1,456 pa), credit card payment pattern suggesting liabilities overstated by 42%, and payments to child's savings account
-
-6. Standard disclosure documents outstanding (UC statements, tenancy agreement, utility bills)
+5. Standard disclosure documents outstanding (UC statements, tenancy agreement, utility bills)
 
 The Respondent is a litigant in person and has attempted to limit questions to material issues only. Each question addresses gaps or inconsistencies in the Applicant's Form E or transactions visible in her disclosed bank statements.
 
