@@ -7,6 +7,12 @@
 
 ## Tasks
 
+### Network tools (nstack)
+- [ ] **AdGuard Home sanity check**
+  - [ ] Confirm volume mappings:
+    - [ ] `.../config/adguard/work → /opt/adguardhome/work`
+    - [ ] `.../config/adguard/conf → /opt/adguardhome/conf`
+  - [ ] Confirm port exposure is intentional (DNS + UI)
 ### Media stacks (vstack/dstack)
 - [ ] **Move Jellyseerr from dstack → vstack**
   - [ ] Remove `jellyseerr` service from `media-server/dstack/docker-compose.yml`
@@ -29,13 +35,6 @@
 - [ ] **Homepage placement decision**
   - [ ] Decide: media-only dashboard (keep in dstack) vs general lab dashboard (move to nstack)
   - [ ] If using `/var/run/docker.sock`, treat Homepage as privileged; keep LAN-only or behind auth
-
-### Network tools (nstack)
-- [ ] **AdGuard Home sanity check**
-  - [ ] Confirm volume mappings:
-    - [ ] `.../config/adguard/work → /opt/adguardhome/work`
-    - [ ] `.../config/adguard/conf → /opt/adguardhome/conf`
-  - [ ] Confirm port exposure is intentional (DNS + UI)
 
 ### New: Document management
 - [ ] **Trial paperless-ngx**
