@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-02-06 - iMessage review (controlling, gatekeeping, comms)"
             }
-          },
-          {
-            "id": "a44ff28d21313cc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links"
             }
           },
           {
@@ -185,7 +168,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a334bfabfb996f0",
+  "active": "091e432c47aea4ec",
   "lastOpenFiles": [
     "10-areas/Relationships/Divorce/Applicant (Lenny)/2026-02-06 - iMessage review (controlling, gatekeeping, comms).md",
     "Test.md",
