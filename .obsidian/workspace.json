@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/Auto Note Mover Configuration.md",
+                "file": "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto Note Mover Configuration"
+              "title": "Greg LeMond"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-inbox/Auto Note Mover Configuration.md",
+                "file": "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Auto Note Mover Configuration"
+              "title": "Backlinks for Greg LeMond"
             }
           },
           {
@@ -171,6 +171,7 @@
   },
   "active": "17b35a01e4a2faef",
   "lastOpenFiles": [
+    "00-inbox/Auto Note Mover Configuration.md",
     "GEMINI.md",
     "README.md",
     "10-areas/Relationships/Divorce/Applicant (Lenny)/2026-02-06 - iMessage review (controlling, gatekeeping, comms).md",
@@ -207,7 +208,6 @@
     "10-areas/Relationships/Divorce/Applicant (Lenny)/Analysis/Form E Analysis.md",
     "20-projects/Home Assistant Configuration/Entity Naming Convention.md",
     "10-areas/Relationships/Divorce/Reference/Form E Questionnaire - Redrafted.md",
-    "10-areas/Relationships/Divorce/Reference/Form E Analysis.md",
-    "20-projects/Lottery Win Gameification/Claude Lifestyle Plan.md"
+    "10-areas/Relationships/Divorce/Reference/Form E Analysis.md"
   ]
 }
