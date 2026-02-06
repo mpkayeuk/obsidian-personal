@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.zoopla.co.uk)",
+      "WebSearch",
+      "WebFetch(domain:www.fineandcountry.co.uk)",
+      "Bash(unzip:*)",
+      "Bash(python3:*)",
+      "Bash(# Final cleanup of empty folders rmdir \"\"/Users/mark/notes/obsidian-personal/10-areas/Relationships/Divorce/Finances/Statements\"\" rmdir \"\"/Users/mark/notes/obsidian-personal/10-areas/Relationships/Divorce/Finances\"\" rmdir \"\"/Users/mark/notes/obsidian-personal/10-areas/Relationships/Divorce/Reference\"\" # Show final structure \\(directories only\\) echo \"\"=== FINAL FOLDER STRUCTURE ===\"\" find \"\"/Users/mark/notes/obsidian-personal/10-areas/Relationships/Divorce\"\" -type d)",
+      "Bash(find:*)"
+    ]
+  }
+}
