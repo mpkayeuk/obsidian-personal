@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Cambelt-Serpentine Belt replacement"
             }
+          },
+          {
+            "id": "c2d423609379ad31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-projects/Volvo V60/Cambelt-Serpentine Belt replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cambelt-Serpentine Belt replacement"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17b35a01e4a2faef",
+  "active": "c2d423609379ad31",
   "lastOpenFiles": [
     "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
     "20-projects/Volvo V60/Cambelt-Serpentine Belt replacement.md",
