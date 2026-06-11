@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "eb1d53463496a2f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2d423609379ad31",
+  "active": "eb1d53463496a2f4",
   "lastOpenFiles": [
     "10-areas/Hobbies and Interests/Cycling/Riders/Greg LeMond.md",
     "20-projects/Volvo V60/Cambelt-Serpentine Belt replacement.md",
